@@ -1,0 +1,6 @@
+= Relationships
+
+== References
+* https://ggia.berkeley.edu/practice/avoiding_the_four_horsemen_in_relationships[Avoiding The “Four Horsemen” in Relationships]
+* https://ggia.berkeley.edu/practice/making_an_effective_apology[Making an Effective Apology]
+* https://ggia.berkeley.edu/practice/resolve_conflict_at_work[Resolve Conflict at Work]

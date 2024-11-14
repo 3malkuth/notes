@@ -1,0 +1,82 @@
+=== Definition of Done
+
+==== Introduction
+Recently facilitated the development of a definition of done for a team as part of a team forming exercise.
+
+==== Background
+A team reached out to me to assist them in putting the right structures and processes in place as they started their journey together as a newly founded team.
+They had seen how helpful it had been for another team in their tribe to go through team forming as it helped to quickly establish some effective team processes
+based on scrum and establish norms and ways of working to help them effectively work as a team from the start.
+
+In one of the team forming sessions we focused on developing their definition of done (DoD).
+This experience report discusses how I facilitated the definition process, helping the team to define their DoD.
+
+==== Objectives
+The purpose of fulfilling the definition of done was to meet the following objectives...
+
+* Shared Understanding of Task Completion
+** The definition of done would help the entire team and relevant stakeholders to better understand what it meant for a task to be complete. This would help to remove ambiguity and avoid suprises when done PBI's are deployed to production.
+
+* Quality Assurance
+** The Dod would serve as a checklist to ensure that delivered items adhere to a certain level of quality
+
+* Transparency
+** The DoD would help everyone understand in what state a PBI is in, making it visible for all. This helps to manage expectations and removes the need for nonsensiacal discussions about whether or not something is really complete.
+
+* Continuous Improvement
+** If clearly defnined a DoD would provide the basis for continuos improvement. If updated and reviewed regularly, the DoD could emphasize areas of improvement the team is focusing on in their process.
+
+* User Satisfaction
+** Improve user satisfaction in that feature changes delivered would be less likely lead ot the intorduction of bugs in the system
+
+* Efficient Workflow & Technical Debt Prevention
+** Clear for all develoopers what need sot be done in order for a PBI to be considered complete. Accordingly, also preventing technical debt accumulation
+
+* Team Accountability
+** Team responsibility and ownership for the work delivered
+
+* Risk Mitigation
+** Less likely to have critical failures if the qualitative elements of the DoD are adhered to!It helps in mitigating risks associated with incomplete or low-quality work. By clearly defining what constitutes "done," the team reduces the chances of delivering incomplete or subpar features.
+
+==== Activities
+I created a digital board with a brief introduction to the ideas behind the definition of done.
+It also included 3 columns headed by the following titles: Ideas, Accepted DoD, and "Green Build".
+I faciliated a 45' workshop with members of the team where I:
+
+* Introduced the idea and value of developing a definition of done
+* Encouraged the team who come up with ideas for their definition of done and write them on digital post-its
+** These were placed under the heading "Ideas"
+* I then asked them to decide, as a team, on the items they would include now in their DoD and place the in the "Accepted DoD" column
+** It was made clear that this would now apply to all the Product Backlog Items being delivered by the team going forward
+* Subsequently, I asked them which of the accepted DoD items could be automated and integrated into the build.
+** These items were then added to the "Green Build" column if they had been automated and were a part of the build
+* Finally, we discussed the action items needed to be planned in order to put the DoD in place and automate the items they wanted to add to the Green Build section
+
+==== Challenges
+In general the process flowed smoothly; however, the challenge lies more in ensuring the DoD is adhered to over time.
+
+==== Results and Outcomes
+Though it is still too early to say, some of the the positive outcomes should be:
+
+* Team Alignment on knowing when a PBI is done
+* Transparency
+* Team Accuntability and Ownership of their quality processes
+
+==== Lessons Learned
+* In the future I would provide them with some pre-reading / videos to watch to prepare.
+* Always important that the whole team are their. Rather wait until people are back from sick leave.
+* Try and run these workshops in person if possible.
+
+==== Best Practices
+* First gathering as many ideas as possible and then only narrowing it down to what can be implemented now.
+* Defining a "Green Build" as part of the exercise
+
+==== Recommendations
+* It would be good to add the DoD as part of every retro allowing the team to consider updating it based on findings from their retros.
+
+==== Conclusion
+Overall this exercise was effective in allowing the team to first gather ideas (divergent thinking) and then narrowing it down to an initial DoD (convergent thinking) that would be implemented from the start. This exercise gave the team an opportunity to align around a collective understanding of "done" and quality.
+
+==== Acknowledgements
+* The Team I worked with on their DoD
+* All those who have coached me over the years

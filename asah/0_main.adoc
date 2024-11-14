@@ -1,0 +1,17 @@
+= Asah
+:pdf-title-page:
+:pdf-subtitle: Do your calling!
+:authors: Alexander Boden
+:revnumber: 1.0
+:revdate: 2024-09-23
+:author_2: Second Author
+:doctype: book
+
+<<<
+
+:toc:
+
+<<<
+include::mandate.adoc[]
+<<<
+include::vision.adoc[]

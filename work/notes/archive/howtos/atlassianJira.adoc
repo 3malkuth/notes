@@ -1,0 +1,31 @@
+= Atlassian Jira
+
+=== JQL
+----
+project = ?? AND issuetype != Epos ORDER BY Rang ASC
+project = ?? AND issuetype = Epic ORDER BY Rank ASC
+project = ?? AND issuetype != Epic ORDER BY Rank ASC
+----
+
+=== Screens
+You probably want to setup the default fields that are standard for all Issues
+
+* Settings (Cog)
+** Issues
+*** Screens
+
+You can change the "Default Screen" by configuring it and adding any field you think is useful.
+
+== Story Points
+Story Points aren't automatically added to Bugs in Jira.
+You need to add them separately.
+
+
+
+=== References
+* https://community.atlassian.com/t5/Jira-questions/How-to-include-story-point-field-for-bug-type-issues/qaq-p/271252[How to include Story Points for Bugs]
+
+== Plugins
+
+=== Structures
+* https://wiki.almworks.com/display/cloudgantt/[Structures.gantt]

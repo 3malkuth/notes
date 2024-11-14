@@ -1,0 +1,11 @@
+= Yeshua
+
+:toc:
+
+//include::opening.adoc[]
+//include::birth_childhood.adoc[]
+//include::3_cond_for_ministry.adoc[]
+//include::judea_samaria.adoc[]
+//include::beginnings_galilee.adoc[]
+//include::early_days_galilee.adoc[]
+include::2nd_phase_galilee.adoc[]

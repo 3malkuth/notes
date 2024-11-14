@@ -1,0 +1,8 @@
+= Component to Feature Teams
+* There is no alternative, but you can do it incrementally
+
+== Approach
+* Start with one Team
+* Expect the team to slow down
+* Bring in specialists as stakeholders for a team for duration of the project
+* Also do upskilling sprints where team has whole sprint to learn new skills - like learn sprint in safe

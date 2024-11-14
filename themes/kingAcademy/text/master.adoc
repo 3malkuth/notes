@@ -1,0 +1,27 @@
+= A University for Jesus
+//:doctype: book
+//:pdf-theme: pdf.yml
+:author: Gabriel Fire(c) 2021
+//:email:  email@example.com
+//:revnumber: 1.0.0
+//:revdate:   January 1st, 2021
+:doctype: book
+//:sectnums:
+//:title-page-background-image: image::sojourn1Cover.png[] 
+//:title-logo-image: image::keith-chan-GZ0gSVdegoA-unsplash.jpg[] 
+//:front-cover-image: image::keith-chan-GZ0gSVdegoA-unsplash.jpg[]
+:toc:
+:toclevels: 4
+:toc-title: Contents
+//:stylesheet: ubuntu.css
+
+//[preface]
+//include::about.adoc[]
+//include::preface.adoc[]
+
+include::0Introduction.adoc[]
+
+
+
+//Template
+// Reference: https://github.com/chrisdew/eBook-Template/blob/master/master.asciidoc

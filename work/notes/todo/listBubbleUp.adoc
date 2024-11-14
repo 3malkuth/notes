@@ -1,0 +1,15 @@
+= Bubble Up List
+* Instead of using a Kanban Board you can also use a bubble up list
+
+== Bubble-Up Configuration
+* Completed TODOs on Top
+** Or simply delete them
+* Then WIP
+* The Prioritised Backlog Underneath
+
+== Lava-Lamp Configuration
+* WIP on top
+* Prioritised Backlog underneath
+* Completed items right at the bottom (strike through line)
+** These could theoretically be slightly altered and put back into the backlog again for recurring items
+* Flows like a lava lamp

@@ -1,0 +1,7 @@
+== Strategy & Purpose
+
+include::introd.adoc[]
+include::why.adoc[]
+
+=== OKRs
+* Individual chapters with 4 equal signs

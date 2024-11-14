@@ -1,0 +1,77 @@
+=== Conflict Workshop: Experience Report
+
+==== Introduction
+In one of the teams I was coaching there was an ongoing pattern of unhealthy conflicts happening within the team and with a few people who were outside of the team, but worked closely with the team in the same domain.
+This experience report details how we prepared, and rolled out a 1-day conflict workshop with members of the team.
+
+==== Background
+The team I was coaching had unfortunately developed some bad habits aorund conflict.
+Instead of constructively addressing issues with each other, conflicts would suddenly escalate in PR comments and around certain topics in the team's slack channel.
+Unfortunately, one key "trouble maker" was an engineer external to the team, but who was a key stakeholder of the team's work had a nasty habit of checing the PR's of the team and making very blunt comments on the code.
+
+==== Objectives
+
+Help the team to:
+
+* Clear the air in a constructive way
+* Train the team in non-violent communication and other communication tools
+* Establish some norms for working together in order to establish psychological safety
+
+==== Activities
+Initially we met with representatives of the team to prepare the workshop, discussing the issues that needed to be addressed. Once this was clear we set about creating a plan on a miro board detailing the topics and schedule of the workshop. Once this was complete and agreed upon the team representatives went about communicating the plan to the team, organizing the workshop space, food etc. for the event.
+
+The workshop itself followed the following schedule:
+
+* Introduction (15')
+* Ice Breaker (15')
+* Communication Brainstorming (30')
+* Coffee (15')
+* Consensus (60')
+* Lunch (75')
+* Energizer (15')
+* Providing & Receiving Feedback (60')
+* Expectations Exercise (90')
+* Coffee (15')
+* Roles & Responsibilities (60')
+* Take-Aways & Feedback (30')
+
+At the end of the day myself and the team went out together for dinner to do some informal team bonding.
+
+==== Challenges
+* Maintaining focus in the discussions
+* Keeping to the time box
+* Collating the extensive input from the team
+
+==== Results and Outcomes
+* Cleared up past hurts from the conflicts
+* Better bonds and understanding within the team
+* Many action items that we built into a working agreement
+
+==== Lessons Learned
+* Make sure all involved parties are a part of the workshop
+** Rather re-schedule if thos involved are not able to make it
+* Provide more focused questions and timeboxing for the open conflict discussion phase
+
+==== Best Practices
+* The event should be:
+** Face-to-Face
+** Provide the space and the tools needed for visual interactions
+*** e.g. providing post-its and wall spaces
+** Prepare Flip Charts before hand so that you can focus on the discussions
+
+* Tools that are helpful are:
+** non-violent Communication
+** Consensing
+
+==== Recommendations
+* The team needs to regularly follow up on the topics and the working agreements in their retros
+* They should also run a regular engagement / team morale survey to see if the countermeasures are having an effect
+
+==== Conclusion
+Overall this exercise was really helpful in clearing the air and bringing the team together
+and providing them guidelines for interacting in a way that creates psychological safety.
+
+==== Acknowledgements
+* The Team I worked with on their DoD
+* All those who have coached me over the years
+ 

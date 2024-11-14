@@ -1,0 +1,42 @@
+== Definition of Done
+
+The Definition of Done (DoD) is a shared understanding of what it means for a piece of work to be considered complete. This ensures that all team members and stakeholders have a clear and consistent understanding of the quality and completeness required for deliverables.
+
+=== General Criteria
+
+* Code is written and adheres to the team's coding standards.
+* Code is reviewed by at least one other team member.
+* All unit tests are written and pass successfully.
+* Integration tests are completed and pass.
+* Documentation is updated (e.g., README, API documentation).
+* User stories are updated with acceptance criteria.
+
+=== Specific Criteria
+* For new features:
+  * Feature is implemented according to the specifications.
+  * User interface is tested for usability.
+  * Accessibility standards are met.
+
+* For bug fixes:
+  * The bug is verified as fixed.
+  * Regression tests are performed to ensure no new issues are introduced.
+
+=== Deployment Criteria
+* Code is merged into the main branch.
+* Build is successful and passes all automated tests.
+* Deployment to staging environment is completed.
+* Deployment to production is completed, if applicable.
+
+=== Review and Retrospective
+* The work is demonstrated in the sprint review.
+* Feedback is collected and documented for future improvements.
+
+=== Green Build
+* project builds successfully
+* All automated tests pass
+
+=== DoD Backlog of Ideas
+* ...
+* ...
+* ...
+

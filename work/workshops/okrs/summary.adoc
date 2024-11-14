@@ -1,0 +1,31 @@
+==== Summary
+
+===== Notes
+
+
+===== Script
+I think we have all struggled at some time or another to decide on what takes priority in our lives or what task we should do first.
+In this day and age where we have so many options and distractions it's difficult to chart your course towards your desired future.
+One of the skills one will need to master to reach your dreams is that of effectively setting goals, working towards them and tracking your progress.
+
+Why do we need goals?i
+
+The question has always been do we want to allow life to happen to us or for us to shape the outcome of our lives in some manner?
+About being proactive or reactive.
+
+
+In this video series we are going to look at a goal setting framework that has helped the likes of google and intel to beomce competitive and effective organizations on the world stage.
+Of course we are talking about OKRs or Objective Key-Results.
+
+So what are OKRs?
+
+OKRs, which stands for Objectives and Key Results, is a goal-setting methodology that has been adopted by organizations such as Google, LinkedIn, and X (Twitter).
+The concept of OKRs revolves around setting objectives and defining key results to measure progress towards those objectives.
+
+An objective represents what you want to achieve, while key results are measurable outcomes that indicate progress or success.
+For example, if your objective is to increase user engagement, key results could include metrics such as the number of active users or the average time spent on your platform.
+
+The power of OKRs lies in their simplicity and clarity.
+They provide a framework for setting ambitious yet achievable goals and aligning teams towards a common purpose.
+By implementing OKRs, organizations can foster focus, unity, and velocity in their pursuit of success.
+

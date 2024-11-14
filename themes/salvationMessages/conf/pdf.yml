@@ -1,0 +1,15 @@
+extends: default-with-fallback-font
+font:
+  catalog:
+    merge: true
+    Roboto:
+      normal: roboto-unhinted/Roboto-Regular.ttf
+      italic: roboto-unhinted/Roboto-Italic.ttf
+      bold:   roboto-unhinted/Roboto-Bold.ttf
+      bold_italic: roboto-unhinted/Roboto-BoldItalic.ttf
+  fallbacks: [ M+ 1p, Roboto ]    
+heading:
+  font-family: Roboto
+base:
+  font-family: Roboto
+  font-size: 12

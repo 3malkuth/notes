@@ -1,0 +1,4 @@
+= Sketch Notes
+
+== References
+* https://cogneon.github.io/lernos-sketchnoting/en/0400_Sketchnote_Learning_Path/

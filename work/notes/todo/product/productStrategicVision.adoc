@@ -1,0 +1,16 @@
+= Product Startegic Vision
+
+* Provides the North Star
+* Helps people to say yes and no to initiatives, opoortunities etc.
+
+== Users
+
+== Needs
+* Needs are stable, features omce and go
+* Translate needs into bullet points which are the basis for initial product backlog
+
+== Strategy
+
+== Business Case
+
+== Competition

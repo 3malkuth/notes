@@ -1,0 +1,14 @@
+= "The Goal" Notes
+
+* The main goal of every company is to make money
+* There are 3 main metrics that help us understand if the company is making money:
+** Net Profit
+** ROI
+** Cash Flow
+* For a manufacturing company these metrics are converted into the following key metrics:
+* Throughput
+**
+* Inventory
+**
+* Operational Expense
+**

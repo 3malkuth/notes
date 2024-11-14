@@ -1,0 +1,67 @@
+= Scrum
+
+== Scrum Patterns from "A Scrum Book"
+* https://scrumbook.org/
+
+
+== Goal of Teams
+* Max. flow of "DONE" work (DoD)
+* Increase team performance step by step - long term
+* Team work in a sustainable and enriching way
+* Accelerate the customer feedback cycle
+
+== Why?
+* Software Project Management in the last 3 decades did not provide the structures that software development projects needed.
+* These projects are complex adaptive systems in their nature and thus they cannot be controlled in the same way one would https://en.wikipedia.org/wiki/Cynefin_framework[control obvious or complicated systems].
+
+== What?
+* A process framework for addressing:
+** https://en.wikipedia.org/wiki/Complex_adaptive_system[Complex adaptive] problems
+*** "In complex adaptive systems, the whole is more complex than its parts, and more complicated and meaningful than the aggregate of its parts"
+** Whilst ensuring the delivery of the highest quality products
+* Framework for Complex Products:
+** Developing
+** Delivering
+** Sustaining
+* Scrum is not a pattern, technique, process, or definitive method
+* You use a variety of processes and techniques within the framework of Scrum
+* Scrum helps you to see how effective your methods etc. are so that you can implement continuous improvement.
+
+== Who (Audience)?
+* Originally created for developing and managing product
+
+== How?
+
+=== Scrum Theory
+* Based on Empirical Process Control
+** Knowledge is obtained from experience and deciding based on measureable facts
+* 3 Aspects are key to Empirical Process Control
+** Transparency
+*** People responsible for the outcome of the work need to be able to see the important parts of the process
+*** Common Standards so that everyone involved knows they are talking about the same thing and also know when an aspect of the product is "done"
+** Inspection
+*** A good balance between observing / measuring progress towards sprint goals etc. without the inspection process getting in the way of the work being done
+** Adaption
+***
+
+
+== Meetings
+
+=== Review
+* Only show whats done - team mustn't justify whats not done
+
+=== Retro
+* Always start with team happiness (scale 1 - 5)
+* Focus on small set of focused changes so that you can see what worked and what didn't
+* Esther Derby - 5 Stage Framework for Retros
+* Retromat.org - generates retrospective plan for you
+* Run as an A3 Kaizen workshop
+* Print out scrum patterns or do short sessions on patterns and INVITE THEM (gaming) in retro to adopt one pattern this sprint
+
+
+== Product Backlog
+* Best to keep one type - user stories
+* Stories can be the size of initiatives and epics and then break down over time into smaller stories, but same type
+* If you cannot use sticky's use a google spreadsheet - best tool
+* Backlog should not contain everything, but only enough info for the next release or quarter
+* It's OK to keep information in other systems or archive

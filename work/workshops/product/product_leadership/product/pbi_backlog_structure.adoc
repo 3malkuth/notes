@@ -1,0 +1,48 @@
+= Product Backlog Items
+
+== Introduction
+
+
+== Options
+
+=== OKR
+* *Board*
+** Kanban
+** Unless you define a sprint as a quarter
+
+=== Initiative (A3)
+* *Board*
+** Kanban
+** Unless you define a sprint as a quarter
+
+* *Duration*
+** Not longer than 3 - 6 Months, preferably 3 Months
+
+* *Description*
+** An initiative should be structured as an A3 with a business case / budget
+
+=== Epic
+* *Board*
+** Kanban
+** Unless you define a sprint as a quarter
+* *Duration*
+** Not smaller than a sprint and not bigger than 2 - 3 Iterations
+** Or 2 - 6 Weeks
+* *Description*
+** System Functionality that delivers end-to-end complete business value
+** Fulfills stakeholder needs without them feeling they are only working with a MMF
+* 
+
+== Sprint PBI: Spike
+* *Duration*
+** Timeboxed to 1 - 2 Days
+
+== Sprint PBI: Story
+
+
+== Sprint PBI: Task
+
+== Sprint PBI: Bug
+
+== Sub-Task
+

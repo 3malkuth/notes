@@ -1,0 +1,104 @@
+=== Understanding Group's Context and Needs: During Facilitation
+
+
+==== Creating a facilitation Plan
+1. Purpose and Objectives:
+--Overall Purpose: Why is the session being held?
+--Specific Objectives: What outcomes or decisions should be reached by the
+end?
+
+2. Agenda:
+-- Timeline: A session outline from start to finish with time allocations for each section.
+-- Activities: Detailed descriptions of each activity, including its purpose and
+instructions.
+
+3. Roles and Responsibilities:
+-- Facilitator's Role: A description of the facilitator's role during the session.
+-- Participants' Roles: Expectations for participants, which could include
+specific roles like timekeeper, note-taker, etc.
+
+4. Tools and Techniques:
+-- List and description of facilitation methods, techniques, or frameworks to be
+used.
+-- Needed materials or equipment for each activity, e.g., flip charts, post-it
+notes, voting dots.
+
+5. Ground Rules or Norms:
+-- Guidelines for behaviour and interaction during the session, e.g., one person
+speaks at a time, all phones are on silent, etc.
+
+6. Logistics:
+-- Location: Address and directions to the venue.
+-- Room Setup: Arrangement of chairs, tables, and equipment.
+-- Materials: List of necessary materials such as markers, handouts, and tech
+equipment.
+
+7. Stakeholder or Participant Analysis:
+-- Information about the participants: their backgrounds, expectations, potential concerns, and level of knowledge about the topic.
+-- Possible dynamics or conflicts to be aware of.
+
+8. Contingency Plans:
+-- Plan B scenarios for potential challenges, such as time overruns, unexpected
+conflicts, or technical issues.
+
+9. Evaluation and Feedback:
+-- Mechanisms to gather participant feedback, e.g., surveys, feedback forms,
+or open discussions.
+-- Criteria for measuring the success of the session.
+
+10. Follow-up Actions:
+-- Steps to be taken after the session include sending out notes, action items or
+scheduling a follow-up meeting.
+
+11. Documentation and Record-Keeping:
+-- Plans for documenting the session's proceedings, decisions, and any other
+relevant information.
+
+12. Supporting Materials:
+-- Any handouts, slides, reading materials, or resources to be provided to
+participants either before, during, or after the session.
+
+==== Ethical Facilitation
+
+1. Neutrality:
+--Facilitators should remain impartial, avoiding personal biases or opinions from influencing the process.
+-- People should have an option to not do something (don't manipulate)
+-- Open Space Agility - mismatch between management and value system of agile
+--- Get them to figure out how they are going setup teams etc. (drive engagement)
+
+2. Confidentiality:
+-- Respect participants' privacy by keeping discussions confidential unless otherwise agreed upon.
+-- What happens in vegas stays in vegas
+
+3. Inclusivity:
+--Ensure that all voices are heard and all participants have an equal opportunity to contribute.
+-- Also remember people with disabilities (acoustic)
+
+4. Transparency:
+-- Be open about the facilitation process, methods, and potential conflicts of interest.
+-- Why and what we are doing (that should be sufficient)
+--- The why is super important!!!
+-- Refinement is more strategic
+-- Planning is tactical
+
+5. Honesty:
+-- Always provide accurate information and correct any misconceptions or errors promptly.
+--- Honesty, trust, respect circle
+
+6. Respect:
+-- Value and consider all contributions and handle disagreements with sensitivity.
+
+7. Empowerment:
+-- Focus on empowering participants to make decisions rather than influencing outcomes.
+
+8. Commitment to Safety:
+-- Prioritise the emotional and physical safety of participants, ensuring a respectful environment.
+-- Psychological Safety
+
+9. Professional Development:
+-- Strive for continuous improvement and stay updated with the latest facilitation techniques and ethics.
+
+10. Accountability:
+-- Take responsibility for one's actions as a facilitator and be open to feedback.
+
+

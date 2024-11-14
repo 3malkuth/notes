@@ -1,0 +1,96 @@
+=== Swarming - Mob / Ensemble / Team Work
+
+==== Introduction
+
+===== What is it?
+
+Essentially mob programming entails:
+* Single PBI / Task
+* Single keyboard, screen, mouse, computer
+* 1 x Driver, Many Navigators
+
+> Mob programming is a software development approach where
+> the whole team works on the same thing,
+> at the same time,
+> in the same space,
+> and at the same computer.
+> -- Woody Zuill
+
+===== Why?
+This helps us to practically implement the “Swarming Pattern”
+People working together on a problem have been shown to be faster, overall, if you look at the results of the entire team (systemic level) and not of the performance of each individual (local level).
+
+Benefits include:
+* Coordination problems tend to disappear very quickly
+** Communication and Learning Increases
+* Code quality tends to increase
+* Capacity to create increases
+* Teams happier and more cohesive
+* No need for...
+** Daily's if done full time
+** Pull requests & Code Reviews
+** Handovers before vacation
+** Social therapy if people are living and working from home alone
+
+===== Names
+There are several names given to this form of work where a team / group of people work on one task and on one computer together, they include:
+* Mob
+* Ensemble
+* Team
+
+In this article I will use the common name: MOB
+to describe this type of programming 
+
+==== Preperation & Setup
+
+===== Agile Team Process
+It is helpful if your team is already practicing:
+* Test First
+* Effective Retrospectives
+* Tracking Process efficiency & other relevant Metrics
+
+===== Office
+* Comfort is important
+* Can have 2 keyboards and mice to have variation
+
+
+==== Approaches
+
+===== Mob Work
+When a team / group of people decide to do mob programming
+This is not directly related to programming, but more of an approach to workign in general.
+Instead of having meetings about work that needs to be done, a group / team of people can simply collaborate on a task and get it done together.
+In some cases this can really speed up the process of getting a task done
+
+
+
+===== Driver-Navigators
+
+===== Ping-Ponging
+
+===== Strong Styling
+
+==== Important Ways of Working
+
+===== Kindness, Consideration, Respect
+Learn to confront in a respectful, considerate and kind way
+
+===== Time-boxing
+Like any focused work you do, you should consider
+
+===== Messages
+Have regular breaks between your timeboxed sessions to check messages.
+
+===== Retrospectives with Actions
+Arrange retrospectives as needed to improve your approach to mob programming.
+Try and avoid too many action items and focus only on one or two action items.
+
+
+
+==== References
+* https://www.agilealliance.org/resources/experience-reports/mob-programming-agile2014/#:~:text=We%20work%20this%20way%20because,how%20we%20want%20to%20work.
+* https://tech-talks.code-maven.com/mob-programming-a-whole-team-approach.html
+* https://www.youtube.com/channel/UCgt1lVMrdwlZKBaerxxp2iQ
+* https://en.wikipedia.org/wiki/Team_programming
+* https://stephan-bester.medium.com/ensemble-programming-c9a4212cd1f2
+* https://www.youtube.com/watch?v=SHOVVnRB4h0

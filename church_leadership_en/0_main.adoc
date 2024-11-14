@@ -1,0 +1,16 @@
+= Church Leadership: A Biblical Study on Church Leadership
+include::../config/header.adoc[]
+
+
+<<<
+
+include::introduction.adoc[]
+
+<<<
+
+include::women_in_leadership.adoc[]
+
+<<<
+
+include::conclusion.adoc[]
+

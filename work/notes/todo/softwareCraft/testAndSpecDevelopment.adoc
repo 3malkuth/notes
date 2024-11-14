@@ -1,0 +1,6 @@
+= Test Spec Driven Development
+
+== Media
+* https://www.youtube.com/watch?v=4cVZvoFGJTU[Michael Feathers - the deep synergy between testability and good design]
+* https://vimeo.com/80533536[J.B. Rainsberger - Integrated Tests Are A Scam]
+

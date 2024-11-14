@@ -1,0 +1,91 @@
+= Scaling Agile Simply
+
+== Introduction
+Many people have tried to find good ways of scaling agile.
+Some have used extensive frameworks such as SAFe.
+Others have used approaches that seek to scale scrum by using srum on top of scrum e.g. less.
+Others have started to play with the idea of breaking down long term teams.
+Others are looking at developing a pattern language e.g. Unfix.
+I want to provide you with a method I have successfully used that is extremely simple and light weight and is driven by the teams themselves, we can call it the "simple" framework.
+
+== Assumptions / Prerequisites
+All systems  have boundaries or constraints that make them work.
+In our case we have the following assumptions that are necessary to make this work.
+
+== Roles
+* Meeting Facilitator
+* Scribe
+
+== Values & Principles
+* All teams and vendors are required to prioritize work related to the group over other work
+** At least set aside dedicated time for a work item where all parties involved can work on it ar the same time
+
+== Events
+
+== Iterations
+* Time-Boxed cadence for collaboration
+* Usually 1 - 2 weeks
+
+=== Alignment Event
+This event is the key scaling event.
+It has 3 phases: REVIEW, RETRO, and PLAN.
+This event usually takes one hour, but can be extended to 2 hours.
+I would not exceed 4 hours.
+Refining scaled artifacts can be done as part of the PLAN phase, but can be done seperately according to your needs.
+The typical flow of this event is as follows:
+* REVIEW
+** Review the action items / artifacts that were completed
+** Quickly review the items that weren't done and use them as input for the next phase
+* RETRO
+** Quickly discuss what went well and what could be improved in your collaboration
+** Write down ideas for improving your collaboration
+** Write down decisions that were made
+* PLAN
+* Write down the Items that need to be collaborated on and ideas for improving your collaboration
+* Plan them into a list of items you all commit to finish over the next iteration
+
+
+=== Weekly / Daily Event (Optional)
+* 
+
+== Artifacts
+There only needs to be 2 main artifacts in order for this collaboration to work.
+Some will argue you only need the first one, but I find it helpful to keep a running record of what was said and discussed. and thus the second artifact is also helpful.
+
+=== Whiteboard with Task Management Tool Integration
+*
+
+=== Cloud Editable Doc
+Use a cloud editable document to cover the following per meeting:
+
+* Review
+** Review action items delivered from the previous interval
+* Retro / Discussion & Notes
+* Decisions
+* Action Items
+
+== Benefits & Opportunities
+* Visibility
+* 
+
+== How about external teams / Vendors?
+Many teams often have to work with 3rd party vendor integrations.
+One of the mistakes that is often made is that people don't spend time specifying how you plan to work together in the contract.
+Contractually, vendors should be required...
+* to join the bi-weekly scaled event
+* to prioritize and work on the work related to the collaboration first
+
+== OKRs
+* Make sure these are set at a higher level
+** Set at a level where the impact is easy to measure
+** This will also encourage teams to align as they will share OKRs
+* Be careful of using OKRs to map dependencies
+* Rather use delivery artifacts and your tooling to map the dependency at a epic or story level
+* Leaders need to be regularly aligning around what is the most important work to be done to reach the OKRs
+** This will help Product & Development Leaders to focus on the most important work to be done in the scaling events.
+
+== What about dynamic needs
+* We should encourage teams to swarm around the important work related to the dependency
+** This should be the most important work to be done as set by the OKRs
+* If the team is swarming, 1 or 2 people could drop off to work bugs, dynamic dependencies...
+

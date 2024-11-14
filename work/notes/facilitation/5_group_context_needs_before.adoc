@@ -1,0 +1,9 @@
+=== Understanding Group's Context and Needs
+
+- Purpose and Outcomes
+-- Purpose: The foundational reason for holding a session. It answers the 'why' and provides direction, ensuring participants understand the session's importance and remain engaged.
+-- Outcomes: These represent the specific goals or results anticipated from the session. Having clear outcomes provides a roadmap, helping keep the session on track and ensuring the intended objectives are achieved.
+By establishing a clear purpose and setting defined outcomes, facilitators can effectively
+steer discussions and activities, ensuring that meetings are both purposeful and productive.
+
+

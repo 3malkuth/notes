@@ -1,0 +1,38 @@
+=== OKRs
+
+
+
+==== History
+The history of goal setting!
+Goal setting has been a part of human life as long as recorded history.
+However, the first attempt to formalise and understand it can be related to Aristotle himself (https://en.wikipedia.org/wiki/Goal_setting[Goal Setting]).
+
+Why do we need goals?
+The question has always been do we want to allow life to happen to us or for us to shape the outcome of our lives in some manner?
+About being proactive or reactive.
+
+What are OKRs?
+OKRs, which stands for Objectives and Key Results, is a goal-setting methodology that has been adopted by organizations such as Google, LinkedIn, and X (Twitter).
+The concept of OKRs revolves around setting objectives and defining key results to measure progress towards those objectives.
+
+An objective represents what you want to achieve, while key results are measurable outcomes that indicate progress or success.
+For example, if your objective is to increase user engagement, key results could include metrics such as the number of active users or the average time spent on your platform.
+
+The power of OKRs lies in their simplicity and clarity.
+They provide a framework for setting ambitious yet achievable goals and aligning teams towards a common purpose.
+By implementing OKRs, organizations can foster focus, unity, and velocity in their pursuit of success.
+
+==== History of Goal Setting in Detail
+* https://en.wikipedia.org/wiki/Goal_setting
+* Auftragstaktiek
+* Look at Book Kudernatsch
+
+
+==== Patterns
+* *Stay in the Problem Space*
+** Avoid articulating objectives and key results in the solution space; stay in the problem space! For example...
+*** Problem Space
+**** Key result: Users will be able to save 5 minutes uploading data
+*** Solution Space
+**** Upload Button in menu view is delivered
+

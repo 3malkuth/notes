@@ -1,0 +1,15 @@
+= Incubating Businesses
+* Stop investing  seeking for unicorns
+** The Startup model is lacking the thing that made google powerful (adding some grey hairs)
+** Research shows that successful small businesses are started by people on average at the age of 42 with the number rising to 45 for higher growth ventures
+* Starting a successful business needs:
+** Life and Industry experience
+** Established Network
+** Capital Base
+*** This can be resolved with seed money, but what about the other two?
+*** You need some grey hairs
+* More focus on scaling camels...
+
+
+== References
+* https://ventureburn.com/2020/10/we-should-be-funding-camels-not-hunting-unicorns-opinion/[We should be funding camels, not hunting unicorns]

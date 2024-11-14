@@ -1,0 +1,7 @@
+@startuml
+Anna -> Sam: First Authentication Request
+Sam --> Anna: First Authentication Response
+
+Anna -> Sam: Another authentication Request
+Anna <-- Sam: Another authentication Response
+@enduml

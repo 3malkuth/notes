@@ -1,0 +1,78 @@
+== User Needs Workshop: The Empathy Map Challenge
+:author: [Your Name]
+:date: [Date]
+:duration: 1 hour
+
+=== Objective
+The goal of this workshop is to help the team identify and understand the needs of their users through a creative and interactive activity using empathy mapping.
+
+=== Agenda
+
+1. Introduction to User Needs and Empathy Mapping (5 minutes)
+2. Empathy Map Creation (15 minutes)
+3. The "Day in the Life" Scenario Challenge (25 minutes)
+4. Sharing and Discussion (10 minutes)
+5. Final Reflection and Wrap-Up (5 minutes)
+
+=== Preparation
+- **Materials**: Large sheets of paper or whiteboards, markers, sticky notes, and printed empathy map templates (one per group).
+- **Participants**: Product Owner, Stakeholders, and Development Team.
+- **Room Setup**: Arrange the room so teams can work together around tables or whiteboards.
+
+=== 1. Introduction to User Needs and Empathy Mapping (5 minutes)
+- **Purpose**: Briefly introduce the concept of user needs and the importance of understanding them.
+- **Talking Points**:
+  - Identifying user needs is crucial for creating a product that solves real problems.
+  - Today, we'll use empathy mapping—a tool that helps us see the world from our users' perspective.
+  - Roman Pichler’s Product Vision Board highlights the importance of deeply understanding user needs as a foundation for product success.
+
+* ***Key Points***
+** Which problem does the product solve?
+** What benefit does it provide?
+** Customer Goals
+
+=== 2. Empathy Map Creation (15 minutes)
+- **Purpose**: Get participants to think about their users in a holistic way.
+- **Activity**: Create empathy maps for key user personas.
+
+- **Instructions**:
+  - Divide the participants into small groups, each focusing on a different key user persona.
+  - Provide each group with an empathy map template. The map has sections for what the user *Thinks*, *Feels*, *Sees*, *Hears*, *Says and Does*, and their *Pains* and *Gains*.
+  - Ask the groups to fill in each section based on their understanding of the user. Encourage them to consider the user’s environment, challenges, and desires.
+
+=== 3. The "Day in the Life" Scenario Challenge (25 minutes)
+- **Purpose**: Deepen understanding of user needs by immersing the team in the user's daily experience.
+- **Activity**: Create and role-play a "Day in the Life" scenario for the user.
+
+- **Instructions**:
+  - Each group creates a detailed "Day in the Life" scenario for their user persona.
+  - The scenario should cover the user’s daily routine, focusing on moments where they might encounter challenges, frustrations, or opportunities related to the product.
+  - After crafting the scenario (10 minutes), one person from each group acts as the user, narrating their day while other group members note down specific needs, pain points, and potential product features that could help.
+  - Encourage creativity—use props or dramatize the scenario to make it more engaging.
+
+- **Example Questions to Guide the Scenario**:
+  - What is the first thing your user does when they wake up?
+  - Where do they encounter frustrations or unmet needs?
+  - How does your product fit into their daily life? Does it solve a problem, or could it solve one?
+
+=== 4. Sharing and Discussion (10 minutes)
+- **Purpose**: Share insights and refine the understanding of user needs.
+- **Activity**: Group presentations and feedback.
+
+- **Instructions**:
+  - Each group shares their "Day in the Life" scenario and the key user needs they identified.
+  - Encourage other groups to ask questions and provide feedback, helping to refine the understanding of user needs.
+
+=== 5. Final Reflection and Wrap-Up (5 minutes)
+- **Purpose**: Summarize the key learnings and discuss next steps.
+- **Activity**: Group reflection.
+
+- **Steps**:
+  - Reflect on the insights gained from the empathy maps and the "Day in the Life" scenarios.
+  - Discuss how these identified needs will influence the product’s development.
+  - Conclude by reiterating the importance of keeping user needs at the heart of product decisions.
+
+=== Follow-Up
+- **Document User Needs**: Ensure the identified user needs are documented and shared with the team.
+- **Integrate into Product Strategy**: Use these insights to inform the product vision, strategy, and roadmap.
+

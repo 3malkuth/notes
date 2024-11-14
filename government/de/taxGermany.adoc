@@ -1,0 +1,8 @@
+= Tax in Germany
+
+== Shares & Stocks
+* https://www.wertpapier-forum.de/topic/58549-steuerbescheinigung-degiro-2019/
+
+Google mal nach Ausfüllhilfe Anlage KAP. Damit erschlägst du schon einiges. Wenn du Kapitaleinkünfte über dem Freibetrag hast, wird noch die Anrechnung von ausländischer Quellsteuer für dich relevant. Diese ist von Land zu Land unterschiedlich. Dazu musst du dir vom BZSt einfache die Länderübersicht der anrechenbaren Quellensteuer ansehen.
+
+Als Kapitalerträge bezeichnet man unter anderem Zinsen, Dividenden sowie Gewinne aus Aktien und Fondsverkäufen. Singles steht für alle Kapitaleinkünfte eines Jahres auf allen Depots und Konten ein persönlicher Freibetrag von 801 Euro zu; bei Ehepaaren sind es 1.602 Euro.

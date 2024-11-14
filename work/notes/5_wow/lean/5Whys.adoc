@@ -1,0 +1,5 @@
+=== 5 Why's
+
+==== References
+* https://www.youtube.com/watch?v=SrlYkx41wEE[The 5 Whys - Lean Problem Solving]
+* https://www.youtube.com/watch?v=ZopXZ-7eUbg[5 mal Warum]

@@ -1,0 +1,136 @@
+=== Management 3.0 - Feedback
+
+== Background: Why are we talking about this problem?
+* Giving feedback isn't easy in any context
+* How do I give feedback in an authentic way without starting unecessary conflict?
+
+== Delta Definition
+=== Current State: Where are we?
+* Feedback is either...
+** Not given for fear of offence
+** Or given poorly and aggressively
+
+=== Future State: Where do we want to be?
+* Able to give feedback in a non-aggressive, building up way
+** That builds people upa nd helps them to improve
+** Without breaking them down
+** Helping the person to learn
+** Also inspiring them and not de-motivating them
+
+== Analysis: Why does the gap exist?
+
+=== Theme
+
+==== Countermeasures (Options)
+
+* *Feedback Wrap* - Currently a good solution
+** Describe your context
+** List your observations
+** Express your emotions
+** Sort Needs By Value
+** End with suggestions
+
+== Act: What's the Plan?
+[ ] What (Who, By When)
+[x] _
+
+== Impact: Review What effect did our actions have?
+* Review metrics in light of Delta
+
+== Learn: What was learned (Retro) & do we need to change standards?
+* Don't use the feedback praise sandwich
+** Seems unauthentic
+
+==== Appendix A: Notes
+
+==== Background
+* A key statement from the Agile Manifesto
+** Build projects around motivated individuals.
+** Give them the environment and support they need,
+** and trust them to get the job done.
+
+==== Current State: What often happens...
+* C-Level Managers provide strategic direction
+** Allow the organization to figure out how
+* Middle Management ensure teams have what they need to get the job done in the way they decided to do it
+** Goal: Remove Middle Management
+** Greater organizational agility removes the need for this role
+* Teams in effective organizations don’t need protection from the organization
+
+* Idea of performance reviews as feedback is based on command & control management
+* Usually managers control teams through bonuses & raises
+** Behaviorist thinking
+* Give rewards to reinforce the desired behaviour and punish people by withholding or actively punishing people if they don’t comply
+
+* This thinking is not aligned with autonomous self-managing teams!
+** Performance reviews not aligned with the agile culture
+
+* What are typical questions people ask that initiate “Feedback Processes” usually?
+** How do we set salaries?
+** How do we reward “top performers?”
+
+* Dangers!
+* Local Optimization
+** local optimization—improving the performance of one part of a larger system—doesn’t work
+** That’s a basic principle of the Theory of Constraints (described in The Goal and The Phoenix Project—both are essential reading).”
+* Systemic View
+** A the team level, what matters is the speed of the entire team!
+** Top performers tend to slow down the team because people end up waiting for that person to finish critical work before they can move forward with their own
+** These people become bottlenecks who slow down the team (system)
+** The speed of the system can’t go faster than the bottleneck
+
+* Underperformers?
+** Tech firms don’t hire uneducated, unmotivated, underachievers
+** “Underperformance” is not inherent
+** These problems are solved by…
+*** Training
+*** Getting “juniors” to work on challenging tasks
+** Not by!
+*** Punishing people
+*** Low Bonuses
+*** Pay cuts
+** The team knows…
+*** who needs help
+** Individual reviews are unnecessary!
+
+* What to do with talent?
+** Mentor
+** Teach
+** Rewarding the entire team, you motivate top performers to help the team get better
+** Otherwise
+*** Competitive Environment
+*** Silos (Local Optimization)
+*** Top performers will guard their territory
+
+==== Options / Tools
+* Spotify Model
+** Create a matrix of criteria together
+*** (From the CEO to the intern)
+** Fill out your matrix for yourself
+** Team Reviews and adjusts together
+** If your get a top score you can get a top salary
+** Lowest salaries are determined by what a competitor would pay you to get you to join them
+
+* If you have to… (Keep the Old Approach)
+** If you still have a management structure and a company culture more conservative and less prone to change,
+*** one could focus on feedback as a continuous process…
+**** in the context of the whole team where it is assumed the manager is “hands on” and working daily with the team(s)
+** What’s the problem with this approach?
+*** Individuals aren’t perfect and rewarding individually will ultimately undermine the team effectiveness
+
+* Praise Sandwich
+** Praising something about the person you are addressing (positive feedback)
+** Pointing out the behaviors-or-results-that-need-improvement (negative feedback)
+** Followed by another friendly message to wrap it all up (positive feedback)
+** Rather don’t use this…
+**** People dislike the praise sandwich because they feel that...
+***** Valuable feedback doesn't need to be offered between two insincere compliments
+***** And medicine in the middle may go unnoticed if the person only focuses on the praise given
+
+* Feedback Wrap
+** Describe your context
+** List your observations
+** Express your feelings
+** Explain the goal / value of the change you desire
+** Offer some suggestions on how this goal could be reached
+

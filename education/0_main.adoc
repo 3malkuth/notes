@@ -1,0 +1,25 @@
+= Education: A kingdom approach
+:pdf-title-page:
+:pdf-subtitle: My Subtitle
+:authors: tripattern.com
+//:revnumber: 1.0
+//:revdate: 2024-09-23
+//:author_2: Second Author
+:doctype: book
+:toc:
+:toc-title: Table of Contents
+:toclevels: 6
+//:page-background-image: image:title_image.jpg[fit=cover]
+
+<<<
+include::overview.adoc[]
+<<<
+include::awe_lord.adoc[]
+
+image:title_image.jpg[fit=cover]
+
+== Last Chapter
+some text...
+
+//<<<
+

@@ -1,0 +1,4 @@
+== Business, Product, Project Management
+
+* Business / Operations are responsible for the WHY (Capability)
+* Product / Project Management is responsible for the WHAT

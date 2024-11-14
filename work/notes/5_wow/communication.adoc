@@ -1,0 +1,26 @@
+=== Communication
+
+==== O.R.E.O Formula - Harvard Writing
+The *O.R.E.O. formula* is a mnemonic used to organize thoughts and structure persuasive writing. It stands for:
+
+* *Opinion*:
+** State your opinion or position on the issue you are writing about.
+* *Reasons*:
+** Provide reasons or evidence to support your opinion.
+* *Explanation*:
+** Explain each reason in detail, providing examples or further explanation.
+* *Opinion*:
+** Restate your opinion, summarizing the main points and reinforcing your position.
+
+The O.R.E.O. formula helps writers present their arguments in a clear and logical manner, making it easier for readers to understand and follow the writer’s perspective.
+
+“O stands for Opinion; tell how you feel about the topic. R stands for Reasons; tell your readers why you feel this way. E stands for Explanations; give your readers examples of why you feel this way. O stands for Opinion; tell readers one more time about your opinion and feelings.” https://www.writingclassroom.org/wp-content/uploads/2019/08/HowToUseOREOConceptMap.docx.pdf[Ho to use the OREO concept map]
+
+This method is often taught to students as a way to structure persuasive essays and speeches, but it can be applied to various forms of persuasive writing.
+
+Please note that the O.R.E.O. formula is not exclusive to Harvard writing but can be used as a general framework for organizing persuasive arguments.
+
+==== References
+* https://prezi.com/s19enuitiphz/oreo-method-of-persuasive-writing/
+* https://www.writingclassroom.org/wp-content/uploads/2019/08/HowToUseOREOConceptMap.docx.pdf
+* https://www.goodreads.com/notes/62893048-the-secret-of-harvard-writing/16618618-gijs-limonard/a663423a-5458-4633-96d4-a3528772356a

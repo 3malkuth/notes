@@ -1,0 +1,94 @@
+= High Performing Agile Teams with GenAI
+
+https://www.designcouncil.org.uk/our-resources/framework-for-innovation/
+----
+Discover. The first diamond helps people understand, rather than simply assume, what the problem is. It involves speaking to and spending time with people who are affected by the issues.
+
+Define. The insight gathered from the discovery phase can help you to define the challenge in a different way.
+
+Develop. The second diamond encourages people to give different answers to the clearly defined problem, seeking inspiration from elsewhere and co-designing with a range of different people.  
+
+Deliver. Delivery involves testing out different solutions at small-scale, rejecting those that will not work and improving the ones that will.
+----
+
+== Discovery
+* Product Owners using GenAI to do quick mock ups
+** e.g. figma mockups
+*** https://www.youtube.com/watch?v=hjzHusey0_4
+
+* Scientific experimentation
+** https://sakana.ai/evolutionary-model-merge/
+
+== Product Vision & Strategy
+
+== Product Roadmap
+
+== Product Backlog
+
+== Create Stories with acceptance tests
+
+== Development
+
+* Give chatgpt some context
+** As a...
+** I want to...
+** So that I can...
+** we want to develop the app in a test driven approach
+* Ask chatgpt to start with a test list
+** Feedback the test list starts with too many big steps
+*** We ask ChatGPT to break it down into smaller steps
+* Create first unit test and using the following module name (python)
+** Create associated implementation code
+* Run code in IDE
+** If there are errors, feedback the errors into ChatGPT
+** if it cannot fix the code, you need to do it and post back into chatgpt
+* Learnings
+** You got to do baby steps with ChatGPT as the LLM starts to hallucinate very quickly
+*** Be careful ChatGPT can also do some very sketchy mocking to make its code work
+
+* https://martinfowler.com/articles/exploring-gen-ai.html
+* https://martinfowler.com/articles/2023-chatgpt-xu-hao.html
+* https://martinfowler.com/tags/generative%20AI.html
+
+== Debugging / Refactoring
+* CodeGPT
+** Tell to use your own hosted AI
+** Can tell it to refactor specific code
+** You need to trigger it
+** Don't have the context of the whole repository
+* Tabi - habe nicht so gut funkz.
+** Lokal Hosted - zu langsam
+
+* TODO
+** https://www.theregister.com/2024/08/18/self_hosted_github_copilot/
+** https://tabby.tabbyml.com/
+** Copilot test with codespaces
+** IntelliJ - Jetbrains AI assist
+** Create your own AI helper tool
+
+== Creating test / demo environment??
+
+== Use GenAI to get insghts from feedback data
+* When you launch a product increment and get feedback data (test, image etc.)
+* Feed into the LLM and see if there are insights it gets for you
+* Clean up the data and reformat for processing / visualization
+* https://cloud.google.com/vertex-ai/docs/training-overview?hl=de
+* https://cloud.google.com/vertex-ai?hl=de
+
+
+== Technical Documentation
+* https://martinfowler.com/articles/2023-chatgpt-tech-writing.html
+* https://martinfowler.com/articles/2023-tech-author-portrait.html
+
+== Reviews
+* Ask ChatGPT to prepare the content / slide deck for a demo for you
+** Also ask to create visuals / pictures if need to be to improve the design
+
+== Future
+* Devin.AI
+** AI developer that builds, measures, learns
+* LLM's doing science
+** https://sakana.ai/evolutionary-model-merge/
+* LLM's are not creative
+** It's a tool not a human replacement yet
+* We haven't reached AGI yet

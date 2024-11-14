@@ -1,0 +1,42 @@
+= Project Highlights
+
+== Hellofresh
+Worked with the VP's of 2 Alliances and the Chief of Staff to the CTO
+to radically establish Agile Practices within the Supply Chain Management Tech Teams.
+This included activities such as:
+* Trained 2 Alliances in Scrum & Agile Methods & Ways of Working
+* Built and established scaled agile processes
+* Jointly prepared and rolled out an internal agile training workshop for the whole of HelloTech
+
+== Ceyoniq
+Initiated and rolled out an Agile transformation.
+Trained C-level executives in OKRs, agile methods and practices
+Trained the Scrum Master Team to take over the Agile Transformation
+
+== Hermes
+Initiated and rolled out an Agile transoformation.
+Trained C-level executives in OKRs, agile methods and practices
+Coached the Scrum Master Team to take over the Agile Transformation
+Trained and implemented OKRs in the logistics quality team
+
+== Careem (Uber)
+Trained Scrum Masters
+Facilitated lean coffee's for Developers, Scrum Masters and Product Owners
+Setup rooms specifically for planning, refinement, and retrospectives
+Built an agile strategy presentation for the Tech Leads outlining the roadmap for the continuation of the agile transformation
+
+== Diamant Software
+Coached the SAFe Scrum Masters and Product Owners
+Implemented the A3 process
+Scrum MAster for several teams
+
+== dicomdrop.com
+Product Owner for a key part of the initial rollout of the product
+
+== free2talk
+Built a working MVP using Java, Asterisk, Linux and other opensource technologies
+
+== Startups in South Africa
+Technical Leader & Product Owner for 2 startups that were successfully exited (bought by larger companies)
+
+

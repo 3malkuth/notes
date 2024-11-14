@@ -1,0 +1,34 @@
+== Team Coaching Assessment: Team Morale
+
+=== Format of the Survey
+* Please answer the following questions as truthfully as possible.
+* Don't be afraid to answer from your "gut" - this is what we are looking for... (Reference: Agile Teams: Don’t use happiness metrics, measure Team Morale)
+* Each statement, by default, can be answered by choosing a value on a linear scale between 0 and 10, where:
+** 0 means “Not at all!”
+** 10 means “Absolutely!” or "I fully agree!"
+* Participants can choose where they feel the team is currently situated on the scale
+
+=== Statements
+* I am delighted by the work I do for my team and organization.
+* The work I do for my team is meaningful and purposeful.
+* I am proud of the work I do as part of the team.
+* Our team work is challenging.
+* Work with my team energizes me! I am bursting with energy at work!
+* I feel fit & strong and ready to engage myself in my work.
+* I quickly recover from team setbacks.
+* I can sustain my team's, and my current pace of work for a very long time.
+* I am able to align my needs and aspirations with the organization allowing me to be authentically myself and bring my best to work.
+* I am willing  to invest the time and I have the energy / motivation to learn new things and adapt my ways of working accordingly.
+
+=== Original Questions
+* I am enthusiastic about the work that I do for my team
+* I find the work that I do for my team of meaning and purpose
+* I am proud of the work that I do for my team
+* To me, the work that I do for my team is challenging
+* In my team, I feel bursting with energy
+* In my team, I feel fit and strong
+* In my team, I quickly recover from setbacks
+* In my team, I can keep going for a long time
+
+=== References
+* https://medium.com/the-liberators/agile-teams-dont-use-happiness-metrics-measure-team-morale-3050b339d8af[Agile Teams: Don’t use happiness metrics, measure Team Morale]

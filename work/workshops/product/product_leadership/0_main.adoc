@@ -1,0 +1,6 @@
+= Mastering Product Leadership: A Strategic Approach
+
+[abstract]
+Welcome to our e-learning course on mastering product leadership. Today, we're diving into the dynamic world of product management, where preparing, launching, and maintaining products is an ever-evolving challenge.
+
+include...

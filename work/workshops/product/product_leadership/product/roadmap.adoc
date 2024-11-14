@@ -1,0 +1,42 @@
+==== Product Roadmap
+
+* *Introduction - Why are we talking about this topic?*
+* Example - Roadtrip
+** You can have a clear vision of the future and a good strategy
+** But won't guarantee success!
+** You need to describe the journey you want to take the product on
+** Develop and actionable plan to deliver the strategy
+*** ... you need a roadmap
+
+* *What is a Roadmap?*
+** Vividly describes how a product will grow and develop over time
+** Step by Step
+** Time-Scale
+
+* *Benefits*
+** *Benefit - Continuity of Purpose*
+*** Continuity of Purpose beyond the next few features releases or iterations
+*** Common time frame is 12 Months
+** *Strategy Implementation*
+*** How the product strategy will be implemented
+*** Bridges the gap between strategy and execution  
+** *Aligns Stakeholders and Development Teams*
+*** Ensuring we all move in the same direction e.g. sales and development
+** *Simplifies the Backlog*
+*** Directs / Unburdens the Backlog with long term detail
+** *Development Budget*
+*** Helps you acquire one
+** *Strategic Decisions Tool*
+*** Over time may become your main tool for making strategic decisions
+
+* *Anti-Agile?*
+** It is neither, depends how you use it...
+** Stop using feature based roadmaps and focus on goal oriented roadmaps
+*** Rather outcome based roadmaps that don't say when a feature will be available
+**** But describes the specific benefits a product should create
+** Involve the key stakeholders and developers in updating the plan
+*** People feel they have a say and are involved in the process
+*** More likely to have a realistic plan that flows at a sustainable pace
+** Ensure the Backlog and Roadmap are kept in Sync
+
+

@@ -1,0 +1,3 @@
+== Adaptable & Resilient Governance
+* We need to move away from trying to build the perfect system and instead build structures and systems that are adaptable and resilient: able to change easily and can handle difficult circumstances.
+

@@ -1,0 +1,31 @@
+= My Slide Deck
+:pdf-page-layout: landscape
+:pdf-page-size: A4
+:pdf-theme: ./theme.yml
+include::../config/header.adoc[]
+:stylesheet: ./custom_theme.css
+
+<<<
+
+[.slide1]
+== Slide 1: Introduction
+* Welcome to my presentation!
+* Not more than 4 points per page
+* One more!
+* And another!
+
+<<<
+
+
+== Slide 2: Overview
+
+[.slide2]
+* *Some text...*
+* Point 1
+* Point 2
+* Point 3
+
+[.slide3]
+== Slide 3: Conclusion
+
+Thank you for your attention!

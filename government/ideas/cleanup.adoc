@@ -1,0 +1,4 @@
+= Cleanup
+* [ ] AR - past datng
+* [ ] Md - plaster job
+* [ ] Ditch google etc.

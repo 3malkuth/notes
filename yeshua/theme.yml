@@ -1,0 +1,114 @@
+# theme.yml for Asciidoctor PDF with Arial Font and Heading Styles
+
+extends: default
+
+# Page Layout
+page:
+  layout: portrait
+  size: A4
+    
+# Define font families
+font:
+  catalog:
+    Arial:
+      normal: /usr/share/fonts/truetype/msttcorefonts/Arial.ttf
+      bold: /usr/share/fonts/truetype/msttcorefonts/Arial_Bold.ttf
+      italic: /usr/share/fonts/truetype/msttcorefonts/Arial_Italic.ttf
+      bold_italic: /usr/share/fonts/truetype/msttcorefonts/Arial_Bold_Italic.ttf
+  fallbacks: [Arial]
+
+# Title and Subtitle Styling
+title:
+  align: center
+  font_family: Arial
+  font_size: 26
+  font_color: 000000  # Black color
+  font_style: bold
+  line_height: 1.2
+
+subtitle:
+  font_family: Arial
+  font_size: 20
+  font_color: 333333  # Dark grey
+  font_style: italic
+  align: center
+  line_height: 1.2
+
+# Table of contents styling (optional)
+toc:
+  font_family: Arial
+  font_size: 12
+  font_color: 000000
+  heading:
+    font_size: 16
+    font_style: bold
+    align: left
+
+# Heading 1
+heading_h1:
+  font_family: Arial
+  font_size: 22
+  font_color: 000000  # Black
+  font_style: bold
+  align: left
+  line_height: 1.3
+  margin_top: 30
+  margin_bottom: 10
+
+# Heading 2
+heading_h2:
+  font_family: Arial
+  font_size: 18
+  font_color: 000000  # Black
+  font_style: bold
+  align: left
+  line_height: 1.3
+  margin_top: 25
+  margin_bottom: 10
+
+# Heading 3
+heading_h3:
+  font_family: Arial
+  font_size: 16
+  font_color: 000000  # Black
+  font_style: bold
+  align: left
+  line_height: 1.3
+  margin_top: 20
+  margin_bottom: 8
+
+# Heading 4
+heading_h4:
+  font_family: Arial
+  font_size: 14
+  font_color: 000000  # Black
+  font_style: bold
+  align: left
+  line_height: 1.3
+  margin_top: 15
+  margin_bottom: 6
+
+# Body text settings
+base:
+  font_family: Arial
+  font_size: 12
+  font_color: 000000
+  line_height: 1.5
+
+
+# List Styling
+list:
+  bullet:
+    font_family: Arial
+    font_size: 12
+    font_color: 000000
+    bullet_color: 000000
+    bullet_size: 0.6em
+
+  ordered:
+    font_family: Arial
+    font_size: 12
+    font_color: 000000
+    number_color: 000000
+    number_size: 0.6em
+

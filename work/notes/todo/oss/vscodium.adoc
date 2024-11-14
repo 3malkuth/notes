@@ -1,0 +1,15 @@
+= VS Codium
+
+* https://vscodium.com/[Website]
+* https://github.com/VSCodium/vscodium[Github Site]
+
+== Extensions
+* https://github.com/asciidoctor/asciidoctor-vscode[AsciiDoctor]
+* https://github.com/janisdd/vscode-edit-csv[Edit CSV]
+
+== Shortcut Keys
+* Open Terminal
+** **Ctrl + Shft + `**
+
+== Build & Install Extension from Source Code
+* https://github.com/asciidoctor/asciidoctor-vscode#build-and-install-from-source/[Example from AsciiDoctor]

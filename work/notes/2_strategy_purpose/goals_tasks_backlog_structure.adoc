@@ -1,0 +1,23 @@
+=== Goals & Tasks Backlog Structure
+
+==== Introduction
+To be honest I wasn't quiter sure what to name this chapter.
+Every new project / task framework that comes along tries to come up with a new name for goals and tasks.
+Accordingly, I have tried to keep it simple.
+I am wanting to provide a simple scaleable option for organizations to systematize their goals setting, tracking and execution in a way that is simple, cleanr ans scaleable.
+
+==== The Structure
+With all the teams / organizations I have worked with you shouldn't need more than the following list of itmes
+
+* SMART Goals
+* Initiatives / Projects
+* Epics / Full Features
+* Story, Task, Bug
+* Sub-Tasks
+
+==== SMART Goals
+Some argue goals don't belong on the backlog of items to be done.
+I would agree if you try to frame them as tasks.
+Nevertheless, it is helpful to track a list of goals that are in progress and those which are ideas that exist in a backlog.
+
+

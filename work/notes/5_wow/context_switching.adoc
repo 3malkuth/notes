@@ -1,0 +1,25 @@
+=== Context Switching
+
+==== Introduction
+
+Elon Musk is reported to have said that, https://www.forbes.com/sites/johnbbrandon/2021/02/03/elon-musk-made-one-very-profound-statement-during-his-infamous-clubhouse-chat/[“Fear is not the mind-killer, context switching is the mind-killer...”]
+
+Context switching is something we all do, all the time these days as we jump from one app to the next checking messages, replying, creating and reading content.
+
+However some say that this actually isn't so bad.
+
+What are the issues, who is right? These are some things I want to explore in this article.
+
+==== What is Context Switching?
+
+==== Why is it bad?
+* Every time we context switch it takes on average 23' 15'' to get back into the original task we were doing
+
+==== What are the benefits?
+
+==== The real issue with context switching...
+* Our rate of context switching - once every hour is OK
+* Nature of the task being done
+
+==== References
+* https://lifehacker.com/how-long-it-takes-to-get-back-on-track-after-a-distract-1720708353

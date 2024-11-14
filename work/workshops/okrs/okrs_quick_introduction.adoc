@@ -1,0 +1,281 @@
+==== OKRS Quick Introduction
+
+===== Introduction
+
+* *Why do we need Goals?*
+** Proactive or Reactive?
+** We desire to birth dreams into reality
+** To align a group of people in their work / combined activities
+
+* *Goals Management System*
+
+* *“Ideas are easy. Execution is everything.”*
+** John Doerr
+
+* *What are OKRs?*
+** Simple Measureable Goal Statement
+** Stands for Objective Key Results
+** Ambitious
+** Measureable
+*** Though not new, many people forget this aspect when settings goals
+
+* *Example*
+** I will...
+** AS measured by...
+** Climb a Mountain
+** Got to Mars
+** Lose weight
+
+===== History
+
+* *How do you defeat Napoleon?*
+** Mission Command - “Auftragstaktik”
+** 1800’s - von Moltke (after Jena)
+** How do you defeat Napoleon?
+** Faster decision making at every level…
+** Prussian soldiers - students of critical thinking
+** Curriculum expanded beyond military matters into the liberal arts
+*** Every class provided opportunities for discussion and debate.
+** Created a culture where Superiors were challenged
+** Leaders should only say “what”
+*** Not "how"!
+
+* *Timeline - Development of Management Systems* 
+** 1800's - Auftragstaktiek (von Moltke)
+** 1950's - Management by Objectives (Peter Drucker)
+** 1960's - Hoshin Kanri (Japan)
+** 1970's - Intel (Andy Grove)
+*** Operation Crush
+*** Where John Doerr learnt to use OKRs
+** 1990's - Balanced Scorecard (Robert Kaplan / Norton)
+** 1999 - John Doerr introduces OKRs to Google
+*** Google adopted it throughout the organization
+*** Now they are being used all over the World in various organizations and industries
+
+===== So OKR's are & aren’t new…
+
+* *SMART Goals - Peter Drucker*
+** S - Specific
+*** Objectives you can measure through key results
+** M - Measurable
+*** Key Results cover this!
+** A - Achievable
+*** Yes & No! They need to be ambitious
+** R - Relevant
+*** Passion
+** T - Time Bound
+*** Often bound to a quarter
+** https://www.mindtools.com/pages/article/smart-goals.htm
+
+* *What's different is the approach & culture*
+** Focus on self management / leadership
+** Set collaboratively and not top down
+
+* *OKRs vs. MbO*
+* Top Down
+* Company Goals are sum of individual goals
+* Goals cascade down
+* Target Agreement Meetings
+** “You need to sell €X… by the end of the year!”
+** Can lead to silo, individualist thinking
+* Often Bureaucratic Procedures
+* Lots of Admin!
+
+* *OKRs vs. KPI's*
+** OKRs
+*** Aggressive goals and steps to get there…
+*** About reaching  new “heights”
+**** or putting something new in place
+*** Challenge your team / organization to achieve “moon shots”
+*** Change Oriented
+*** Provide direction and goals around which your team can align
+*** Use OKRs to lead…
+*** What to accomplish
+*** And how to get there
+** KPI's
+*** Performance Metrics of people, organization, systems etc.
+*** Typically obtainable
+*** Represent output of system already in place
+*** Don’t necessarily provide context and…
+**** Purpose
+**** Path
+**** Progress
+
+===== But what makes OKRs special?
+
+* *Culture eats strategy for breakfast!*
+** You need the right culture in order for OKRs to work
+** We need a "Powerful People" Culture
+** It's all about the right culture!
+
+* *Speed & Resilience of Trust*
+
+* *Grow & Support an “Experimental” Culture*
+
+* *Train Model*
+
+* *No Silver Bullet!*
+** Doesn't replace...
+*** Sound Judgement
+*** Strong Leadership
+*** Creative Workplace Culture
+
+
+===== Characteristics of OKR's
+* *Motivational Tool Quote*
+** Important, Optimize, Tradeoffs
+* *Focus Quote*
+* *Ambitious*
+** Need courage, often goals are uncomfortable
+* *Measureable*
+** Focus on impact
+** Make them easy to measure numerically
+** (Google uses a scale of 0 - 1.0, but use what’s appropriate!)
+* *Key Results can build on each other...*
+* *Open & Transparent*
+** See what everyone is working on!
+** Make it easily accessible
+*** On the wall next to the team
+*** Single Miro Board for all Teams?
+* *Good Results: 60%-70%*
+* *Use low grades as data*
+* Low grades are data that help refine the next OKRs
+** Iterative changes, like a spiral staircase move us upward!
+* *Not an employee evaluation tool*
+* *Not a shared todo list*
+
+===== OKR superpowers needed to succeed!
+
+* *1. Focus & Commitment*
+** Discipline & Prioritization
+** Difficult to say “no” to a good idea
+** When everyone has agreed to a goal, saying no doesn’t become a political debate
+** But a response to a commitment everyone has made
+
+* *2. Align & Connect for Teamwork*
+** Once the organization has a clear focus & how it will measure success
+** Easier for teams and individuals to align their work around these goals
+** Use key results as objectives for specific teams or individuals
+** Cascade as much as you need to!
+** Two important questions to setup a system of shared objectives
+** Where do we want to go?
+** This gives us the objective
+** How will we pace ourselves and monitor our progress on the way to our destination?
+** This will provide the key results
+** Reference: High Output Management (Andy Grove)
+
+* *3. Track for Accountability*
+** OKRs should be public in the organization
+** Everyone should know what the goals are in the organization
+** Regularly meet to discuss progress
+** These meetings also help to find out if the goals still make sense
+
+* *4. Stretch for Amazing*
+** Just beyond the reach of what’s possible
+** Seems dangerous
+** Are we setting ourselves up for failure?
+** HOWEVER
+** Big goals attract the best people and create exciting places to work
+** You often have amazing progress even if you don’t quite reach your goals
+** What’s the key?
+** Understanding and communicating stretch goals
+** Thresholds of success
+** Google aims for at least 70%, 100% is amazing
+** Stretch goals are the foundation for long term “moonshots”
+
+===== Putting OKRs to Work
+
+* *Start with the Business Strategy Canvas or Product Vision Board*
+** Set LOALS's or MOAL's - Long Term / Mid-Term
+*** Set a basket of metrics
+
+* *Set Objectives for the next Quarter*
+** First Create a List and Prioritize
+** Pick a maximum of the 3 prioritized objectives
+*** More leads to over-extended teams and diffusion of effort
+** Avoid expressions that don’t push for new successes
+*** E.g. keep doing X, maintain market position…
+** Use expressions that convey endpoints and states
+** Use tangible, objective, and unambiguous terms
+*** Should be obvious for a casual observer whether an objective has been reached or not
+
+* *Define Key Results for each Objective*
+** 3 Key Results per Objective
+** Measurable milestones which directly advance the objective
+** Describe outcomes, not activities
+** Evidence of Completion should be:
+*** Available
+*** Credible
+*** Discoverable
+
+* *Yearly Flow*
+** At the start of the Year...
+** Review previous years MOALs
+** Run a Retrospective for Kaizen
+*** Continuous Improvement
+** Set Yearly SMART Goals
+** At the start of the Quarter
+*** Review Quarter’s OKRs
+*** Run a Retrospective
+*** Plan the next Quarter’s OKRs
+*** 2 - 4 Hour Session(s)
+
+* *Use in conjunction with other systems*
+
+* *Option of a large agile / PDCA process*
+
+* *Team OKRs*
+** Organization OKRs first
+** How many levels (per division, business units etc.)
+** Mix of Organizational and Team Objectives with at least one link
+** Questions
+*** Alignment between team and org. priorities?
+*** Organization more likely to succeed due to team OKRs?
+*** Items missing that rest of org. Thinks this team should be working on?
+*** More than three priorities?
+
+===== OKR Anti-Patterns
+
+* *Not spending time on the culture*
+** Looking just to implement the process
+
+* *Miscommunicating stretch goals*
+** Especially if you have interdependent teams
+
+* *Business as usual OKRs*
+** Watch value versus effort of Backlog - push for high value & effort
+
+* *Sandbagging*
+** Teams that easily reach goals without using everyone in their teams (hoarding resources)
+
+* *Low-value objectives*
+
+* *Perfect vs. Set of Metrics*
+
+* *Insufficient key results for objectives*
+** Cause delays of both the discovery of the resource requirements as well as the discovery that the objective will not be completed on schedule
+
+
+===== Prioritizing OKRs
+
+* *Impact versus Effort Matrix*
+
+* *Amongst Others*
+** RICE
+** WSJF
+** ...
+
+===== Implementing OKRs with A3
+* *Step from Goal setting to implementation…*
+** Helps you to really understand the issue and a structured approach to addressing it
+
+* *A3 Template*
+** An A3 encompasses an OKR
+
+* *Works well with an agile process*
+** A3 feeds well into a scrum process
+
+===== TODO
+
+* *OKRs don't need Cadence*?
+

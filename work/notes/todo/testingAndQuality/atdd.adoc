@@ -1,0 +1,22 @@
+= ATDD
+
+== What problem does ATDD solve?
+* Ensures clarity around the definition of done for a PBI
+* Helps people to focus on the goal or value that the PBI will bring to the end user
+** Instead of randomly developing code the tests focus the development process avoiding over-engineering
+* Helps to catch potential problematic edge cases up front in the development cycle so that you avoid "ping-pong" with QA / Testing once the item has been developed
+** Building https://en.wikipedia.org/wiki/Poka-yoke[Poka-yoke] into the development of the software
+
+== My Custom Process
+* PO informs team that there is a new PBI that needs to be articulated in the Team's Daily
+** Asks team who can join for a Short Meeting tomorrow after the Daily
+** 3 Amigo's
+*** PO needs a tester and Developer
+* PO writes the basic use case or description in a PBI
+* PO Sends link to Story, Bug, Task before the Meeting
+* Everyone involved in the meeting needs to read the description and any other context information before the meeting
+* PO Ensures the meeting does not exceed 30'
+* Meeting flow
+** 5' - Short discussion around the context and goal of the PBI
+** 15' - Discuss possible test cases
+** 10' - Prioritize acceptance test cases and add them to the PBI

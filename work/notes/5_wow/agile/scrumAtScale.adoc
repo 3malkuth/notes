@@ -1,0 +1,131 @@
+= Scrum at Scale
+* Discipline is not control
+* Minimize decision latency
+
+
+== Definition
+
+[quote, The Scrum At Scale® Guide]
+____
+Scrum@Scale is a lightweight organizational framework in which a network of teams operating consistently with the Scrum Guide can address complex adaptive problems, while creatively delivering products of the highest possible value. These “products” may be physical, digital, complex integrated systems, processes, services, etc.
+____
+
+== The Components of Scrum@Scale
+
+=== Values-Driven Culture
+* Aim: healthy organizational culture
+* How? Through these pillars:
+** Empirical Process Control
+*** Transparency
+*** Inspection
+*** Adaption
+** Scrum Values
+*** Openness
+*** Courage
+*** Focus
+*** Respect
+*** Commitment
+
+S@S helps Orgs thrive:
+* Foundations for developing a Positive team learning environment
+* Structures for working at Sustainable Pace
+* Places Customer value at the forefront
+
+=== Getting Started
+* Use Causal Loop digrams - systems thinking
+* Do a heat map of the current situation
+** Can do it within 4 hours
+** Link heat map to scaling map
+*** importance versus strength - focus on high imp. and high strength
+* Before you start you need to define a scalable reference model
+* You need a working scrum implementation that you can replicate
+** Beware! Scaling broken scrum models will lead to challenges
+* Group teams togehter that need to coordinate in order to deliver a fully integrated 
+* Mike Cottmeyer youtube videos
+** Four Quadrants
+** Ten Circles
+** 
+* Everywhere I point people will be able to provide an answer to what is the prioritized backlog etc.
+* Effectiveness of SoS is a MVB (minimum viable bureaucracy) consisting of:
+** 
+
+== TODO------------------------
+
+== Scaling Teams
+
+== Team Process
+
+
+== Scrum of Scrums (SoS)
+* Operates like Scrum Team - Team of Teams
+* Has single PO & SM, but includes 4 - 5 teams (Harvard Research 4.6)
+
+* Not a meeting
+* 
+
+== Product Owner
+* Team should only see one Product Owner defining their priorities
+* PO is not a project manager
+
+
+== Scaled Meetings
+* Try and keep all sclaed meetings in the time framof the sprint they address
+
+=== Scaled Sprint Planning
+* Try and do this on the same day as the planning meetings for the scrum teams
+
+=== Scaled Sprint Review
+* If possible get the team to show their work in all reviews
+** More pride and ownership
+** Helps to develop people who need to demo to executives
+* You should still have a team review!
+* Marketplace Option
+** Teams setup booths showcasing what they have done
+** About 2 Hours
+** Stakeholders can choose where they want to go
+** Open Space - law of 2 feet
+
+=== Scaled Sprint Retro
+
+=== Scaled Quarter Review??, Retro, Planning
+* Take 1 - 3 days to:
+** Do a review of the Quarters OKRs (1/2 Day)
+** Do a retro of the entire quarters results (1/2 Day)
+** Plan the next Quarters OKRs (1 - 2 Days)
+
+== EAT
+
+* EAT delegate Coaching competency to the Agile Practice (internal coaching community, community of practice) or Agile Practice sits in the EAT
+** The goal of external coaches should be to train the internal coaches
+* Agile Practice can also be broken up into cross-.functional teams
+
+== Questions
+* How should teams scale interdependence?
+* How to handle architecture & quality at scale
+** Community of Practice
+** Chapter - where u need alignment in teams, have reps form teams
+** Guilds - everyone from the entire org who is a java prog as example gather to shre best practices
+
+== References
+* https://www.scrumatscale.com/scrum-at-scale-guide-online/
+* ORSC book
+* https://www.leadingagile.com/guides/mike-cottmeyer/
+** https://www.youtube.com/watch?v=hEAG9iA5p4k
+
+== Notes
+* Main aim of metrics and transparency are to help us stop burning out people and help teams to sustainably produce software at a constant pace
+* Don't do feature branching - pick and mix!!!
+** Integration frought with problems
+** Rather use feature flags / feature toggles
+* Knieberg did a talk on spotify's scaled agile implementation
+* ORSC - organization  & relationship systems coaching
+** https://crruk.com/what-is-orsc/
+* https://www.amazon.de/-/en/Anne-R%C3%B8d-ebook/dp/B08FKB5C2L/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1612954229&sr=8-1
+* Traditional Project Management
+** Scope, Cost, Time, Quality
+** Often quality is always sacrificed
+** In Agile we remove quality as a control variable
+* Use buyer-feature game to get executives to focus on what they can actually invest in - monopoly money to buy initiatives - then they collaborate. I will help you with your initiative if you help me with mine
+* Create a kanban on the level of the group
+** e.g. an initiative kanban board
+* https://www.youtube.com/watch?v=jyZEikKWhAU

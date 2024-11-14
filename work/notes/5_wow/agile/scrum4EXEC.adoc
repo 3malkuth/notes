@@ -1,0 +1,22 @@
+= Scrum for Executives
+
+== Pillars
+* Transparency / Openness
+** We want to create an open environment in our leadership team
+* Inspect / Sense
+** Whenever we run an initiative we want to be able to measure success and take the time to measure our effectiveness
+* Adaptation
+** Based on what we observe and we want to be able to easily change direction without being too erratic
+
+== Values
+* Commitment
+** to achieving the goals we set
+** Supporting each other in the process
+* Focus
+** The main focus of the activity in the Sprint is to make progress toward the Trinity's goals 
+* Openness
+** The team members and stakeholders need to be open about the challenges of this work and 
+* Respect
+** We respect the capability's of each member of the team
+* Courage
+* The executive team must have the courage to focus on working on the right problems even though thtey are tough.

@@ -1,0 +1,14 @@
+= Transformation Approach
+
+== Important!!!!!
+* Always involve members of the Betriebsrat!!!
+
+== Scrum Team
+* Assess the current situation:
+** e.g. Complete a Heat Map
+
+== Organizational Transformation (Scrum at Scale)
+* Assess the current situation:
+** e.g. Complete a Heat Map
+* Create a transformation backlog of prioritzed areas to address based on the prioritized heat map - scaling map
+* Focus on Team Scrum & EAT, EMS - leadership buy in

@@ -1,0 +1,71 @@
+= Features
+
+== Purpose
+* Provides the big picture
+* Benefit hypothesis
+* It is the overarching story for a set of related stories providing the greatest benefit to the user
+* Can be implemented by multiple teams
+
+== Names
+* SAFe - Feature
+* Atlassian - Epic
+
+== Cast
+* Product Management
+* Key Stakeholders & Users
+
+== Duration
+* 1 - 3 Months
+
+== Template - English
+* Slogan / Phrase
+** Snappy one-liner, captures essence of Feature & value provided
+
+* Benefit Hypothesis
+** Overview of benefits that implementing the Feature should deliver
+** Bulleted list
+
+* Acceptance Criteria
+** What PM needs to accept Feature
+** Criteria specific to the feature and not to be confused with DoD
+
+* Risks & Dependencies
+** Articulate them
+
+* Notes
+** Any feature info that helps the team to:
+*** understand,
+*** estimate,
+*** implement,
+*** and test it
+
+== Template - Deutsch
+* Slogan/Phrase
+** Prägnanter Einzeiler
+*** Essenz des Features
+*** Wert, den es bietet, auf den Punkt bringt
+
+* Nutzen-Hypothese
+** Ein Überblick über die Art des Nutzens, den die fertige Feature bringen soll.
+** Liste
+
+* Akzeptanz-Kriterien
+** Was PM benötigt, um das Feature zu akzeptieren
+** Normalweise eine Liste
+** Kriterien die spezifisch für das Feature ist und nicht die systemweite DoD
+
+* Risiken & Abhängigkeiten
+** Aufschreiben
+
+* Notizen
+** Feature Information, die dem Team helfen, das Feature zu
+*** Verstehen,
+*** Abschätzen,
+*** Implementieren,
+*** Testen
+
+== References
+* https://geekbot.com/blog/epics-stories-themes-tasks/
+* https://www.scaledagileframework.com/features-and-capabilities/
+* https://www.scaledagileframework.com/right-sizing-features-for-safe-program-increments/
+* https://www.scaledagileframework.com/nonfunctional-requirements/

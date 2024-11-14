@@ -1,0 +1,8 @@
+= Themes
+
+== Jira
+* "...large focus areas that span the organization."
+
+== References
+* https://www.atlassian.com/agile/project-management/epics-stories-themes
+* https://geekbot.com/blog/epics-stories-themes-tasks/

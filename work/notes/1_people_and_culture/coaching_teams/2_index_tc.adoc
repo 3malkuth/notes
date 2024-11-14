@@ -1,0 +1,18 @@
+== Team Coaching - Table of Contents
+* link:tc_introduction.asciidoc[Introduction]
+
+
+=== Assessments
+
+* link:tc_assessment.asciidoc[General Overall Team Assessment]
+
+==== Seven Areas
+* Direction & Meaning (Purpose & Passion)
+* Leadership
+* Stakeholder Needs Prioritization (Product Leadership)
+* Structures, Roles & Responsibilities
+* Processes & Meetings
+* Excellence & Quality (Craft)
+* Team Well-being
+** link:tc_assessment_morale.asciidoc[Team Morale Assessment]
+

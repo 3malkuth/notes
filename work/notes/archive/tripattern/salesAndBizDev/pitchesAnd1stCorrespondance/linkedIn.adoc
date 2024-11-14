@@ -1,0 +1,64 @@
+= LinkedIn
+
+== Pitches
+=== Digital / Agile Transformation
+* Digital Journey and Agile
+** English
+----
+I would like to setup a short Video-Call to discuss how we can help you and your team on its digital journey becoming agile and not just doing agile.
+----
+** Deutsch
+----
+Ich möchte einen kurzen Video-Call organisieren, um zu besprechen, wie wir Ihnen und Ihrem Team auf ihrer digitalen Reise helfen können, agil zu werden und nicht nur agil zu "tun".
+----
+* Challenges with Agile Transformation
+** English
+----
+Are you currently having challenges with your Agile Transformation and the communication between Product Management and Software Development? I would like to setup a Video-Call to talk about how we can help.
+----
+** Deutsch
+----
+Haben Sie derzeit Herausforderungen mit Ihrer Agilen Transformation und der Kommunikation zwischen Produktmanagement und Softwareentwicklung? Ich würde gerne einen Video-Call organisieren, um darüber zu sprechen, wie wir helfen können.
+----
+* Challenges with Team Dynamics, Agile Processes and Culture
+** English
+----
+Are you facing challenges with your Team Dynamics, Agile Processes and Culture? I would like to setup a Video-Call to talk about how we can help.
+----
+** Deutsch
+----
+Haben Sie Probleme mit Ihrer Teamdynamik, Ihren agilen Prozessen und Kultur? Ich möchte einen Video-Call organisieren, um darüber zu sprechen, wie wir helfen können.
+----
+
+== Message (InMail)
+=== Pitch Agile Coaching
+* Deutsch
+----
+Effektivere Software-Teams
+
+Viele Software-Teams kämpfen mit Qualität, Ausrichtung und Bereitstellung der wichtigsten Funktionen für ihre Kunden. Einige haben versucht, "agil" zu implementieren, sind aber gescheitert.
+
+Wenn das Ihr Schmerz ist, würde ich gerne ein Video-Call arrangieren, um zu besprechen, wie wir Ihnen und Ihren Teams helfen kann, wirklich agil zu werden, und nicht nur agil zu "tun".
+----
+
+== Response to Initial Contact
+* Let's setup a Video-Call
+** English
+----
+Thank you for accepting my LinkedIn invitation. As discussed in my message I would like to setup a Video-Call to discuss how we can help you with your Digital / Agile Journey. Would one of the following slots suit you?
+
+* 01.01 at 10:00
+* 01.01 at 11:00
+
+I look forward to hearing from you
+----
+
+** Deutsch
+----
+vielen Dank, dass Sie meine LinkedIn-Einladung angenommen haben. Wie angedeutet, würde ich gerne einen Video-Call organisieren, um zu besprechen, wie wir Ihnen bei Ihrer "digitalen / agilen Reise" helfen können. Würde Ihnen einer der folgenden Meetingzeiten passen?
+
+* 01.01 um 10:00
+* 01.01 um 11:00
+
+Ich freue mich auf Ihr Rückmeldung.
+----

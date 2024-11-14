@@ -1,0 +1,6 @@
+= Selling Lean-Agile Transformations
+
+== Why? What problem are we solving?
+* Company too slow in reacting to new customer requirements
+* Things are supposed to be completed in projects, but at the end they are not completed (water melon effect)
+* 

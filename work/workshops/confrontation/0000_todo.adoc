@@ -1,0 +1,65 @@
+* Drama Triangle
+** Psycho Drama
+* Transactional Analysis (Act differently in a conflict based on roles)
+* Stress Management
+* Train to be inquisitive
+* Train to have a change of perspective
+* Personality Tests
+** Linc
+** 16P
+** ...
+* Erfolg versus Belastung axis - wo stehst du?
+
+As an agile coach I want to help teams and organizations sort out longstanding conflicts and learn to engage in constructive confrontations that are necessary for a team / organization to sharpen ideas and focus on being goal driven. What are the top books I should read in order to build the skills necessary to provide this service?
+ChatGPT
+To build the skills necessary for helping teams and organizations manage conflicts and engage in constructive confrontations, here are some top books you should consider reading:
+
+Conflict Resolution and Management
+"Crucial Conversations: Tools for Talking When Stakes Are High" by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
+
+This book provides techniques for having difficult conversations effectively.
+"Getting to Yes: Negotiating Agreement Without Giving In" by Roger Fisher, William Ury, and Bruce Patton
+
+A seminal work on negotiation and conflict resolution, focusing on principled negotiation.
+"The Five Dysfunctions of a Team: A Leadership Fable" by Patrick Lencioni
+
+Identifies common team dysfunctions and offers solutions to overcome them, emphasizing trust and constructive conflict.
+Agile and Team Dynamics
+"The Agile Samurai: How Agile Masters Deliver Great Software" by Jonathan Rasmusson
+
+Covers agile principles and practices with a focus on building effective teams and resolving conflicts.
+"Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland
+
+Provides insights into Scrum methodology and how it can be used to improve team performance and resolve issues.
+Leadership and Communication
+"Dare to Lead: Brave Work. Tough Conversations. Whole Hearts." by Brené Brown
+
+Explores how to lead with courage, engage in tough conversations, and build resilient teams.
+"Leaders Eat Last: Why Some Teams Pull Together and Others Don’t" by Simon Sinek
+
+Discusses the importance of leadership in creating a culture where teams can thrive and effectively handle conflicts.
+Psychological and Interpersonal Insights
+"Nonviolent Communication: A Language of Life" by Marshall B. Rosenberg
+
+Introduces a method for clear, empathic communication to resolve conflicts peacefully.
+"Emotional Intelligence: Why It Can Matter More Than IQ" by Daniel Goleman
+
+Explains the importance of emotional intelligence in managing relationships and conflicts within teams.
+"Difficult Conversations: How to Discuss What Matters Most" by Douglas Stone, Bruce Patton, and Sheila Heen
+
+Offers practical advice on navigating challenging conversations and resolving conflicts constructively.
+Organizational Culture and Change
+"Switch: How to Change Things When Change Is Hard" by Chip Heath and Dan Heath
+
+Provides strategies for implementing change within organizations, addressing resistance, and promoting positive engagement.
+"The Culture Code: The Secrets of Highly Successful Groups" by Daniel Coyle
+
+Explores the elements that make successful teams and how to foster a culture that encourages productive conflict and collaboration.
+Conflict Resolution Frameworks
+"Beyond Reason: Using Emotions as You Negotiate" by Roger Fisher and Daniel Shapiro
+
+Delves into the emotional aspects of negotiation and conflict resolution.
+"The Skilled Facilitator: A Comprehensive Resource for Consultants, Facilitators, Coaches, and Trainers" by Roger Schwarz
+
+Offers tools and techniques for facilitating group discussions and resolving conflicts.
+These books provide a comprehensive foundation for understanding and managing conflicts, improving communication, and fostering a productive, goal-driven team environment.

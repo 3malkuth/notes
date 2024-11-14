@@ -1,0 +1,86 @@
+# Travel
+
+## Travel Checklist
+
+### Specific for Trip
+
+### General
+* ID
+  * Passport
+    * ZAR
+    * DE
+  * ID Cards
+    * ZAR
+    * DE
+* Plane Ticket
+  * Print out
+* Health
+  * Extra Glasses
+  * Spirulina, Vitamin D, Nasal Oil, Eucalyptus Oil, butterbur Tablets
+  * Healthcare Insurance
+    * Huk Coburg and call hotline (check email)
+    * Contract No. 372/360064-D
+    * Hotline: +49-69 6655544
+  * Quarantine & Tests not included!
+  * PCR Test 2 days before!!! - WOW Certified - 72 Hours
+* Finance
+  * Credit Card
+    * Pin
+    * Unblock for South Africa - Don't need to with a Sparkasse Credit Card
+* Internet / Mobile Phone
+  * Purchase a SIM Card in the Aeroport!
+    * Then you don't have to show proof of residence, only your passport
+* Car / Mobility
+  * My international drivers license expires at the end of 2021
+
+## Travel Destinations
+### South Africa
+* https://www.sanparks.org/parks/kruger/tourism/activities/wilderness/trails/sweni.php[Sweni Wilderness Trail - Kruger National Park]
+
+### Germany
+* https://unsplash.com/photos/z_9VmsxR8hs[Eibsee, Grainau, Germany]
+
+#### NRW
+
+* Coesfeld
+* https://en.wikipedia.org/wiki/Nordkirchen_Castle[Nordkirchen Castle]
+
+##### OWL
+* Bielefeld
+** https://www.facebook.com/howzitbielefeld/[ZAR Restaurant - Howzit Bielefeld]
+** https://ilmonastero.de/[Il Monastero - Ristorante & Pizzeria]
+** http://monte-pelmo.com/[Monte Pelmo]
+* Detmold
+** https://de.wikipedia.org/wiki/Ruine_Falkenburg_(Detmold)[Ruine Falkenburg]
+* Padeborn
+
+* Borgholzhausen
+** https://www.komoot.com/highlight/86881?utm_source=weekly-hl-630&utm_medium=email&utm_campaign=weekly-hl&utm_content=hl-3-img[Luisenturm - MTB]
+* Pottenhausen
+** https://www.google.com/maps/place/Iggenhauser+Schlo%C3%9F/@52.0697785,8.6711504,11.52z/data=!4m5!3m4!1s0x47ba40408e27b8c5:0x73972dd11201c932!8m2!3d52.0134417!4d8.7510066?hl=en-IN[Iggenhauser Schloß]
+* Hoerste
+** https://www.google.com/maps/place/Bienenschmidt/@51.942823,8.689306,12.29z/data=!4m12!1m6!3m5!1s0x0:0xddf19cb2baaee412!2sBienenschmidt!8m2!3d51.9414665!4d8.72513!3m4!1s0x0:0xddf19cb2baaee412!8m2!3d51.9414665!4d8.72513[Bienenschmidt - Restaurant]
+* Oerlinghausen
+** https://www.komoot.com/highlight/1169262?utm_source=weekly-hl-693&utm_medium=email&utm_campaign=weekly-hl&utm_content=hl-3-img[Wassertretbecken]
+* Schlangen
+** https://www.komoot.com/highlight/408170?utm_source=weekly-hl-681&utm_medium=email&utm_campaign=weekly-hl&utm_content=hl-3-title[Perfekter Singletrail - MTB]
+* Buende
+** https://www.facebook.com/Cafe.Finlandia.Buende/[Cafe Finlandia]
+
+### Romania
+* https://unsplash.com/s/photos/f%C4%83g%C4%83ra%C8%99-mountains%2C-romania[Făgăraș mountains, Romania]
+
+### Israel
+* https://www.google.com/search?sxsrf=ALeKk00YCj9yiEf-9EDIkJJq5hRG726psQ%3A1588237623622&ei=N5WqXs24JYWUlwSbs7fYCA&q=israel+tour&oq=israel+tour&gs_lcp=CgZwc3ktYWIQAzIFCAAQywEyAggAMgUIABDLATIFCAAQywEyAggAMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATICCAA6BAgAEEc6BAgjECc6BQgAEJECOgQIABBDOgcIABAUEIcCUNMyWJs_YLNAaABwBHgAgAGjAYgBxgmSAQQxLjEwmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwiNsP-a5o_pAhUFyoUKHZvZDYsQ4dUDCAw&uact=5[Google Search: Israel Tours]
+
+### Jordan
+* https://www.google.com/search?q=jordan+desert+safari&oq=jordan+desert+safari&aqs=chrome..69i57j69i60.3642j0j1&sourceid=chrome&ie=UTF-8[Google Search: Jordan Desert Safari]
+
+### Iran
+* https://en.wikipedia.org/wiki/Isfahan[Isfahan]
+
+### Uzbekistan
+* https://en.wikipedia.org/wiki/Samarkand[Samarkand]
+
+### Italy
+* https://www.google.com/maps/place/19018+Vernazza,+SP,+Italy/@45.1691737,7.0327257,7.25z/data=!4m5!3m4!1s0x12d4f02be5dd145f:0x775cfff3f41b7b2a!8m2!3d44.1349211!4d9.6849935[Vernazza]

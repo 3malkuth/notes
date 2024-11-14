@@ -1,0 +1,62 @@
+=== Musk method
+
+==== Todo
+* https://www.linkedin.com/pulse/tesla-production-philosophy-compared-toyota-methods-arman-toplu	
+* https://www.process.st/production-systems/	
+* https://www.reuters.com/business/autos-transportation/teslas-new-car-making-process-stokes-debate-among-industry-experts-2023-05-15/	
+
+==== Introduction
+* ??
+
+==== Values & Principles
+===== Values
+* 
+
+===== Principles*
+* Remove complexity
+* UNdesign
+* Ruthlessly address ambiguity
+* Rather build imperfectly and get feedback
+* Than try and engineer the perfect system before testing in the wild
+
+==== People
+===== Onboarding
+* ??
+
+===== Shifts
+* 12 Hour Shifts
+* 4 days on, 3 days off
+** 48 Hour work week
+
+===== Teams
+* Not set in stone
+* Potentially reformed each sprint
+
+==== WOW
+
+===== #mobai
+
+
+==== Factory
+===== GID
+* Each car has it's own global ID
+** Digital Twin
+*** All specific data for each car is linked to their GID
+*** No more batch / paper tracking
+**** Paper tracking incentivizes batches
+
+===== Bamboo Line / Road 
+* Each car puts itself through all legal tests
+
+===== Cells
+* Groups of small teams
+
+===== New Product Innovation
+
+
+==== References
+
+* https://www.youtube.com/watch?v=Fh_FDGiTvcg[https://www.youtube.com/watch?v=Fh_FDGiTvcg]
+* https://www.youtube.com/watch?v=FE7OUGC4OB8[Agile World - Joe Justice - Tesla's Secret Process for Rapid Innovation - 2022 July 7th]
+* https://www.youtube.com/watch?v=Jhet-P6GKhY[Agile Delivery at Tesla with Joe Justice]
+* https://www.youtube.com/watch?v=2t4HKJNQlvI[How Tesla does Agile Hardware Development - Joe Justice at a We Are Movement Meetup]

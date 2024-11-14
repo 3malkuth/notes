@@ -1,0 +1,17 @@
+= Remote Work
+
+== Patterns
+* Do sprint change face to face
+** Try and fit into one day
+* Where PO is not sittiing with the team, let the PO fly to the team every two weeks so they can have the key meetings face to face
+* Mkae sure you link it with an optional social
+
+== References
+
+* https://lisettesutherland.com
+* https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
+* Girt Hoffstetter?
+* Jutta Eckstein: Agile Software Development with distributed teams
+* Jeff Sutherland and Xenia: Mind the Gab https://www.agileleanhouse.com/lib/lib/_Misc/Distributed%20Agile%20Development%20Model_0.pdf
+* Brené Brown: Dare to Lead, About Vulnerability and Trust and how to build it in our teams
+

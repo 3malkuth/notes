@@ -1,0 +1,13 @@
+= Ways of Working: Document (Subtitle)
+include::../config/header.adoc[]
+
+include::introduction.adoc[]
+
+<<<
+
+include::dod.adoc[]
+
+<<<
+
+include::conclusion.adoc[]
+

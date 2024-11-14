@@ -1,0 +1,90 @@
+== Introduction
+
+=== Course Content
+
+Preparing, launching and maintaining products successfully in the market is a never ending challenge.
+In many ways it is often similar to launching a new business and you find yourself being lost in the daily challenges of sales communications, writing new requirements etc.
+
+It's important to have a clear structure that helps you to keep a view of your strategic and tactical considerations as well as ensuring you are communicationg the right things at the right time to all the different stakeholders.
+
+In this course I want to take you through some core tools and processes that can help you to organize your work as a product leader. We will be focusing on 3 key areas, the product:
+* Vision
+* Strategy
+* Roadmap
+* Backlog
+
+The strategic considerations are covered in the vision, strategy and roadmap.
+The tactical considerations overlap in the roadmap and the backlog sections.
+
+
+=== Script
+
+[scene]
+[Soft background music playing]
+
+[Speaker]
+Welcome, [role] to our e-learning course on mastering product leadership. Today, we're diving into the dynamic world of product management, where preparing, launching, and maintaining products is an ever-evolving challenge.
+
+[transition]
+[Visuals: Various product launches, busy work environments]
+
+[Speaker]
+In many ways, this process resembles launching a new business. It's easy to get lost in the daily whirlwind of sales communications, writing new requirements, and juggling countless tasks.
+
+[transition]
+[Visuals: Confused product manager surrounded by chaos]
+
+[Speaker]
+But fear not! To navigate these challenges successfully, you need a clear structure. A framework that helps you maintain a strategic overview while addressing tactical considerations and effectively communicating with diverse stakeholders.
+
+== Core Areas of Focus
+
+[transition]
+[Visuals: Diagram showing a structured approach]
+
+[Speaker]
+And that's precisely what we'll cover in this course. Let's focus on three key areas that will empower you as a product leader: Vision, Strategy, Roadmap, and Backlog.
+
+=== Vision
+
+[visual]
+[Visuals: Visualization of a clear product vision]
+
+[Speaker]
+Our journey begins with the product vision. This is the north star guiding your team. We'll explore how to define a compelling vision that aligns everyone towards a common goal.
+
+=== Strategy
+
+[visual]
+[Visuals: Strategy planning sessions]
+
+[Speaker]
+Next, we delve into the realm of strategy. How do you position your product in the market? What's your unique value proposition? We'll equip you with tools to shape a winning strategy.
+
+=== Roadmap
+
+[visual]
+[Visuals: Roadmap timelines, strategic planning]
+
+[Speaker]
+The roadmap is where strategic considerations come to life. We'll guide you through developing a roadmap that aligns with your vision and strategy, ensuring a clear path forward.
+
+=== Backlog
+
+[visual]
+[Visuals: Managing backlog tasks]
+
+[Speaker]
+As we shift to tactical considerations, we'll explore the product backlog. This is your operational to-do list. Learn how to manage it effectively to support your strategic goals.
+
+== Conclusion
+
+[transition]
+[Visuals: Successful product launches, happy teams]
+
+[Speaker]
+By the end of this course, you'll be equipped with valuable insights and tools to lead your product to success. Let's embark on this journey together! Enroll now and let's master product leadership.
+
+[credits]
+[Soft music fades out]
+

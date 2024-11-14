@@ -1,0 +1,18 @@
+=== Restorative versus Karma Culture
+
+One of the fundamental problems I see in teams or organizations that I work with is an established "karma" culture.
+To be honest with you it is a fundamental culture across the globe.
+It is a culture that follows this line of thinking...
+
+* Bob breaks the rules
+* Because Bob has broken the rules we need to punish him!
+** Not just to satisfy our inner need for justice
+** But also to set a precedent that for everyone to learn from and to fear lest anyone else breaks the rules
+
+OK you might say to me, this is obvious... this is how our society works,
+since most societies are based on a legal system.
+
+OK but what happens when we bring this thinking into a complex bordering on chaotic environment
+which many startups and software teams exist in?
+
+People become super afraid of making mistakes as they will be punished and perhaps shamed in front of their colleagues.

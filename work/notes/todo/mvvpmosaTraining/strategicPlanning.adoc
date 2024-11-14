@@ -1,0 +1,28 @@
+= Strategic Planning
+
+== The Problem
+=== Static Approach
+* Developed with Management Consultants
+* Written in a document
+* Filed and never reviewed
+* Perhaps used for marketing material
+
+=== Lacking Feedback Mechanisms
+* Aren't regularly adjusted based on learnings, new perspectives and changes in the market
+* Many miss the opportunity to guide their decision making in the organization
+
+
+=== Aren't communicated well
+** Rarely filter down to the rest of the organization
+
+
+== Learnings
+* Before embarking on a strategic planning journey articulate why a leadership team needs this
+
+== Appendix A: Analogy
+* Train
+** Why - Fire Cauldron (Power behind the initiative)
+** Vision/Mission - Front Point
+** Goals / Milestones - Milestones on train track
+** Objectives - Wheels
+** Values & Principles - Train Track - keep you on track

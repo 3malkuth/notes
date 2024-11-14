@@ -1,0 +1,12 @@
+== Example Table
+
+[cols="^10%, 30%"]
+|===
+|Country|Size
+
+|South Africa
+a|
+* Medium
+** Some random notes
+|===
+

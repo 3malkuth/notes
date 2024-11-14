@@ -1,0 +1,231 @@
+= Lebenslauf
+
+Produkt, Team & Unternehmen Coach
+
+== Berufserfahrung
+
+=== Coach
+Organisation: klose brothers
+
+Branche: Verschiedene
+
+Standort: Bielefeld, Deutschland
+
+Datum: 2018.04+
+
+Beschreibung:
+
+Während ich Software entwickelte, hatte ich die Möglichkeit, langsam in eine Scrum-Master-Rolle überzugehen und meine Coaching-Reise zu beginnen. Ich habe Teams und Einzelpersonen in verschiedenen Organisationen gecoacht, um deren strategisches Management, Produktmanagement, Zusammenarbeit, Entwicklungspraktiken, Prozesse, Strukturen, Managementpraktiken und Kommunikation zu verbessern. Bitte sehen Sie sich mein Coaching-Portfolio an, um ein detaillierteres Bild meiner Coaching-Aktivitäten zu erhalten.
+
+Höhepunkte: 
+
+- Coaching von Unicorns: Uber Careem und HelloFresh
+- Coaching deutscher Organisationen: Diamant Software, Ceyoniq, Hermes Einrichtungs Service
+- Workshops: CSD Co-Trainer bei der Deutschen Telekom, HSBI CFE
+- Vorträge: JCI, Produkt Peak, HSBI Transfer Forum
+
+=== Software-Entwickler & Produktmanager
+Organisation: klose brothers
+
+Industrie: Software Dienstleistungen, Coaching & Workshops
+
+Standort: Bielefeld, Deutschland
+
+Datum: 2015.09 - 2019.01
+
+Beschreibung:
+
+Auf einem Software Craft Meetup wurde ich in agile Entwicklungspraktiken eingeführt, was mich dazu veranlasste, bei den klose brothers mitzumachen, um agile Entwicklungstechniken zu erlernen. Nach dem Traineeprogramm habe ich diese neuen Fähigkeiten in einem agilen Entwicklungsteam in der Automobilindustrie eingesetzt. Ich hatte auch das Privileg, ein schlingerndes Produkt (dicomdrop.com) zu übernehmen und den Entwicklungsprozess wieder auf Kurs zu bringen, bis es erfolgreich eingeführt wurde.
+
+Höhepunkte: 
+
+- Anwendung agiler Entwicklungspraktiken in der Automobilbranche
+- Mentoring anderer Softwareentwickler
+- Als Produktmanagerin bei der Einführung von dicomdrop.com
+
+=== ERP-Beratung
+Organisation: Beraten von global4engineering.de & initos.com
+
+Branche: ERP-Systeme
+
+Standort: Bielefeld, Deutschland
+
+Datum: 2015.01 - 2015.06
+
+Beschreibung:
+Ich habe mich mit der Idee beschäftigt, ein Odoo Software & Business Consultant zu werden. In dieser Zeit habe ich einige Probearbeiten für zwei Unternehmen durchgeführt (global4engineering.de & initos.com).
+
+Höhepunkte:
+
+- Einrichten von Odoo für ein KMU
+- Verkauf von ERP-Lösungen
+
+=== Manager für Produktentwicklung
+Organisation: spe solutions GmbH (spe group GmbH - it-schutzengel.de)
+
+Branche: IT-Dienstleistungen & Telekommunikation
+
+Standort: Bielefeld, Deutschland
+
+Datum: 2013.07 - 2014.12
+
+Beschreibung:
+Zunächst war ich mit der Leitung von IT-Projekten für spe it services tätig, bevor ich die Aufgabe übernahm, die Produkte und Dienstleistungen für ein neues Unternehmen aufzubauen: spe solutions. Später leitete ich die erste Marketinginitiative und Medienentwicklung für die spe group.
+
+Höhepunkte: 
+
+- spe it services Projektleitung: Europaweiter Rollout von IT-/Telekommunikationsanlagen für NSC Global
+- spe solutions Sales: Rekrutierung, Training und Leitung des spe solutions Sales Teams
+- spe solutions Neue Produktentwicklung & Management: Office 365, Desktop Support Service, Server Support, Server Housing, Netzwerk Support Service, Swyx Unified Communications, Mailstore
+
+=== Direktor
+Organisation: SixOne Investments (Pty) Ltd T/A Honeycomb Systems
+
+Branche: Diverse (Telekommunikation, Einzelhandel...)
+
+Standort: Johannesburg, Südafrika
+
+Datum: 2011.11 - 2013.06
+
+Beschreibung:
+Mitbegründer eines Beratungsunternehmens mit Geschäftspartnern, das Beratungsdienste für Geschäfts- und Softwareentwicklung anbietet und gleichzeitig Start-up-Möglichkeiten erkundet. Verwaltete die Unternehmensgründung, Steuern, Buchhaltung und Berichterstattung. Leitete die Verkaufsstrategie und Initiativen zur Entwicklung neuer Geschäfte. Aktive Beteiligung an Unternehmensberatungsdiensten einschließlich Softwareentwicklungsinitiativen.
+
+Höhepunkte:
+
+- Jasco: Produktmanagement für ISP/Telekommunikationsdienste. Entwickelte eine Mobile App MVP für ein Einkaufszentrum mit Mendix
+- AEL Sharepoint Projekt: Konfiguration, Entwicklung, Powershell Scripting
+- Free-2-Talk (patentiert): Entwicklung eines funktionierenden MVP, das es den Leuten erlaubt, kostenlos anzurufen, aber sie müssen sich als Bezahlung Werbung anhören (Technologien - Asterisk, Java, MySQL, Linux)
+- VBX Telecoms Turnaround Strategie: Marktforschung und Strategieentwicklung, Entwicklung von Verkaufstaktiken und -prozessen, Verfeinerung des Produktangebots, Analyse und Verfeinerung der Betriebsabläufe
+
+=== Manager für Produktentwicklung
+Organisation: Arc Telecoms (Jasco)
+
+Branche: Telekommunikation / ISP
+
+Standort: Johannesburg, Südafrika
+
+Datum: 2010.02 - 2011.10
+
+Beschreibung:
+
+Ich war eines der Gründungsmitglieder von Arc Telecoms, das von Jasco aufgekauft wurde. Zunächst leitete ich das technische Team, bevor mir Mitte 2010 die Position des Produktmanagers für ARC Telecoms angeboten wurde.
+
+In der Folge war ich an der Vermarktung, Schulung und Implementierung aller Produkte beteiligt, die ARC Telecoms verkaufte. Zu meinen Aufgaben gehörten: Produktstrategie, Entwicklung von Produkt- und Marketingmaterial, Preisgestaltung, Stakeholder-Management und Überprüfung des Kundenfeedbacks.
+
+Höhepunkte:
+
+- Einführung eines Portfolios von Produkten in kurzer Zeit, wie Internet- und VOIP-Telekommunikationsprodukte, Hosting, Business Messaging, um nur einige zu nennen...
+- Projektleitung bei der Entwicklung und Einführung der Sprach- und Internet-Kernnetzinfrastruktur
+- Einrichtung von SugarCRM und aktive Mitwirkung bei der Einrichtung des neuen ERP-Systems: Netsuite
+- Mitwirkung am Aufbau eines Startups, das es auf die Titelseite des Business Day (Südafrikas Äquivalent zur Financial Times) geschafft hat
+
+=== Technische Leitung, Projektmanagement & Unternehmensberatung
+Organisation: Vox BizCall (Vox Telecom)
+
+Branche: Telekommunikation
+
+Standort: Johannesburg, Südafrika
+
+Datum: 2006.02 - 2010.01
+
+Beschreibung:
+
+Ich war der erste Mitarbeiter bei BizCall, das von Vox Telecom gekauft wurde.  Ich leistete Pionierarbeit bei der Entwicklung, Fehlersuche und Installation eines Asterisk-basierten VOIP-Systems, das mit Linux, Wildfire und MySQL-Tools integriert war und verschiedene Kunden wie KMUs, Callcenter und Regierungsbehörden belieferte. Ich verwaltete die Kundenbeziehungen während der gesamten Installations- und Produktionsphase. Ich habe technische Führungsqualitäten bewiesen, indem ich ein kleines Team von Technikern leitete, die Verbesserung von Fähigkeiten und die Ausführung von Aufgaben förderte und gleichzeitig die Betriebszeit und Effizienz der Kundensysteme innerhalb der SLAs sicherstellte.
+
+Höhepunkte:
+
+- Pionierarbeit in der VOIP-Telekommunikation in Südafrika
+- Aufbau einer gehosteten VOIP-Plattform
+- SITA-Callcenter-Projekt
+- Ich wurde gebeten, bei der Gestaltung und Implementierung neuer Geschäftsprozesse innerhalb von Vox BizCall und der Vox Telecom Group mitzuwirken und zu einem schlanken Team beizutragen, das sich der Prozessoptimierung widmet.
+
+=== IT-Ingenieur
+Organisation: Systems Automation & Management
+
+Industrie: Automatisierung
+
+Standort: Johannesburg, Südafrika
+
+Datum: 2004.11 - 2006.01
+
+Beschreibung:
+
+Verwaltete IT-Administrationsaufgaben, die die Wartung und Verbesserung interner IT-Systeme umfassten, die Linux, Windows, Dateifreigabe, Drucken, Netzwerke und Sicherheit umfassten. Gleichzeitig hat er an der Verbesserung der Funktionalität des internen Java/.NET Business Management Systems mitgewirkt.
+
+Höhepunkte:
+
+- Mitentwicklung eines .NET-basierten Stahlerzeugungs-Planungssystems, das sich an den Kundenanforderungen orientiert und Produktionsabläufe optimiert.
+
+=== IT Apprentice
+Organisation: Leading Edge Business Solutions
+
+Branche: IT
+
+Standort: Johannesburg, Südafrika
+
+Datum: 2003.05 - 2004.10
+
+Beschreibung:
+
+Während meines Masterstudiums führte mich mein Interesse an Linux zu einer Linux-Ausbildung bei Leading Edge Business Solutions. Hier erhielt ich eine umfassende Ausbildung in Linux und nahm an Workshops für Grundlagen, Fortgeschrittene und Sicherheit teil. Diese Ausbildung vermittelte mir die notwendigen Fähigkeiten zur Verwaltung von Mailservern, Firewalls, Proxyservern, Dateifreigaben und Webanwendungen für Kunden. Ich hatte das Privileg, als Co-Trainer an ausgewählten Linux-Workshops teilzunehmen, was mein Fachwissen weiter festigte.
+
+Höhepunkte:
+
+- Erfahrung in der Produktentwicklung und -verwaltung, Evaluierung neuer Open-Source-Anwendungen wie OpenMosix, SQL-Ledger und JBPM, um deren Marktpotenzial zu ermitteln
+- Erfolgreiche Implementierung, Konfiguration, Anpassung unf Einführung von SQL-Ledger für einen Kunden
+
+== Skills
+
+=== Coaching
+
+- Leiterschaft
+- Team
+- Persönlich
+- Organisatorisch (Unternehmen)
+- Software Craft
+- Moderation
+- Agil
+- Lean
+- Skalierung
+
+=== Produkt
+
+- Innovation
+- Produktentwicklung
+- Produktmanagement
+- Produktvision und Strategie
+- Business Case
+- Roadmap
+- Backlog-Management
+- Personas
+- Release Planning
+- Validierung, Feedback und Metriken
+
+=== Technische Fähigkeiten
+
+- Python
+- Linux / Bash
+- Java
+- Web
+- Databases
+- Git
+- Odoo
+- Google Workspace
+- MS 365
+- Jira
+- Confluence
+- Trello
+- Miro
+- Slack
+- Zoom
+- ChatGPT
+- Gemini
+
+=== Sprachen
+
+- Englisch
+- Deutsch
+- Afrikaans
+- französisch
+- Arabisch
+

@@ -1,0 +1,183 @@
+=== Learn / Teach
+* Streamlit
+* Bruce Baird - CLV?
+* https://www.linkedin.com/posts/ben-williams-vgs_people-business-ai-activity-7031900055846408193-UQEG?utm_source=share&utm_medium=member_desktop[Difference between war and business from a soldier]
+* How to initiate good conflicts - Danny Silk
+* OKRs - Kudernatsch
+* Intel Management Book - Andy Grove
+* How to measure anything
+* Burndown
+* Motivation - Employee Engagement & Motivation NB! Questions
+* core values...
+* Trust
+* Faith
+* Baptism
+* Authority
+* Foundations
+* Adjusted Go Roadmap
+* Swarming PPT
+* Motivation - PPT
+* Swarming Tactics - Pairing
+* Swarming Tactics - Mobbing
+* Swarming Tactics - Organic Flow
+* North Star Framework
+* Wardley Mapping
+* Kaizen ppt
+* Sermon - jealousy & authority
+* Trust & Forgiveness
+* WOW - RFC style...
+* Liberating Structures
+* Consensing
+* Don Reinertsen - The Principles of Product Development Flow
+* Kanban
+  * Online - https://kanban.university/
+    * https://kanban.university/kanban-development-path/
+    * Leanovate - https://www.leanovate.de/agile-academy/kanban/
+    * https://kanban.university/kuapps/#/course/view/11149
+* Unfix Framework
+  * Haier
+    * The Haier Way
+    * https://www.amazon.de/-/en/Bill-Fischer-ebook/dp/B00BRXZHDE/ref=sr_1_2?keywords=The+Haier+Way&qid=1665651977&qu=eyJxc2MiOiIwLjc1IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sr=8-2
+* https://www.mountaingoatsoftware.com/blog/incentives-and-deterrents-for-starting-daily-scrums-on-time
+* Sales
+* Build and maintain an online coomunity
+* Coaching
+  * ORSC
+  * Create coaching products
+* Finance
+  * Lean - https://maskell.com/events-calendar/
+  * Warren Buffet?
+  * Learn about finances, build own fin app? EURONEXT, NYSE, NASDAQ etc.
+* Law
+  * https://cof.org/content/nonprofit-law-germany
+* Certified Coach
+  * ICF - international coaching federation
+  * ORSC
+  * Coachhub.io - become a coach on this platform
+  * Leadership Agility Assessment US 89
+* Focus on Strategy Consulting & Management Consulting & Sales
+* Strategytraining.com
+* Kanban PPT
+* CFO Notes
+* [Product Backlog Building Canvas](https://martinfowler.com/articles/product-backlog-building-canvas.html)
+* New roadmap model ppt
+* Trust PPT
+  * Move away from law based society to trust based community
+  * Community is a group of people with shared values, prepared to fight for them
+* 17 indisputable laws of team work
+  * https://www.amazon.de/17-Indisputable-Laws-Teamwork-Embrace-ebook/dp/B00ETGDRX8/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1663754205&sr=8-2
+* meaningfulness ppt
+  * https://sloanreview.mit.edu/article/what-makes-work-meaningful-or-meaningless/
+  * https://meaningful-work.co.uk/six-questions-to-ask-if-you-want-to-know-if-your-work-is-meaningful/
+* LOP
+* Foundations
+* Authority
+* Be Disciple
+* Family
+* Work
+* Gov
+* Real Numbers
+* Capital in the Twenty-First Century - Piketty
+* Completing Capitalism
+* Thinking in Systems - Meadows
+* Accelerate
+* How to reach the West again: https://static1.squarespace.com/static/5d44636cd5f86700012df925/t/5e6674763ecc1947890db334/1583772791196/%23ReachtheWestFullBook.pdf
+* Martin Luther
+  * https://www.gutenberg.org/ebooks/author/155
+  * https://www.monergism.com/search?f%5B0%5D=author%3A34216&page=3
+  * https://en.wikipedia.org/wiki/Martin_Luther_bibliography
+* Righting Software (English Edition) 1. Auflage, Kindle Ausgabe
+Englisch Ausgabe  von Löwy Juval (Autor) - alternative to DDD
+* Clayton Christensen on job to be done - https://youtu.be/kGuSM3yUxik
+* Team Psychology Book
+* Equipping for Life: A Guide for New, Aspiring & Struggling Parents (English Edition)
+* Parenting: 14 Gospel Principles That Can Radically Change Your Family (English Edition)
+* A3 finish book
+* Kaizen books and training
+* Less Books
+  * Queue Theory
+* Systems Thinking from Assoff
+* Eugenics and other evils - G.K Chesterton: https://www.gutenberg.org/files/25308/25308-h/25308-h.htm
+* 5 Languages
+* Lean Thinking
+* The wise company
+* Lean Solutions
+* Recovering Biblical W & M
+* The Culture Map
+* The Bro Code of Saudi Culture: Describing the Saudi from Head to Toe
+* The Culture Code
+* TOC Audio Book
+* Project to Product
+* Scrum at Scale Book
+* 2 x Scrum Books
+* Creating Intelligent Teams
+* SEAL of God
+* https://www.tocinstitute.org/toc-thinking-processes.html
+* John Boyd Books: https://www.colonelboyd.com/bibliography
+  * The Mind of War: John Boyd and American Security
+  * Science, Strategy and War: The Strategic Theory of John Boyd
+  * Boyd: The Fighter Pilot Who Changed the Art of War
+* Agile Assessment
+  * accelerate questions add to processes and craft and focus on capabilities
+* Seasons Document
+  * Standard todo's per season...
+* How to do a product vision
+* How to do a product roadmap
+* How to run a requirements workshop with value stream mapping
+* How to run spec wshop as an improvement kata
+  * Start with getting people to prioritize their problems or opportunities
+* 7 areas of life assessment and iGrow
+* Biblical grounds for the scientific method
+  * When and when not to use it...
+* Specifications gathering until refinement meetings with devs
+* How to do refinement meetings
+* Real team work
+  * On swarming and why most teams don’t work as a team (post to linkedin)
+* A3 Retros…
+* Why project management never works and alternatives… - scrum book intro
+* Case Study - cey
+* Case Study - HF
+* Agile Team Forming
+* Coaching Approach
+* Agile Strategy
+* Agile Coaching Approach
+* Agile Health Check
+* Managing to Learn - A3 finalise
+* Lean Solutions
+* Lean Accounting
+* Lean Thinking
+* Lean Thinking
+* The Machine that Changed the World
+* Hoshin Kanri
+* Scrum Book
+*  Challenge est. Ideas in the West
+  * Greek Philosphy - logic & reason, democracy, approach to family etc.
+  * Roman Admin.
+  * Scientificism - Scientific Method
+  * Communism / Socialism
+  * Asianism
+  * Technologicism / Futurism
+* Review notes about starting a coaching contract
+* Review CFO notes
+* Japanese Woodworking - Also need tools
+* Learn to sail
+
+==== ToC Thinking Process
+
+https://www.tocinstitute.org/toc-thinking-processes.html
+https://en.wikipedia.org/wiki/Thinking_processes_(theory_of_constraints)
+It's also described in this book by Eli: https://www.amazon.com/Its-Not-Luck-Eliyahu-M-Goldratt-audiobook/dp/B00IFI58YW/
+and Bill Dettmer: amazon.com/Logical-Thinking-Process-Systems-Approach-ebook/dp/B004GKMJUY
+though I just read Eli's book.
+But if you want a light introduction to one of the techniques (perhaps the most valuable one), which is called Evaporating Cloud (https://en.wikipedia.org/wiki/Evaporating_Cloud), you can check out this book (http://amazon.com/CorkScrew-Solutions-Impossible-Constraints-Simplified-ebook/dp/B08LKH5M3V) from Clarke Ching:
+
+While we're at Clarke Ching, here are his two wonderful books on ToC and constraint management
+Rolling Rocks Downhill (Agile + ToC) (https://www.amazon.com/Rolling-Rocks-Downhill-Business-mentions-ebook/dp/B00PJ8HBW8)
+The Bottleneck Rules (this one is very short) (https://www.amazon.com/Bottleneck-Rules-More-Working-Harder-ebook/dp/B07DCFR7B4/)
+https://youtu.be/4VcIp56m4bI
+https://twitter.com/d_stepanovic/status/1379451260638785536
+https://twitter.com/d_stepanovic/status/1474493154984353793
+https://twitter.com/TShootingAgile/status/1471102778495885318
+https://twitter.com/d_stepanovic/status/1470009166353907716
+https://www.youtube.com/watch?v=NJWeM7beAGE
+

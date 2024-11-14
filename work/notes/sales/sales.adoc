@@ -1,0 +1,137 @@
+=== Sales
+
+==== Key Notes
+*Cold Calling*
+* 100:10:1 Rule
+** 400 cold calls, you can maybe expect 40 leads, 4 contracts
+
+*Tools*
+* Sales Navigator
+
+==== How to Develop a Sales Strategy
+
+Preparation, launch, and maintenance of products in the market present an ongoing challenge. Much like starting a new business, navigating the daily challenges of sales communications and writing requirements can be overwhelming.
+
+===== 1. Understand Your Product/Service:
+
+Clearly define what you are selling.
+Identify unique selling points (USPs) and competitive advantages.
+
+===== 2. Define Your Target Audience:
+
+Identify and understand your ideal customer.
+Create buyer personas to represent different segments.
+
+===== 3. Set Clear Sales Objectives:
+
+Define specific, measurable, achievable, relevant, and time-bound (SMART) objectives.
+Examples: Increase sales by X% in the next quarter or acquire Y new customers in a month.
+
+===== 4. Conduct a SWOT Analysis:
+
+Analyze strengths, weaknesses, opportunities, and threats.
+Leverage strengths, address weaknesses, exploit opportunities, and mitigate threats.
+
+===== 5. Competitor Analysis:
+
+Understand who your competitors are.
+Analyze their strengths and weaknesses.
+Differentiate your product/service in the market.
+
+===== 6. Positioning:
+
+Clearly define how your product/service meets the needs of your target market.
+Develop a unique value proposition.
+
+===== 7. Sales Funnel Development:
+
+Design a sales funnel representing the customer journey from awareness to purchase.
+Identify key touchpoints and strategies for each stage.
+
+===== 8. Sales Tactics:
+
+Choose appropriate sales channels (online, offline, direct sales, partnerships).
+Define pricing strategies.
+Develop promotional strategies.
+
+===== 9. Sales Team Training:
+
+Ensure the sales team is well-trained on the product, sales tactics, and customer engagement.
+Foster a customer-centric mindset.
+
+===== 10. CRM Implementation:
+
+Implement a Customer Relationship Management (CRM) system to track customer interactions.
+Use data to improve customer relationships and sales processes.
+
+===== 11. Metrics and Key Performance Indicators (KPIs):
+
+Identify relevant metrics and KPIs to measure the success of your sales strategy.
+Examples: Conversion rates, customer acquisition cost, customer lifetime value.
+
+===== 12. Feedback Loop:
+
+Establish a system for collecting feedback from customers and your sales team.
+Use feedback to iterate and improve your strategy continuously.
+
+===== 13. Flexibility and Adaptability:
+
+Markets change, and so should your strategy. Be ready to adapt based on feedback, market trends, and performance metrics.
+
+===== 14. Budget Allocation:
+
+Allocate budgets for marketing, sales tools, training, and other necessary resources.
+
+===== 15. Regular Review and Adjustment:
+
+Regularly review your sales strategy.
+Adjust based on performance, changes in the market, or internal factors.
+
+By following these steps, you can develop a comprehensive sales strategy that aligns with your business goals and effectively reaches and engages your target audience.
+
+
+
+
+==== Elevator Pitch
+
+===== Format
+* Brief Pitch
+* No more than 30 seconds
+* The Aim is to:
+** Introduce yourself
+** Get across a key point
+** Make a connection with someone
+
+===== My Pitch
+Hi ?,
+
+I am Alexander Boden. (Optional)
+
+As an Organizational Coach I help companies grow the structures they need to:
+- Align their people as they scale
+- Build effective teams that collaborate well across business domains
+- Reduce the time taken to "build-measure-learn"
+
+Would you be keen to setup a call to discuss how I can help you and your organization?
+
+=== Tactics
+
+==== Follow the News
+* Follow news of interesting company's or startups
+* If something comes up where they have obtained finance to scale contact them
+* Look for key CXX level people on linkedin and just send a connection request
+* After a week send them a message
+
+==== Follow "Job" Leads
+* LinkedIn & Other Platforms - Jobs
+** https://www.linkedin.com/jobs
+** Offer temporary worker or benefits of external
+** Maybe they are in a small town and can't find people to move there
+* HR Blocker
+** Manually, Look for CTO on LinkedIn to circumvent
+
+==== Do Talks at Meetups / Conferences
+* Offer to do short talks at Meetups / Conferences
+* At the end of the talk include a QR code to:
+** Offer a followup paid workshop where people can delve deeper into the topic
+** Connect to LinkedIn

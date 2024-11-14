@@ -1,0 +1,76 @@
+=== Quality
+
+==== Why?
+
+
+==== Where are many?
+* We find that many developers are using old techniques to ensure quality...
+** Manual testing
+** Lots of manual debugging
+** Designated testers
+** Fixing bugs on the fly when deploying major changes (Debugging)
+
+
+==== Where do we want to be?
+* Developers working in small increments...
+** with a test first mindset
+* An emphasis on test coverage with unit tests
+** Only using integration and e2e tests for major core functionality (80/20 & again 80/20)
+* Automated code analysis tools letting us know if new commits have added technical debt to the system
+
+
+==== Delta's
+* Why does the delta exist?
+* Experience
+** We still have many developers coming into the workforce who may know the principles of computer science
+*** But they lack experience in devleoping software in a large scale, production environment
+** Unfortunately many academics themselves have not kept up with qualitative tactics over the last 30 years and don't teach TDD etc.
+
+* Skills
+
+* Frameworks
+
+* Mindset
+
+* Measurement
+
+==== Options
+We want to set a new bar for qualitative software development in our organization.
+In our current state we see that many teams have extremely varying approaches to quality.
+We would like to provide some guidlines that can help us all to improve our approach to quality
+and provide a baseline of tools and practices that can help us to set a minimum common standard for all teams.
+
+===== Mindset
+It is important for us to commit ourselves to professional software development.
+The motivation to work with excellence needs to start with each developer.
+Each developer needs to decide to draw a line and choose to actively learn and implement qualitative tactics for their day to day development.
+
+===== CI & Build
+We have largely assumed that your team has a CI & Build System setup;
+however, this is not always the case.
+If you team has not setup a build system that runs every time a commit is made to the version control system,
+we highly recommend this is setup before continuing with the recommendations of the guide.
+Though you may not initially want to switch on CD one should at least have a system that runs the build after each commit
+and to move to a situation where branch development is stopped and teams work on the main branch.
+
+
+===== Automated Code Analysis - Measure Current State
+Before we start to change our ways of working it is important to measure where we are.
+This guide recommends the implementation of a static code analysis tool e.g. sonarqube/cloud.
+We also recommend that a team agree on coding standards and ensure these are tracked through automation.
+These systems should be built into the build and should there be a negative delta introduced by a commit, the build should break.
+
+===== Automated Tests - Unit Tests
+We recommend adopting an approach to developing software based on a "Test First Approach", but at least implementing unit tests as a standard approach to any change being made to the code. We ultimately would like to have a distribution of 80% unit tests versus 20% other types of tests.
+
+===== Automated Tests - Build System
+Once automated tests have been added to the code we want to find out as quickly as posisble if changes we have made have broken the code. We can do this in that we build the test runners into the build. One can also often run the tests in the background on your IDE.
+
+===== Replace PR Reviews with Pairing / Mobbing
+We recommend that you stop doing PR Reviews and replace them with doing testing and refactoring pairing / mobbing sessions with your team. You save a lot of time here instead of playing review ping pong and you tend to end up with better quality code as your team are providing you with feedback as you code on how the code cna be improved.
+
+===== Team Collective Exploratory Testing
+One thing your team can alos consider is setting up timeboxed events to collectively test major changes to the code before it is deployed to production.
+
+===== CI /CD
+Ultimately we would like to get to the point where we can trust our development approach so much so that we can develop on the main branch, committing in small increments into production.

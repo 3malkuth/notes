@@ -1,0 +1,23 @@
+= openconnect
+
+== Basic Usage
+
+[source,bash]
+----
+sudo openconnect --user=<user login> --key-password=<your login password> <domain of gateway>
+----
+
+== PFX
+* Convert .pfx or .p12 file to pem
+
+[source,bash]
+----
+openssl pkcs12 -in <file_name>.pfx -out client.pem
+----
+
+* Connect with created client.pem
+
+[source,bash]
+----
+echo 'TODO' | sudo openconnect --key-password='TODO' -c client.pem <domain of gateway> --passwd-on-stdin
+----

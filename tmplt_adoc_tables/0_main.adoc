@@ -1,0 +1,11 @@
+= Tables: A guide to asciidoc tables
+include::../config/header.adoc[]
+
+<<<
+
+include::csv_table.adoc[]
+
+<<<
+
+include::table.adoc[]
+

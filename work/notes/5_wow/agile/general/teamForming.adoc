@@ -1,0 +1,21 @@
+= Team forming
+
+== Product Vision Canvas
+An alternative to writing down mandate, vision, and mission statements within your team forming exercises is to focus on articulating the key aspects of the product they are delivering from the user / customer perspective. Even when the team is focused on developing a product for internal use it still makes sense to develop the product vision as it helps the team to focus on their customers and the value they are delivering for them. Too many teams are still too focused on their technical systems and identify themselves based on the components they deliver or where they are positioned in the tech stack (e.g. "backend" team). I recommend using Roman Pichler's Product Vision Canvas to help the team to establish themselves as a product team with customers.
+
+== TODO
+* Boundaries
+* Interfaces
+* Team Typology
+* Roles
+* Meetings
+* Processes
+** Kanban Jira Board - metrics
+** Git workflow
+* Development Code of Conduct
+* DOR
+* DOD
+* Quality
+** Approaches to testing and development
+** Sonarqube
+

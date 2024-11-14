@@ -1,0 +1,12 @@
+= 4 Seasons Framework
+
+== Why another Lean-Agile Team Framework?
+There are three frameworks that have become prevalent within the agile software development world: Scrum, Scrumban, Kanban.
+
+Scrum has become one of the standards in the software worls because it defines some key aspects in a very specific way. Organizations and people think they like very flexible systems, but actually they want very clear guidelines as very flexible structures are difficult to implement and implement effectively en masse.
+
+A new opinionated way.
+
+== Values
+
+

@@ -1,0 +1,12 @@
+==== WSJF
+
+===== Shorts Script
+WSJF, or Weighted Shortest Job First, is a prioritization technique that helps you decide what initiative or task to do first.
+It is calculated by divding the "Cost of Delay" by "Job Duration".
+The "Cost of Delay" can be computed by summing the following elements: User-Business Value, Time Criticality, Risk Reduction and/or Opportunity Enablement.
+
+How do you find values for these elements?
+Simply use the adjusted Fibonacci scale.
+
+If you enjoyed this short please like & subscribe!
+

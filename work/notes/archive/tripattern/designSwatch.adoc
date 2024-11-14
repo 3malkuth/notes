@@ -1,0 +1,12 @@
+= Design Swatch
+
+* Follows android material design
+  * https://www.materialpalette.com/yellow/brown
+
+* Light Yellow: #FFF9C4
+* Yellow: #FFEB3B
+* Amber: #FBC02D
+* Brown: #795548
+* Dark Text: #212121
+* Text: #757575
+* Light Text: #BDBDBD

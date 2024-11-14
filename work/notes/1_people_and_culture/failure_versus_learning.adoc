@@ -1,0 +1,138 @@
+
+
+
+=== Failure versus Learning
+
+==== Content from the Four Week MBA
+
+*Failure is excruciating; there is no way out of that.*
+
+While in the startup world, many try to romanticize the concept of failure, in reality, that's what it is: quite hard to digest!
+
+Read until the end of this newsletter, as you'll also find a bunch of colossal tech failures that eventually turned into massive successes!
+
+Beyond failure as pain
+Failure is painful.
+
+That is something unbearable. We want to hide it as it makes us look bad to others, especially if we try to prove our point by building a successful business.
+
+When that same business turns awry, in an instant, you are proved wrong again, which causes pain and insecurity and puts us in an uncomfortable place to be.
+
+Over the years, the start-up mantra has tried to change that. From things like "fail fast," "fail cheaply," and "fail often." No matter what perspective you look at it, failure has a high emotional charge.
+
+I interviewed Ash Maurya, and we looked at continuous innovation and what it implies.
+
+While talking about failure in business, he highlighted:
+
+One of the key mindsets that we try to teach entrepreneurs that work with us very, very early on is removing failure from the vocabulary.
+I want to emphasize that none likes failing; but that is part of finding what works. As Ash Maurya highlighted:
+
+Not because you’re not going to see it, but the problem that we have, even though we talk a lot about fail fast and failing is the way to learn, all of those things.
+In short, failure is built into the learning process:
+
+At the end of the day, we humans just do not like failure. No one goes out saying, “I failed 10 times today and I’m going to keep doing it.” It just doesn’t sound very good.
+Over the years, Ash Maurya has seen countless examples of companies, and he has helped many entrepreneurs. What he noticed is:
+
+What I’ve observed, and I’ve seen this even of myself, is that when we encounter an experiment that has failed, our initial reaction is to try to hide it or to justify it. That’s where biases set in.
+Rather than hide the failure of the experiment, or share what worked. A good practice would be to discuss what didn't work:
+
+That’s where we need to explain it in a way, and so we throw an explanation which is biased and oftentimes completely wrong to make ourselves feel good. Then we start selling that story to everyone else.
+In fact, what makes today's entrepreneurs can borrow the scientific method to test their ideas. And the scientific method itself is about experimentation to corroborate hypotheses and falsify previous assumptions.
+
+Therefore, for modern entrepreneurs not to lose sight of the scientific method, it is essential to avoid biases in the process:
+
+That is moving away from that scientific way of thinking more into covering up or using faith as a way to just explain things away when that isn’t really baked in reality. I find that “fail fast” is more easily said than done.
+Ash Maurya uses a quote from Buckminster Fuller, who is a celebrated scientist, used to say
+
+There is no such thing as a failed experiment, only unexpected outcomes.
+In the business world, the whole scientific method transforms in the following process:
+
+Entrepreneurs have a model of reality on which they wish to build a business
+That model is based on hypotheses and a few assumptions
+Those assumptions can be expressed in a business model
+An entrepreneur can also formulate more business models and start testing in parallel the riskiest assumptions of each
+The business model that passes the experimentation stage will enable the entrepreneur to build a company
+In the process of experimentation, all the other business models will have failed. Those failures were feedback in respect to the assumptions they carried
+When one of those business models does succeed that is when a breakthrough happens.
+Thus, in this loop of feedback gathering, learning, and breakthrough, a successful business will arise.
+
+Ash Maurya summarizes the process from his LEANSTACK:
+
+
+In short, besides all the buzz around failure, which seems to have become a mantra in the start-up world.
+
+When it comes to business modeling, failure is simply a feedback loop that enables entrepreneurs to test the central assumptions and riskiest of a business model over another.
+
+During the execution stage, several experiments will enable the testing of the assumptions of each business model, thus making it possible to exclude the ones that won't work.
+
+That is how entrepreneurs can finally find a viable business model for their company.
+
+In that respect, over the years, I put together a few key frameworks you can use to either reduce the risk of failure (simply by validating an idea) or by balancing out short, and long-term.
+
+Or identifying what I like to call "asymmetric bets! And based on these premises, the core concept of scale, in business...
+
+*Speed vs. Reversibility.*
+*Transitional Business Models.*
+*Asymmetric Bets.*
+*Business Scaling (or creating Options to Scale!).*
+
+Colossal Failures That Turned Into Massive Successes
+Apple Inc.
+
+Failure: In the mid-1990s, Apple was struggling with declining sales, a series of unsuccessful product launches, and internal management issues. At one point, the company was on the brink of bankruptcy.
+Turnaround: Steve Jobs, one of Apple's co-founders, returned to the company in 1997. Under his leadership, Apple introduced a series of innovative products, including the iMac, iPod, iPhone, and iPad. The company's focus on design, user experience, and a tightly integrated ecosystem helped it become one of the most valuable companies in the world.
+Airbnb
+
+Failure: In its early days, Airbnb struggled to gain traction. The founders resorted to selling custom cereal boxes (Obama O's and Cap'n McCain's) during the 2008 U.S. presidential election to fund their startup.
+Turnaround: After joining the Y Combinator startup accelerator in 2009, Airbnb refined its business model and focused on professional photography for listings. Their emphasis on trust, community, and unique travel experiences helped them become a global platform for lodging and travel experiences.
+Microsoft
+
+Failure: Microsoft initially missed the mobile revolution. Their Windows Mobile and later Windows Phone platforms failed to gain significant market share against competitors like iOS and Android.
+Turnaround: While Microsoft's mobile ambitions didn't pan out, they shifted their focus to cloud computing with Azure and subscription models with Office 365. Their acquisition of LinkedIn and focus on enterprise services has also been a significant driver of growth and success in recent years.
+Netflix
+
+Failure: In 2011, Netflix announced a plan to split its streaming service and DVD-by-mail service into two separate companies, with the DVD service being named "Qwikster." The decision was met with significant backlash from customers and investors.
+Turnaround: Netflix quickly reversed the decision and apologized. They then doubled down on their streaming service, investing heavily in original content. This strategy has made Netflix one of the dominant players in the streaming industry.
+Slack
+
+Failure: Slack began as a gaming company named Tiny Speck, which developed a game called "Glitch." The game failed to gain traction and was shut down.
+Turnaround: The team, however, had developed an internal communication tool to coordinate their work on the game. They realized the potential of this tool and pivoted to focus on it, launching it as "Slack." The platform quickly became popular and is now widely used by businesses worldwide for team communication.
+Recap: In This Issue!
+
+The Emotional Aspect of Failure:
+While the startup culture often encourages embracing failure as a learning experience, the truth remains that failure is inherently painful and challenging to accept.
+Failed ventures can lead to discomfort, insecurity, and the fear of being judged negatively by others.
+Learning from Failure:
+Despite the pain, failure is a valuable source of information.
+Entrepreneurs can use their failures to gather insights on what didn't work, allowing them to refine their strategies and approaches in the future.
+Learning from failures is essential for building successful businesses and industries over time.
+Fail Fast, Fail Often:
+The startup mantra of "fail fast" and "fail often" suggests that failure is an integral part of the learning process.
+The idea is to iterate quickly, testing hypotheses, and learning from both successes and failures.
+The Challenge of Accepting Failure:
+While entrepreneurs are encouraged to embrace failure as a means of learning, the human aversion to failure remains a fundamental challenge.
+People naturally tend to avoid failure and its negative implications.
+Removing Failure from the Vocabulary:
+A key mindset for entrepreneurs is to eliminate the fear and stigma associated with failure.
+Failure should not be seen as a personal shortcoming but as an opportunity for growth and improvement.
+Biases in Dealing with Failure:
+When experiments fail, there is a tendency to hide or justify the failure, often with biased explanations.
+Entrepreneurs might use these justifications to soothe their own insecurities and convince others that the experiment was not a true failure.
+Applying the Scientific Method:
+Entrepreneurs can adopt the scientific method, similar to how scientists conduct experiments to validate hypotheses and gather evidence.
+The process involves formulating assumptions, creating business models, and testing those assumptions through experimentation.
+Iterative Process of Experimentation:
+Entrepreneurs develop a model of reality based on hypotheses and assumptions.
+Assumptions are expressed in a business model, and experiments are conducted to test these assumptions.
+Through parallel testing of multiple business models, the one with the strongest assumptions emerges.
+Feedback Loop for Learning and Breakthroughs:
+Failed experiments provide valuable feedback that guides entrepreneurs toward refining their assumptions and strategies.
+The process involves continuous learning and iteration, leading to breakthroughs and the development of a successful business model.
+LEANSTACK Framework:
+Ash Maurya's LEANSTACK framework highlights the iterative process of testing assumptions, refining business models, and achieving breakthroughs.
+The loop of feedback, learning, and execution is central to this methodology.
+Practical Application of Failure:
+Despite the glorification of failure, its real value lies in its potential to provide critical insights and guide entrepreneurs toward viable business models.
+Successful business models emerge from this process of failure-driven learning and adaptation.
+Ciao!
+

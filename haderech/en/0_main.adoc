@@ -1,0 +1,20 @@
+= הדרך: How to walk in The Way
+:pdf-title-page:
+:authors: Aryeh Judah
+:doctype: book
+:toc:
+:toc-title: Table of Contents
+:toclevels: 2
+
+<<<
+
+include::introduction.adoc[]
+
+<<<
+
+include::healing.adoc[]
+
+<<<
+
+include::conclusion.adoc[]
+

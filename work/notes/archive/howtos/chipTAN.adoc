@@ -1,0 +1,2 @@
+= chipTAN
+* https://tipps.computerbild.de/internet/bezahlsysteme/welche-batterie-fuer-tan-generator-sparkasse-918963.html[Battery: CR2025 Lithium]

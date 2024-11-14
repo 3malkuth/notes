@@ -1,0 +1,95 @@
+= Talk - SSAS
+
+== Videos
+* https://www.youtube.com/watch?v=CmwZhvR2VI0
+* https://www.youtube.com/watch?v=IecqtZs05Uk - Agile Knowledge Management
+
+== Notes
+* Answer incorrect
+* Wrong question to begin with
+* AI just gives stock answers
+** AI helpful as knowledge base
+* None of the suggestions come close to the actual problem team are experiencing
+* Assume real issue is that the tema have no sprint goal
+** Experienced agile coach would have seen this problem already
+** Based on context, real interactions and communications with the team
+** And collab with the team, wider stakeholders, leadership and clients
+** Because been in situation before they will define the actual problem
+** AI can't do team root cause analysis
+** Solving this problem is not so easy and takes time, time that devs don't have
+** This is what coaches do
+*** Remove problems, impediments and support where needed to get the team moving forward and provide value to the customer
+* AI has no emotions and its ability to help is limited
+** Need ability to listen and have empathy
+** Safe in our roles until AI reaches self awareness and ability to move around and interact as humans can
+
+== Using AI for Knowledge Management
+* Not data management, but surfacing right info to support decision at the key moment to make decisions
+
+== Agile Knowledge Management
+* You need structures to ensure data is being gathered in the best way to support fine tuning / training an existing LLM
+* Way to fix knowledge is to use it when I need it and adjust on the fly
+** Only makes sense to improve if people need the knowledge
+* Waterfall approach too much time wasted perfecting it if not needed
+
+== Topics
+
+Regardless of the industry, the key to a strong generative AI strategy is
+agility: the flexibility to safely and securely embrace the spirit of
+experimentation that fosters innovation.
+
+== Agility Is the Key to a Strong GenAI Strategy
+* WQe forget that AI tools are extremely inaccurate at the moment and the industry is developing so quickly that you need to avoid sticking to one solutiopn fits all and use a more experementational approach to developing adn testing your AI models
+* This is where agility comes in helping you to quickly test, evaluate and improve your models
+
+== Moving up the chain
+* AI frees us to work on higher level problems and to automate the mundane
+
+== GenAI Coaches?
+https://medium.com/slalom-business/genai-coaches-pioneers-of-intelligent-work-integration-5baff7b06a2e
+* Test Driven AI Development
+* Need to coach people in critical thinking which includes:
+Analytical Thinking: Emphasizes breaking down complex information into smaller, understandable parts.
+Logical Reasoning: Focuses on the process of deriving conclusions based on a structured, logical approach.
+Reflective Thinking: Involves thoughtfully considering one's own beliefs, values, and practices.
+Rational Thinking: Highlights the importance of reason and logic over emotion or intuition.
+Problem-Solving: Refers to the process of identifying solutions to specific issues.
+Judicious Thinking: Implies making decisions based on careful judgment and discernment.
+Evaluative Thinking: Focuses on assessing the value or validity of information and arguments.
+Reasoned Judgment: Emphasizes making decisions based on sound reasoning and evidence.
+Systematic Thinking: Involves approaching problems and situations in a methodical and organized manner.
+Deliberative Thinking: Highlights careful consideration and discussion before forming a conclusion or decision.
+
+https://dergipark.org.tr/en/download/article-file/1311877
+
+== Wisdom Work
+* The new Agile Coach may be an older manager that has gone through coaching training
+** Middle Management will really take a knock as these tasks can easily be replaced, but not the coaching these people can provide (but re-skilling will be necessary)
+* AI killed knowledge work, but not wisdom work
+Valuing human wisdom provides the ideal workplace balance to the rise of artificial intelligence. Although anybody who effectively distills life experiences can be wise, the more life lessons we’ve navigated, the more raw material for wisdom we possess. It’s time that we invest as much energy in helping older workers distill their wisdom as we do in helping younger workers accumulate their knowledge.
+
+== AI & Agility - Speed up the Feedback Loop
+* Ai provides us with the opportunity to get and process feedback data faster
+An agile approach to generative AI also breaks down the development
+process into smaller sprints, enabling teams to regularly review and
+adjust models based on real-time feedback and results. This ensures
+they can quickly address inaccuracies and other issues, leading to better business outcomes. Regular retrospectives and feedback loops
+allow teams to continuously learn and improve, a process that is vital for
+staying up to date with the latest advances in generative AI.
+
+
+== Who will Gen AI affect most?
+* White collar jobs - not what we thought!? Handwerker has better job security
+** Easier to automate the remote worker out
+** Big re-skilling challenge
+* https://hbr.org/2024/07/gen-ai-is-coming-for-remote-workers-first?ab=HP-latest-text-5
+
+== Impact on Operations
+* Automation of tasks
+* Structuring and providing analysis of unstructured data
+* Speeding up upgrade processes (legacy code) and implementation of new systems
+
+== References
+* https://hbr.org/2024/08/why-wisdom-work-is-the-new-knowledge-work
+* https://hbr.org/sponsored/2024/07/harnessing-the-power-of-agile-generative-ai-a-blueprint-for-flexible-decision-making-and-sustained-growth
+

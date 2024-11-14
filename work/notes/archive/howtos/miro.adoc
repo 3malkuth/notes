@@ -1,0 +1,9 @@
+= Miro
+
+== Integration with Jira
+* https://miro.com/works-with-atlassian/[Works with Atlassian]
+* https://miro.com/marketplace/jira/[Jira cards on Miro]
+** https://marketplace.atlassian.com/apps/1219583/jira-cards-by-miro?hosting=cloud&tab=overview[Jira Cards by Miro]
+* https://help.miro.com/hc/en-us/articles/360017572414-Jira-Add-on[Miro Jira Add-on]
+* https://marketplace.atlassian.com/apps/1215456/miro-for-jira-cloud?hosting=cloud&tab=overview[Miro for Jira Cloud]
+* https://marketplace.atlassian.com/apps/1217530/miro-for-confluence?hosting=cloud&tab=overview[Miro for Confluence]

@@ -1,0 +1,15 @@
+= Government
+
+
+== Backlog's
+include::deBacklog.adoc[]
+
+== General Policies
+include::familyAsBasicBlock.adoc[]
+include::majorIssues.adoc[]
+include::complexEnvironment.adoc[]
+include::adaptableResilient.adoc[]
+include::resets.adoc[]
+include::taxation.adoc[]
+include::resets.adoc[]
+include::setAsideTime.adoc[]

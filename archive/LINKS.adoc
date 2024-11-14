@@ -1,0 +1,48 @@
+= Links
+
+* Just drag links from the editor into a browser and it will automatically open in a new tab
+
+== General
+* https://duckduckgo.com[duckduckgo.com]
+* https://gmail.com[mail.google.com]
+* https://calendar.google.com[calendar.google.com]
+* https://github.com[github.com]
+* https://amazon.de[amazon.de]
+* https://deepl.com
+* https://linguee.com
+* https://gitpod.io
+* https://gitlab.com
+
+== Alex
+* https://www.chabad.org/calendar/view/day.htm[Today]
+* https://myliberty.liberty.co.za/portfolio[My Liberty]
+* https://meetup.com[meetup.com]
+* https://alexanderboden.atlassian.net/[alexanderboden.atlassian.net]
+* https://www.youtube.com/playlist?list=PLjZGbPk4bFaZLQAqBXoBszIZuCkkXC6s1[New Songs]
+
+
+
+== KB
+
+=== Intern
+* https://klosebrothers.atlassian.net/[atlassian.net]
+
+
+== Tripattern
+* https://calendly.com/[Calendly - Let's people book Meetings with you]
+* https://www.blinkist.com/[Blinkist - Book Summaries]
+
+== Archive
+* [ ] Wordpress...
+* [ ] Evernote
+* [ ] Pinterest
+* [ ] Flickr
+* [ ] Shutterstock
+* [ ] Vector Diagrams
+* [ ] Behance
+* [ ] Ebay.de
+* [ ] Ebay.com and co.za?
+* [ ] Comdirect
+* [ ] Groupon
+* [ ] Coda
+* [x] https://sites.google.com[sites.google.com]

@@ -1,0 +1,25 @@
+=== Product Vision
+
+==== Connection
+Have you developed a vision before for a team or an organization?
+Have you dreamed of the future and tried to write it down or draw it?
+Have you ever tried to communicate a vision to a group of people?
+Did they get people excited about it?
+It was probably hard wasn’t it?
+Have any of you had any similar experiences?
+
+==== Concepts
+
+===== Introduction
+It's not enough to simply have a product idea, you need a vision to help guide everyone involved in building the product helping to make it a success. This includes: management, development, sales, marketing, support, operations...
+
+===== Why?
+Your vision is not the same as your product. A product vision is about the impact or change you want to accomplish in the world through your product. It answers the question "Why?" concerning your product.
+
+It provides you with a North Star for your product in the ever "shifting sands" of the global economy. It also helps you to keep yor motivation when the going gets tough and also helps to align and smoothen collaboration on the product by helping people to filter out ideas and make trade offs.
+
+===== Vision versus Product
+Let's make sure we really understand the difference between a product vision and a product.
+A product vision is the motivation behind making the product. The product is the means / tool we use to achieve the product vision.
+
+An example would be something like

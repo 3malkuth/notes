@@ -1,0 +1,41 @@
+= Statistics
+
+== Introduction
+* Explaining how different entities / variables are connected
+* Useful for predicitons
+* Typical Process
+** Get Data
+** Analyse, explain & make data visual
+** Draw Learnings
+* Types of data determine what can be analysed
+* How do we use it?
+** We usually want to find out about a group of people / things etc.
+*** We need a representative sample to do this...
+
+== Gathering Data
+* Define Population
+* Gather data from a *representative* sample
+
+== Describing the data
+* Descriptive Stats
+** Data from our sample can be visualised
+** Helps people quickly understand your sample and the validity of the sample
+** Helps give some insight into the data and shows us whats worth further studying
+** Graphs that help visualise
+*** Histograms
+*** Pie Charts
+*** Bar Graphs
+*** Box Plots
+* Summary Stats
+** Reduces data to some key metrics
+** Mean, Median, Mode
+** Range, Interquartile Range
+** Quartiles and Percentiles
+** Standard deviation & Variance
+
+== Making Conclusions
+* TODO
+
+== References
+* https://www.w3schools.com/statistics/index.php
+* https://www.khanacademy.org/math/statistics-probability

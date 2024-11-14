@@ -1,0 +1,18 @@
+= Tools for Testing and QA
+
+== Automated Analysis
+* Sonarqube
+* https://codescene.io/[Codescene]
+
+== Test Management
+* Plugins for Jira
+** XRay
+** Testflo
+** Zephyr
+
+== Java Tests
+* Junit
+* Rest-Assured
+* Wiremock
+* Cucumber
+* Karate by Intuit

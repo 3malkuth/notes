@@ -1,0 +1,41 @@
+== Scaling Teams
+
+=== Antipatterns
+Scaling framework with complex processes for hadnling dependencies
+
+=== Team Structures
+
+People should be formed into teams around large enough domains where it would be difficult for people to absorb and work with more if they had more responsibilities or an area of responsibility to work with.
+
+These teams should not exceed 5 "developers" (people actually doing the work)
+
+These teams are flexible in the sense that people will be taken out of these teams to work on specific initiatives with other people from other domains in order to have a "cross-functional" mob that is able to completely work on the entirety of the initiative.
+
+=== Mob around initiatives
+As mentioned these cross-functional teams will focus on working on XP practices:
+- TDD
+- CI
+- CD
+- ...
+
+No over time.
+Work together on the intiative as a mob.
+
+==== Muiltiple Time Zones
+Process efficiency can actually increase as:
+- The whole mob has a longer work day
+- People in different countries can have different days for weekends (Fri /Sun)
+
+All in all you may find that a single mob may have a whole extra week in a month because of these differences.
+
+=== Product Management
+Should be vertically sliced from the level of the initiative in slices where one can practice as closely as possible continuous integration and delivery where one aims to deliver working slices to the system on a hourly or daily basis (max. 2 days if possible).
+
+Should be worded around test cases that are meaningful for the end user.
+
+=== Learnings
+EM's spend more time doing Gemba walks and being involved in the work and not in meetings and fillin gout spreadsheets. They spend less time wasted in coordination activities and more in the actual coding.
+
+They can also take all the learnings and be used as a coach for new initatives as you begin to scale.
+
+

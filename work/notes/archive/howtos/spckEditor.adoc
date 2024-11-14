@@ -1,0 +1,7 @@
+= Spck Editor
+* Where are the folders kept in android?
+** Internal Storage
+***Android
+****data
+*****io.spck
+******files

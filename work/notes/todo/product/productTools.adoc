@@ -1,0 +1,16 @@
+= Product Tools
+
+== Estimating
+* https://planningpokeronline.com
+
+== Impact Mapping
+=== Goal
+
+=== Actor (Users)
+
+=== Impact
+
+=== Deliverable
+
+== User Story Mapping linked with OKRs
+* Blue part (Actions) are Key Results set in timeline from left to right

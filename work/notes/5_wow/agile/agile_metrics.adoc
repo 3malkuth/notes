@@ -1,0 +1,16 @@
+=== Agile - Metrics
+
+==== Scope
+* Scope Change
+
+==== Time Schedule
+
+==== Resources
+
+
+==== Quality
+* Static COde Analysis?
+** Lint Tools
+** Duplication
+** Test Coverage
+

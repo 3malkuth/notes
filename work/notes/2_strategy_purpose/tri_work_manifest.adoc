@@ -1,0 +1,8 @@
+= Tripattern Manifesto for Work
+
+* Adaptable & Open SMART Goals over Loose Statements of Intent
+* Alignment across the organization over "every man for themselves"
+* Team Autonomy & Collaboration over Personal Autonomy
+* Short, Measureable Feedback Cycles over opinions of impact
+
+

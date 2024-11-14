@@ -1,0 +1,121 @@
+\documentclass[11pt]{article}
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{sectsty}
+\usepackage{titlesec}
+\usepackage{tocloft}
+\usepackage{fancyhdr}
+\usepackage[a4paper,top=1.8cm,bottom=1.5cm,left=1.8cm,right=1.8cm]{geometry}  
+\usepackage{hyperref}  % Required for hyperlinking in ToC
+\usepackage{wallpaper}  % For adding background images
+
+% Fix for \tightlist error
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Use Arial as the default font
+\setmainfont{Arial}
+
+% Disable section numbering
+\setcounter{secnumdepth}{0}
+
+% Set section title color and formatting
+\titleformat{\section}{\normalfont\Large\bfseries\color{black}}{}{0em}{}
+\titleformat{\subsection}{\normalfont\large\bfseries\color{black}}{}{0em}{}
+\titleformat{\subsubsection}{\normalfont\normalsize\bfseries\color{black}}{}{0em}{}
+\titleformat{\paragraph}{\normalfont\small\bfseries\color{black}}{}{0em}{}
+\titleformat{\subparagraph}{\normalfont\small\bfseries\color{black}}{}{0em}{}
+
+% Remove paragraph indentation and adjust spacing
+\setlength{\parindent}{0pt}  % No indentation
+\setlength{\parskip}{1em}  % Space between paragraphs
+
+% Limit the Table of Contents to 4 levels (down to subparagraph)
+\setcounter{tocdepth}{3}
+
+% Adjust ToC layout
+\renewcommand{\cftsecfont}{\large\bfseries}
+\renewcommand{\cftsubsecfont}{\normalsize}
+\renewcommand{\cftsubsubsecfont}{\small}
+\renewcommand{\cftparafont}{\footnotesize}
+\renewcommand{\cftsubparafont}{\footnotesize}
+
+% Define the cover page
+\newcommand{\coverpage}{
+    \thispagestyle{empty}  % No page number
+    \ThisCenterWallPaper{1.07}{$cover-image$}  % Full-page background image
+    \begin{center}
+        \vspace*{7cm}  % Vertical spacing for centering the text
+        \color{white}  % Set text color to white
+        {\Huge \textbf{$title$}} \\[1cm]
+        {\Large \textbf{$author$}} \\[0.5cm]
+        {\large $date$} \\[3cm]
+    \end{center}
+    \newpage
+}
+
+\newcommand{\backcoverpage}{
+    \thispagestyle{empty}  % No page number
+    \ThisCenterWallPaper{1.07}{$back-cover-image$}  % Full-page background image
+        \vspace*{\fill}  % Vertical spacing for centering the text
+        \noindent
+        \hfill  % Align the text to the right
+        \color{white}  % Set text color to white
+        {\Huge \textbf{$back-cover-text$}}
+        \hspace*{-0.7cm}
+        \vspace*{-0.5cm}  % Adjust the vertical spacing from the bottom (optional)
+    \newpage
+}
+
+% Set up the fancyhdr package
+\pagestyle{fancy}
+\fancyhf{}  % Clear default header and footer
+\renewcommand{\headrulewidth}{0pt}
+
+% Define custom footer style for normal pages
+\fancyfoot[C]{\textcolor{black}{\thepage}}  % Center the page number
+\renewcommand{\footrulewidth}{1pt}  % Set footer rule thickness
+\renewcommand{\footrule}{%
+    \color{gray}\hfill\rule{1.00\textwidth}{0.5pt}\hfill  % Grey line in footer, centered
+}
+
+% Define custom style for the Table of Contents
+\fancypagestyle{emptytocstyle}{
+    % An empty class to ensure the default toc style is overridden to show the custom footer
+}
+
+\fancypagestyle{emptybackpagestyle}{
+    \fancyhf{}  % Clear header and footer
+    \renewcommand{\headrulewidth}{0pt}  % Remove header line
+    \renewcommand{\footrulewidth}{0pt}  % Remove footer line
+}
+
+% Begin the document
+\begin{document}
+
+% Render cover page only if cover-image is provided
+$if(cover-image)$
+\coverpage
+\newpage
+$endif$
+
+% Table of Contents (ToC)
+\tableofcontents
+\thispagestyle{emptytocstyle}  % Apply custom empty style to ToC page
+\newpage
+
+
+
+% Render the content
+$body$
+
+% Add back cover page with image
+\newpage
+\thispagestyle{emptybackpagestyle}  % Remove header and footer on the back cover page
+$if(back-cover-image)$
+\backcoverpage
+$endif$
+
+\end{document}
+

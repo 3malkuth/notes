@@ -1,0 +1,23 @@
+= The Goal for Software Products
+
+I was reading "The Goal" and thinking about how the goal of "making money" and the associated key metrics of increasing net profit whilst simultanmeously increasing ROI and cash flow could be applied to a software company.
+
+In the book the equivalent metrics of **throughput**, **inventory** and **operational expense** are used to translate the key metrics to a manufacturing company.
+
+How would you apply the key metrics to a software product company?
+
+I cam across the "Flow Framework" which I believe really helps to make this mapping. This framework uses the following metrics to monitor the performance of a value stream that delivers featrues for a software product:
+
+* Flow Metrics (Throughput)
+** Flow velocity
+** Flow efficiency
+** Flow time
+** Flow load
+
+* Business Results
+** Value
+** Cost (Operational Expense)
+** Quality
+** Happiness
+
+8 Metrics for the 3 from "The Goal". Could we reduce these metrics?

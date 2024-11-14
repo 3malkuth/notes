@@ -1,0 +1,24 @@
+= The Great News of the Kingdom!
+:author: Gabriel Fire(c) 2021
+//:email:  email@example.com
+//:revnumber: 1.0.0
+//:revdate:   January 1st, 2021
+:doctype: book
+//:sectnums:
+:toc:
+:toclevels: 4
+:toc-title: Contents
+
+//[preface]
+//include::about.adoc[]
+//include::preface.adoc[]
+
+== TODO
+* Follow the life of Jesus for this book!!
+* Link the story of the man being let down as the basis for the gospel we preach - galatians
+
+include::chapter1.adoc[]
+
+
+//Template
+// Reference: https://github.com/chrisdew/eBook-Template/blob/master/master.asciidoc

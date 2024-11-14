@@ -1,0 +1,8 @@
+= Browsers
+
+== Chrome / Chromium
+=== Extensions
+* https://languagetool.org/
+
+== Firefox
+=== Extensions

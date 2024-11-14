@@ -1,0 +1,15 @@
+
+== List of Courses
+* Team Forming
+** CDE Model - https://www.hsdinstitute.org/resources/cde-model.html
+* Strategy Planning
+* Strategy Execution / Management
+* Business Agility - Write own business agile manifesto
+* Product Leadership incl. LPPD?
+* Confrontations, Conflict & Restoration
+* A3 & Kaizen
+* Management 3.0
+* Swarming as a Team
+* Metrics
+* Scaling any process
+* Is Agile dead? Mckinsey killed it?

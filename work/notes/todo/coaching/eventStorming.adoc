@@ -1,0 +1,26 @@
+= Event Storming
+
+== Notes
+* I would suggest sessions of not more than 1 - 2 hours each
+
+== Attendees
+* Business & Dev
+* Decision Makers
+
+== Setup
+* Create a Modelling Surface
+** Brown Paper on Wall
+** Or Clingfoil
+* Sticky Notes & markers
+
+== First Session
+* Decide which value stream to focus on
+* Orange Sticky Notes
+** We’re asking you to write the key events in your domain as an orange sticky note, in a verb at past tense, and place them along a timeline from left to right
+* Purple Stickies
+** Capture Warning Signs - This is where we always have a problem or the process gets stuck...
+** Include Blockers
+* Since you have everyone you need you can already sort out some low hanging fruit on the fly, but watch the clock...
+** YOu can always setup breakout sessions for these issues
+
+== Second Session

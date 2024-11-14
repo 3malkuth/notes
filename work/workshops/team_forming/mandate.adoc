@@ -1,0 +1,181 @@
+== Mandate
+
+=== Introduction
+Welcome to this video on team mandates where we delve into a crucial aspect of effective team dynamics – mandates. A mandate is more than a directive; it's a guiding force that shapes a team's purpose, authority, and objectives. In the next few minutes, we will explore the significance of mandates for teams, understanding how they influence team performance, foster collaboration, and ultimately contribute to the achievement of shared goals. So, let's embark on this insightful journey into the world of team mandates.
+
+
+=== What is a mandate statement?
+A mandate outlines a team's official authority, purpose, and responsibilities.
+It often includes the team's broader goals, objectives, and scope of work and their area of responsibility & authority.
+
+Though a mandate covers a large part of team forming and chartering, I like to use the idea of a mandate statement to focus on outlining the purpose and area of responsibility given to the team by its stakeholders.
+
+A mandate statement for a team is a concise and formalized declaration that outlines the specific purpose, authority, and objectives assigned to the team. It serves as a guiding document that clarifies the team's role, responsibilities, and the scope of its activities within an organization. The mandate statement provides a framework for the team to operate effectively and align its efforts with the broader goals of the organization.
+
+It's essential for helping teams understand why they exist and and their scope of decision making.
+
+=== Why does a Team need a Mandate?
+In order for a team to be successful in what it does there needs to be clarity and transparency around the role it plays,
+in the organization in fulfilling a specific mandated goal. 
+
+A team wants to know why they exist, what goal were they put together to achieve.
+
+In the same way that it has been https://hbr.org/2022/11/how-executive-teams-shape-a-companys-purpose[shown] that purpose-driven organizations perform better and are more beloved by their customers; teams are also more effective and better connected with stakeholders when they take the time to clarify their purpose as part of their mandate.
+
+=== What components make a strong mandate?
+A clear mandate is built upon several strong components that collectively provide direction, purpose, and boundaries for a team or organization. Here are key components that contribute to a clear mandate:
+
+1. *Explicit Purpose and Scope:*
+** Clearly state the team's purpose, specifying its role within the organization.
+** Define the scope of work and responsibilities to set clear boundaries.
+
+2. *Broader Goals and Objectives:*
+** Outline the broader goals that the team aims to accomplish.
+
+3. *Alignment with Organizational Goals:*
+** Ensure that the team's mandate aligns with the broader goals and mission of the organization.
+** Highlight how the team's efforts contribute to the overall success of the organization.
+
+4. **Stakeholder Identification:**
+   - Identify and list key stakeholders affected by or involved in the team's work.
+   - Clarify how the team interacts with and addresses the needs of these stakeholders.
+
+5. **Authority and Decision-Making:**
+   - Clearly define the team's level of authority and decision-making powers.
+   - Specify the extent to which the team can make independent decisions or needs approval.
+
+6. **Time Frame and Deadlines:**
+   - Provide a timeline or deadlines for achieving specific goals and milestones.
+   - Clarify any time-sensitive aspects of the mandate to guide the team's planning.
+
+7. **Measurable Outcomes and Key Performance Indicators (KPIs):**
+   - Define measurable outcomes that signify success.
+   - Establish relevant KPIs to track progress and assess the impact of the team's work.
+
+8. **Values and Guiding Principles:**
+   - Incorporate the core values and guiding principles that should shape the team's behavior and decision-making.
+   - Align the team's actions with the organization's values.
+
+9. **Communication Plan:**
+   - Clearly articulate how information will be communicated within the team and to external stakeholders.
+   - Specify reporting structures and channels for feedback.
+
+10. **Flexibility and Adaptability:**
+    - Acknowledge that circumstances may change, and build in a degree of flexibility to adapt to evolving situations.
+    - Provide guidelines for reassessing and adjusting the mandate as needed.
+
+11. **Clarity in Language and Tone:**
+    - Use clear, unambiguous language to avoid misinterpretation.
+    - Establish a tone that reflects the seriousness and importance of the mandate.
+
+12. **Inclusivity and Team Involvement:**
+    - Involve team members in the formulation of the mandate to foster a sense of ownership.
+    - Encourage open dialogue and feedback throughout the mandate's development.
+
+A strong mandate combines these components, providing a roadmap for the team's actions, fostering a shared understanding, and ultimately contributing to the team's success.
+
+
+
+
+=== Benefits of a clear Mandate
+Explore the benefits that come with a clear mandate, such as improved focus, better decision-making, and enhanced accountability.
+
+
+Alignment and Focus:A team mandate ensures that all team members are aligned with a common purpose and understand the specific goals and objectives of the team.It provides a clear direction, helping team members focus their efforts on tasks and initiatives that directly contribute to the team's success.By aligning individual and collective efforts, a mandate reduces confusion and enhances overall team efficiency.
+
+Enhanced Decision-Making:A well-defined mandate clarifies the team's authority levels and decision-making processes.Team members can make informed decisions within the framework of the mandate, reducing delays and promoting more effective problem-solving.It empowers individuals within the team to take ownership of their responsibilities and contribute to the achievement of shared objectives.
+
+Improved Accountability:A team mandate establishes clear expectations regarding roles, responsibilities, and deliverables.Team members have a defined framework against which their performance can be measured.It fosters a sense of accountability, as individuals understand how their contributions directly impact the team's success and the organization's goals.
+
+Unity and Morale:A mandate provides a unifying vision that goes beyond individual tasks, creating a shared sense of purpose among team members.It fosters a positive team culture by emphasizing common values, goals, and principles.Clear communication of the mandate contributes to higher team morale, as individuals find meaning and satisfaction in working towards a shared mission.
+
+=== Creating a Mandate
+Creating a team mandate is an activity where it makes sense to include the team members, stakeholders and domain leaders / managers.
+
+==== Quick mandate creation
+* Collectively formulate a purpose statement
+* Boundaries Exercise
+
+
+==== In depth mandate creation
+* Collectively formulate a purpose statement
+* Team Responsibilities with Delegation Poker
+
+=== Mandate vs. Vision
+*Mandate:*
+* Definition: The mandate is a formal authorization or command that outlines the team's official authority, responsibilities, and purpose.
+* Focus: It is focused on defining the team's current role, duties, and boundaries.
+* Scope: The mandate often deals with immediate tasks, responsibilities, and the specific goals or projects the team is authorized to work on.
+* Time Horizon: Typically, the mandate is more about the present and immediate future, addressing the team's responsibilities within the current operational context.
+
+*Vision:*
+* Definition: The vision is a forward-looking, aspirational statement that describes the desired future state or impact the team aims to achieve.
+* Focus: It is centered on inspiring and motivating the team, providing a sense of direction and purpose for the future.
+* Scope: The vision is broader and more abstract, encompassing the long-term goals, values, and the desired impact the team wants to make.
+* Time Horizon: The vision often has a longer time horizon, projecting into the future and guiding the team's efforts over an extended period.
+
+In essence, while a mandate is about the team's current authority and responsibilities, a vision is about the team's future aspirations and the impact it aims to have. Together, these elements work complementarily, with the mandate providing a clear foundation for current operations and the vision inspiring and guiding the team towards a shared, long-term goal.
+
+=== Overcoming Challenges
+
+Implementing mandates can face various challenges, and addressing these challenges is crucial for ensuring successful execution. Here are some common challenges and strategies for overcoming them:
+
+1. *Resistance to Change:*
+   - **Challenge:** Team members or stakeholders may resist changes outlined in the mandate due to a fear of the unknown or attachment to existing processes.
+   - **Strategy:** Foster open communication and involve team members in the mandate development process. Clearly communicate the benefits of the mandate, highlighting how it aligns with overall goals and benefits everyone. Provide training and support to ease the transition.
+
+2. **Lack of Clarity:**
+   - **Challenge:** Ambiguous or unclear language in the mandate can lead to misunderstandings, confusion, and divergent interpretations.
+   - **Strategy:** Ensure that the mandate is written in clear and concise language. Encourage questions and feedback during the development phase. Create supplementary documentation, visuals, or training sessions to further clarify any ambiguous points.
+
+3. **Inadequate Communication:**
+   - **Challenge:** Failure to effectively communicate the mandate to all relevant stakeholders can result in misalignment and a lack of understanding.
+   - **Strategy:** Develop a comprehensive communication plan. Regularly share updates, provide training sessions, and use multiple communication channels. Tailor the messaging to different audiences to ensure that each group understands how the mandate affects them.
+
+4. **Insufficient Engagement:**
+   - **Challenge:** Lack of engagement from team members in the development and implementation of the mandate can lead to a lack of ownership and commitment.
+   - **Strategy:** Involve team members early in the process. Conduct workshops, brainstorming sessions, or feedback forums to gather input. Encourage a sense of ownership by highlighting how the mandate aligns with the team's values and goals.
+
+5. **Rigid Implementation:**
+   - **Challenge:** Mandates that are too rigid may not account for changing circumstances or evolving team needs.
+   - **Strategy:** Build flexibility into the mandate. Periodically review and update the mandate based on feedback and changing conditions. Establish mechanisms for adapting the mandate to ensure it remains relevant and effective.
+
+6. **Inadequate Measurement and Feedback:**
+   - **Challenge:** Without clear metrics and feedback mechanisms, it's challenging to assess the effectiveness of the mandate.
+   - **Strategy:** Define key performance indicators (KPIs) aligned with the mandate's objectives. Regularly evaluate performance against these metrics and gather feedback from team members. Use the data to make informed adjustments to the mandate as needed.
+
+7. **Unrealistic Expectations:**
+   - **Challenge:** Setting unrealistic expectations in the mandate can lead to frustration and demotivation.
+   - **Strategy:** Ensure that goals and timelines in the mandate are realistic and achievable. Conduct a thorough assessment of resources and potential challenges during the development phase. Communicate expectations transparently and be willing to adjust them as necessary.
+
+=== Conclusion
+* 
+* 
+* 
+
+=== Archived Text
+
+*The power of direction and responsibility*
+Often the things that prevent a team from working effectively and entering into flow is a lack of clarity of purpose and domain of authority.
+If teams can't easily explain their purpose they probably don't really know it and are probably unsure about their direction.
+And, if they don't understand where they are allowed to make autonomous decisions, they will constantly feel unsure about decisions that need to be made and consequently tend to escalate more often than what is necessary.
+
+*Case Study*
+
+*Team:* Expedia's Global Product Operations (GPO) team
+
+*Challenge:* The GPO team, responsible for managing and optimizing Expedia's global product portfolio, faced challenges in aligning its efforts, coordinating across different regions, and delivering consistent product experiences.
+
+*Solution:* Expedia's leadership team established a clear mandate for the GPO team, focusing on three key areas:
+
+Prioritize customer value: The team was tasked with prioritizing initiatives that would deliver the most value to Expedia's customers, ensuring that their work aligned with the company's overall business goals.
+
+Focus on collaboration: The mandate emphasized the importance of collaboration and communication across regions and teams. The team was encouraged to share knowledge, work together on solutions, and break down silos.
+
+Embrace data-driven decision-making: The mandate highlighted the value of using data to inform decisions and optimize product performance. The team was equipped with the necessary tools and training to collect, analyze, and interpret data effectively.
+
+*Impact:* By clarifying its mandate, Expedia's GPO team experienced significant improvements in collaboration, productivity, and decision-making. The team became more aligned around shared goals, fostered better communication practices, and leveraged data to make informed decisions. This led to the development of more customer-centric products and a more efficient product management process.
+
+*Reference:* "Exploring the Power of Clear Mandates for Software Teams: A Case Study from Expedia" by AgileVentures
+
+

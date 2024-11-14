@@ -1,0 +1,24 @@
+= VS Code
+
+== Shortcuts
+* Open Command window to run vscode commands
+** Ctrl+Shft+P
+* Editor
+** Ctrl+Shft+E
+* Search
+** Ctrl+Shft+F
+* Source Control
+** Ctrl+Shft+G
+* Run
+** Ctrl+Shft+D
+* Extensions
+** Ctrl+Shft+X
+
+== Extensions
+* https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode[asciidoctor-vscode]
+** Ctrl+k wait...then click v 
+* https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv[Edit csv]
+* Ctrl+Shft+p (opens command window)
+** Run: Edit as csv
+* https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio[Draw.io Integration - Unofficial]
+* https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools[Microsoft Edge Tools for VS Code]

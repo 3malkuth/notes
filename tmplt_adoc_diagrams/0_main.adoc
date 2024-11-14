@@ -1,0 +1,36 @@
+= Plantuml Doc: An example Plantuml Doc
+:pdf-title-page:
+//:pdf-subtitle: Documentation for our awesome product
+:authors: Aryeh Judah
+:pdf-theme: theme.yml
+:doctype: book
+:toc:
+:toc-title: Table of Contents
+:toclevels: 6
+:requires: asciidoctor-diagram
+:plantuml-format: svg
+:diagram-refresh: always
+
+* *Notes*
+** https://docs.asciidoctor.org/diagram-extension/latest/blocks/
+
+<<<
+
+include::introduction.adoc[]
+
+<<<
+
+//image:../images/chap_prod_vis.jpg[fit=cover]
+
+<<<
+
+include::mermaid.adoc[]
+
+<<<
+
+include::plantuml.adoc[]
+
+<<<
+
+include::conclusion.adoc[]
+

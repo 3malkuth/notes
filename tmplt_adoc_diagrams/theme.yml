@@ -1,0 +1,187 @@
+# theme.yml for Asciidoctor PDF with Arial Font and Heading Styles
+
+extends: default
+
+# https://docs.asciidoctor.org/pdf-converter/latest/theme/custom-role/
+# https://docs.asciidoctor.org/pdf-converter/latest/roles/
+# https://docs.asciidoctor.org/pdf-converter/latest/theme/role/
+#role:
+#  diagrams:
+#    font-size: 52
+#    text-align: center
+
+# https://docs.asciidoctor.org/pdf-converter/latest/theme/block-image/#border-color
+image:
+  #align: right
+  border-width: 1.0
+  border-color: #CCCCCC
+  border-fit: auto # content or auto
+  border-radius: 7 # rounds borders
+  #border-color: #000000
+  #float-gap: [100, 6, 100, 6]
+  #width: 10%
+  #padding: [10000, 10, 10, 10]  # top, right, bottom, left
+  #margin: 200.0
+  caption:
+    align: center
+    font: Arial
+    font-style: bold
+
+# Page Layout
+page:
+  layout: portrait
+  size: A4
+    
+# Define font families
+font:
+  catalog:
+    Arial:
+      normal: msttcorefonts/Arial.ttf
+      bold: msttcorefonts/Arial_Bold.ttf
+      italic: msttcorefonts/Arial_Italic.ttf
+      bold_italic: msttcorefonts/Arial_Bold_Italic.ttf
+    #this is if you want to show puml code in the pdf
+    M+ 1mn:
+      normal: m_1mn_font/M1MnRegular-M2Gn.ttf
+      bold: m_1mn_font/M1MnBold-876J.ttf
+  fallbacks: [Arial]
+
+title_page:
+  align: center
+  title:
+    top: 150
+    font_size: 48
+    font_color: FFFFFF  # White
+    font_style: bold
+    margin-bottom: 10
+  subtitle:
+    font_size: 26
+    font_color: FFFFFF  # White subtitle text
+    font_style: italic
+  authors:
+    margin-top: 490
+    font_size: 20
+    font_color: FFFFFF  # White author text
+    font_style: bold
+  revision:
+    font_size: 14
+    font_color: FFFFFF  # White revision
+  date:
+    font_size: 12
+    font_color: FFFFFF
+  background_image: image:https://unsplash.com/photos/bYh_d5zDEAc/download?w=1920[fit=cover]
+
+# Table of contents styling (optional)
+toc:
+  font_family: Arial
+  font_size: 12
+  font_color: 000000
+  heading:
+    font_size: 16
+    font_style: bold
+    align: left
+
+# Heading 1
+heading_h1:
+  font_family: Arial
+  font_size: 22
+  font_color: 000000  # Black
+  font_style: bold
+  align: center
+  line_height: 1.3
+  margin_top: 30
+  margin_bottom: 10
+
+# Heading 2
+heading_h2:
+  font_family: Arial
+  font_size: 18
+  font_color: 000000  # Black
+  font_style: bold
+  align: left
+  line_height: 1.3
+  margin_top: 25
+  margin_bottom: 10
+
+# Heading 3
+heading_h3:
+  font_family: Arial
+  font_size: 16
+  font_color: 000000  # Black
+  font_style: bold
+  align: left
+  line_height: 1.3
+  margin_top: 20
+  margin_bottom: 8
+
+# Heading 4
+heading_h4:
+  font_family: Arial
+  font_size: 14
+  font_color: 000000  # Black
+  font_style: bold
+  align: left
+  line_height: 1.3
+  margin_top: 15
+  margin_bottom: 6
+
+# Heading 5
+heading_h5:
+  font_family: Arial
+  font_size: 13
+  font_color: 383e42  # Dark Grey
+  font_style: bold
+  align: left
+  line_height: 1.3
+  margin_top: 15
+  margin_bottom: 6
+
+
+# Body text settings
+base:
+  text_align: left
+  font_family: Arial
+  font_size: 12
+  font_color: 000000
+  line_height: 1.5
+
+
+# List Styling
+list:
+  bullet:
+    font_family: Arial
+    font_size: 12
+    font_color: 000000
+    bullet_color: 000000
+    bullet_size: 0.6em
+
+  ordered:
+    font_family: Arial
+    font_size: 12
+    font_color: 000000
+    number_color: 000000
+    number_size: 0.6em
+
+footer:
+  recto:
+    right:
+      content: ''
+    center:
+      content: '{page-number}'
+  verso:
+    left:
+      content: ''
+    center:
+      content: '{page-number}'
+
+cover:
+  back:
+    image: image:https://unsplash.com/photos/bYh_d5zDEAc/download?w=1920[fit=cover]
+
+back_page_text:
+  font_family: Arial
+  font_size: 14
+  font_color: FFFFFF  # White text
+  align: right
+  margin_bottom: 10
+

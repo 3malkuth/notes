@@ -1,0 +1,22 @@
+= Narakeet - Video Editor
+* https://www.narakeet.com/[Website]
+
+
+== 
+
+== Example source.md
+* Notice that the audio file needs to be added before the scene image
+* Notice that you can place text over the image directly in markdown
+----
+---
+size: 1080p
+---
+
+(audio: someAudioFile.m4a)
+![](0TripatternIntro.png)
+
+```md
+Some random text
+```
+---
+----

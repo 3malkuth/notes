@@ -1,0 +1,27 @@
+= LeSS
+
+== PO in LeSS
+As a LeSS Product Owner, it’s easy to get overloaded. You are the one
+steering the development to achieve the product vision and are
+involved with so much, including all of these:
+> direction & prioritization—deciding where to evolve to next
+1. Throughout, user preferably means truly hands-on people or variants.
+https://less.works For Alexander Boden only, id:alexander-boden
+179
+Product Owner in LeSS
+> vision, evolution, and adopting technologies—taking a long-term
+view
+> relationships and politics—keeping everyone happy (enough)
+> judging & predicting—evaluating markets and competitors
+Those are core responsibilities; the Product Owner should focus on
+them. But there are other time vampires that suck up time:
+> clarification—discovering the details of what items mean
+> administrative work—reporting and tracking metrics
+> cross-department coordination—correlating manufacturing, sales,
+etc.
+> learning about markets, technologies, and competitors
+That stuff should be delegated, preferably to the teams. And the Product Owner should not be doing these tasks:
+> managing dependencies or coordinating between teams
+> predicting and planning the work of the teams
+> challenging estimates
+> more generally, carrying information between people

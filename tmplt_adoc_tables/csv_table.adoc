@@ -1,0 +1,8 @@
+== Include a CSV file in a Table
+
+.Table from CSV
+[format="csv", options="header", separator=","]
+|===
+include::data.csv[]
+|===
+

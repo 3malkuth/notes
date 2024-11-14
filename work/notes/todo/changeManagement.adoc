@@ -1,0 +1,8 @@
+= Change Management
+
+== Communication
+* Should send a weekly communication to everyone involved or affected by the change process to tell them the following:
+* What happened in the last week (IST)
+* Plan for the coming week
+* Next steps
+* How can they actively support the process this week...

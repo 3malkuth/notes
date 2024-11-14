@@ -1,0 +1,18 @@
+== Team Daily Flow
+
+**Mornings**
+
+* Daily Re-Planning
+* Pairing / Mobbing on new Items
+
+**Afternoons**
+
+* Solo Tools
+
+**Evenings**
+
+* Review
+* Merge PR's
+* Swarm Testing
+
+

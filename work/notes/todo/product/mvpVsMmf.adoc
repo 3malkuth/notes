@@ -1,0 +1,3 @@
+
+* https://en.wikipedia.org/wiki/Minimum_viable_product
+* https://www.agilealliance.org/glossary/mmf/#q=~(infinite~false~filters~(postType~(~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'mmf))~searchTerm~'~sort~false~sortDirection~'asc~page~1)

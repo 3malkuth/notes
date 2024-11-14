@@ -1,0 +1,16 @@
+= Ways of Working: Dokument (Subtitel)
+include::../config/header.adoc[]
+:toc-title: Inhaltsverzeichnis
+
+<<<
+
+include::einleitung.adoc[]
+
+<<<
+
+include::dod.adoc[]
+
+<<<
+
+include::fazit.adoc[]
+

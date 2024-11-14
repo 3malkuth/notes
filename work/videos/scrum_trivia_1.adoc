@@ -1,0 +1,42 @@
+= Scrum Trivia - Video 1
+
+== Notes
+
+This was completed in elevenlabs.io with George's voice
+
+== Text
+
+Welcome to Scrum Trivia! Are you ready to test your knowledge of Scrum principles?
+
+Here's today's question:
+
+"Which of the following principles is Scrum based on?"
+
+A) The Theory of Constraints
+<break time="1.0s" />
+B) Empiricism
+<break time="1.0s" />
+C) Product Ownership
+<break time="1.0s" />
+D) OKRs
+<break time="1.0s" />
+E) Lean Thinking
+<break time="1.0s" />
+F) KPIs
+<break time="1.0s" />
+G) Kanban
+
+Take a moment to consider the solution.
+
+The correct answers are:
+<break time="1.0s" />
+B) Empiricism
+<break time="1.0s" />
+E) Lean Thinking
+
+Scrum is founded on the principle of Empiricism, which means making decisions based on what is known. It also incorporates Lean Thinking to maximize value and minimize waste.
+
+How did you do? Comment below and let us know!
+
+Don't forget to like and subscribe!
+

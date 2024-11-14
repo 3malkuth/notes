@@ -1,0 +1,38 @@
+= Product Development, Management, Leadership
+
+== Startup Phase
+* Key is to validate the Idea!
+* As little code as possible as coding is expensive & takes long
+** Cost of being wrong is high
+** You don't need to code to validate an idea, there are other ways
+
+
+== Product Feature, Bugs, Tech Debt&Arch Flow
+=== Questions
+* How big are your queues?
+* What is the cost of these queues?
+** How does queue size translate into delay cost?
+** We need to know the cost of delay
+
+=== Economic View
+
+==== THE Unit of Measurement
+* Life-cycle profit impact
+** All other Proxy Variables need to be measured i.t.o this
+
+==== Dangers of Design in Process (DIP)
+* Can't see it like typical factory WIP
+* DIP is information sitting on storage somewhere
+
+==== Queues are bad!
+* Increase variability, risk and cycle time
+* Decrease efficiency, quality, motivation
+
+==== Measuring a Subprocess in Economic Terms
+* Total cost of sub-process = cost of capacity + delay cost
+** WSJF = Cost of Delay / Job Duration (Job Size)
+*** https://www.scaledagileframework.com/wsjf/
+
+==== Reduce Batch Sizes
+* Large batches lead to major delays, variablity etc.
+* Link between large batch sizes and transaction costs

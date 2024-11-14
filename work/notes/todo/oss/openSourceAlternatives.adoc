@@ -1,0 +1,80 @@
+= Open Source Alternatives
+
+== Laptop
+* Dell XPS 13 running Linux
+** Ubuntu
+** https://wiki.archlinux.org/index.php/Dell_XPS_13_2-in-1_(7390)[Arch]
+
+== Mobile Phone
+* https://en.wikipedia.org/wiki/List_of_open-source_mobile_phones[List of Open Source Mobile phones]
+* PinePhone
+* UBPorts - Ubuntu Touch Continuation
+
+== Search
+* https://alternativeto.net/software/google-search/[Alternatives to Google Search]
+* https://duckduckgo.com[duckduckgo.com]
+* https://startpage.com/[startpage.com]
+
+== Cloud Email, Storage, Calendar...
+* Nextcloud
+** https://greensta.de[Teuto.net as Hosting Provider]
+
+== Video Calls
+* Jitsi
+* Nextcloud - Own video app?
+
+== Office
+* https://en.wikipedia.org/wiki/OpenDocument
+* ONLYOFFICE
+* LibreOffice
+* Pandoc
+** Markdown
+** Asciidoc
+* CSV files
+
+== Maps
+* https://www.openstreetmap.org/[Open Street Map]
+
+== IDE
+* https://github.com/VSCodium/vscodium#why[vscodium]
+** https://github.com/features/codespaces[codespaces]
+* https://www.eclipse.org/[eclipse]
+
+== Dev Env
+* https://nocalhost.dev/getting-started/
+
+== Text Editing & Publishing
+* Markdown
+* Asciidoc
+** Asciidoctor
+* Calibre
+
+== Diagrams
+* https://diagrams.net[diagrams.net]
+** Online App
+** Online Collaboration
+** Can save in editable xml format (remove compressable configuration)
+** Also apps for windows, linux...
+** Can use online app in android
+* https://plantuml.com/[plantuml]
+** Programmable UML diagrams
+
+== Design
+* Tools
+** inkscape
+** gimp
+** Blender
+** Openshot
+** Audacity
+* Online Tools
+** https://www.vectorstock.com/cart[vectorstock]
+** https://openclipart.org[openclipart]
+
+== Video Editing
+* https://www.openshot.org/user-guide/[Openshot]
+
+== CAD
+* FreeCAD
+* Blender
+* LibreCAD
+* https://www.sculpteo.com/blog/2018/03/21/top-13-of-the-best-open-source-cad-software/[Other]

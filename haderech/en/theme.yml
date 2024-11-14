@@ -1,0 +1,158 @@
+# theme.yml for Asciidoctor PDF with Arial Font and Heading Styles
+
+extends: default
+
+# Page Layout
+page:
+  layout: portrait
+  size: A4
+    
+# Define font families
+font:
+  catalog:
+    Arial:
+      normal: Arial.ttf
+      bold: Arial_Bold.ttf
+      italic: Arial_Italic.ttf
+      bold_italic: Arial_Bold_Italic.ttf
+  fallbacks: [Arial]
+
+title_page:
+  align: center
+  title:
+    top: 150
+    font_size: 48
+    font_color: FFFFFF  # White
+    font_style: bold
+    margin-bottom: 15
+  subtitle:
+    font_size: 26
+    font_color: FFFFFF  # White subtitle text
+    font_style: italic
+  authors:
+    margin-top: 490
+    font_size: 20
+    font_color: FFFFFF  # White author text
+    font_style: bold
+  revision:
+    font_size: 14
+    font_color: FFFFFF  # White revision
+  date:
+    font_size: 12
+    font_color: FFFFFF
+  background_image: image:https://unsplash.com/photos/Vl2OBElyJu4/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzMwMjExNjQ2fA&w=1920[fit=cover]
+
+# Table of contents styling (optional)
+toc:
+  font_family: Arial
+  font_size: 12
+  font_color: 000000
+  heading:
+    font_size: 16
+    font_style: bold
+    align: left
+
+# Heading 1
+heading_h1:
+  font_family: Arial
+  font_size: 22
+  font_color: 000000  # Black
+  font_style: bold
+  align: center
+  line_height: 1.3
+  margin_top: 30
+  margin_bottom: 10
+
+# Heading 2
+heading_h2:
+  font_family: Arial
+  font_size: 18
+  font_color: 000000  # Black
+  font_style: bold
+  align: left
+  line_height: 1.3
+  margin_top: 25
+  margin_bottom: 10
+
+# Heading 3
+heading_h3:
+  font_family: Arial
+  font_size: 16
+  font_color: 000000  # Black
+  font_style: bold
+  align: left
+  line_height: 1.3
+  margin_top: 20
+  margin_bottom: 8
+
+# Heading 4
+heading_h4:
+  font_family: Arial
+  font_size: 14
+  font_color: 000000  # Black
+  font_style: bold
+  align: left
+  line_height: 1.3
+  margin_top: 15
+  margin_bottom: 6
+
+# Heading 5
+heading_h5:
+  font_family: Arial
+  font_size: 13
+  font_color: 383e42  # Dark Grey
+  font_style: bold
+  align: left
+  line_height: 1.3
+  margin_top: 15
+  margin_bottom: 6
+
+
+# Body text settings
+base:
+  font_family: Arial
+  font_size: 12
+  font_color: 000000
+  line_height: 1.5
+
+
+# List Styling
+list:
+  bullet:
+    font_family: Arial
+    font_size: 12
+    font_color: 000000
+    bullet_color: 000000
+    bullet_size: 0.6em
+
+  ordered:
+    font_family: Arial
+    font_size: 12
+    font_color: 000000
+    number_color: 000000
+    number_size: 0.6em
+
+footer:
+  recto:
+    right:
+      content: ''
+    center:
+      content: '{page-number}'
+  verso:
+    left:
+      content: ''
+    center:
+      content: '{page-number}'
+
+cover:
+  back:
+    image: image:https://unsplash.com/photos/3o1QkWJ12RA/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzMwMjExMzU0fA&w=1920[fit=cover]
+    # image: image:https://unsplash.com/photos/E21yrSpLCRc/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzMwMjE0NTcxfA&w=1920[fit=cover]
+
+back_page_text:
+  font_family: Arial
+  font_size: 14
+  font_color: FFFFFF  # White text
+  align: right
+  margin_bottom: 10
+

@@ -1,0 +1,182 @@
+= Education List World
+
+== Health
+* Ancient Remedies for Modern Life (Dr. Josh Axe)
+
+== Languages
+
+=== English
+* https://www.amazon.de/-/en/William-Strunk-JR-ebook/dp/B07NPN5HTP/ref=sr_1_2?dchild=1&keywords=writing+elements+style&qid=1614768012&sr=8-2
+
+== Personal Development
+=== Setting Goals
+* Measure What Matters: OKRs: The Simple Idea that Drives 10x Growth (John Doerr)
+** Why the secret to success is setting the right goals (John Doerr - Youtube Video)
+* Strategic Planning Amazon Search
+
+=== Focus
+* The Organized Mind: Thinking Straight in the Age of Information Overload (Daniel Levitin)
+* Digital Minimalism: Choosing a Focused Life in a Noisy World (Cal Newport)
+* Deep Work: Rules for Focused Success in a Distracted World (Cal Newport)
+* The Power of Habit: Why We Do What We Do, and How to Change (Charles Duhigg)
+
+=== Logic and Thinking
+* Thinking, Fast and Slow (Daniel Kahneman)
+
+
+== Values, Character etc.
+* Mindset - Updated Edition: Changing The Way You think To Fulfil Your Potential (Carol Dweck)
+
+=== Courage
+* Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead (Brené Brown)
+=== Responsibility
+
+=== Self-Discipline
+* The Science of Self-Discipline: The Willpower, Mental Toughness, and Self-Control to Resist Temptation and Achieve Your Goals (Peter Hollins)
+* Philosophies on Self-Discipline: Lessons from History’s Greatest Thinkers on How to Start, Endure, Finish, & Achieve (Peter Hollins)
+* Legendary Self-Discipline: Lessons from Mythology and Modern Heroes on Choosing the Right Path Over the Easy Path (Peter Hollins)
+
+=== Initiative
+* Spark: Ignite initiative. We're better together. (Bradley Charbonneau)
+
+=== Discipline
+
+== Business
+
+=== Supply Chain Management
+* Managing Supply Chain Operations (Lei Lei...)
+
+== Personal / Life Coaching
+* ICF - International Coaching Federation
+* ORSC Book
+* Co-Active Coaching: The proven framework for transformative conversations at work and in life - 4th edition (recommended from less)
+* https://www.thecoachingtoolscompany.com/coaching-books/
+* Co-Active Coaching
+* 50 Top Tools for Coaching: A Complete Toolkit for Developing and Empowering People (Gillian Jones, Ro Gorell)
+** https://www.youtube.com/playlist?list=PLjkZIfSedSWgF35IIZQn0IkPvdjPFff2Q[Youtube - 50 Top Tools for Coaching]
+* The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever (Michael Bungay Stanier)
+
+== Team Coaching
+* Leading Teams: Setting the Stage for Great Performances (J. Richard Hackman)
+* The Five Dysfunctions of a Team: A Leadership Fable (Patrick M. Lencioni)
+* The Team Coaching Toolkit: 55 Tools and Techniques for Building Brilliant Teams (Tony Llewellyn)
+* Leadership Team Coaching: Developing Collective Transformational Leadership (Peter Hawkins)
+* Leadership Team Coaching in Practice: Case Studies on Developing High-Performing Teams (Peter Hawkins)
+
+=== Strategy
+* Wardley Maps - Topographical Intelligence in Business (Simon Wardley)
+** https://twitter.com/swardley
+** https://medium.com/wardleymaps[Online Book Link]
+** https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRVkWG7pjboonlrbISxtSN9I
+** https://list.wardleymaps.com/
+** https://learn.hiredthought.com/p/wardley-mapping
+** https://learn.leadingedgeforum.com/p/wardley-mapping/?product_id=277424
+
+* THE ART OF STRATEGY: Steps Towards Business Agility (Erik Schön , Sun Tzu, et al.)
+* Agile Strategy (Ralph Fernando)
+* https://www.youtube.com/user/virtualstrategist[Virtual Strategist Youtube Channel]
+* Agile Strategy Management in the Digital Age: How Dynamic Balanced Scorecards Transform Decision Making, Speed and Effectiveness (David Wiraeus, James Creelman)
+* Agile Strategy Execution: Revolutionizing the HOW! (Gaye Clemson, Alan Leeds)
+* FoCuSeD™ Agile Strategic Planning (Gary Rush)
+* https://youtu.be/NBJ-UZzzeSc[Good Strategy / Bad Strategy]
+* Mapping Experiences: A Complete Guide to Customer Alignment Through Journeys, Blueprints, and Diagrams (James Kalbach)
+* The Jobs To Be Done Playbook: Align Your Markets, Organization, and Strategy Around Customer Needs (James & Jim Kalbach)
+
+=== Culture
+* https://sloanreview.mit.edu/article/how-to-change-a-culture-lessons-from-nummi/
+* Culture Map
+* book that satya nadella thinks was great
+
+=== Leadership
+* The Art of Leadership: Small Things, Done Well (Michael Lopp)
+
+=== Marketing
+
+=== Sales
+* The Psychology of Selling (Brian Tracey)
+** https://blog.hubspot.com/sales/the-psychology-of-selling[A 10-Minute Summary of "The Psychology of Selling" by Brian Tracy]
+
+=== Finance & Accounting
+* Real Numbers: Management Accounting in a Lean Organization (Jean E. Cunningham, Orest J. Fiume, Emily Adams)
+* The Value Add Accountant (Jean E. Cunningham)
+
+=== Tax
+* Steuern steuern mit Immobilien - Johann C. Köber
+
+=== Innovation
+* Cynefin (Dave Snowden)
+
+=== Entrepreneurship
+* Business Model Generation (Alexander Osterwalder, )
+
+=== Product Development, Management, Leadership
+* The Principles of Product Development Flow: Second Generation Lean Product Development (
+Donald G Reinertsen)
+* Product Leadership: How Top Product Managers Create and Launch Successful Products (Richard Banfield)
+* Strategize: Product Strategy and Product Roadmap Practices for the Digital Age (Roman Pichler)
+* How to Lead in Product Management: Practices to Align Stakeholders, Guide Development Teams, and Create Value Together (Roman Pichler)
+* INSPIRED: How to Create Tech Products Customers Love (Marty Cagan)
+
+=== Lean
+
+==== Software Development
+* Lean Software Development: An Agile Toolkit (Mary & Tom Poppendieck)
+* Implementing Lean Software Development: From Concept to Cash (Mary & Tom Poppendieck)
+* Leading Lean Software Development: Results Are not the Point (Mary & Tom Poppendieck)
+
+==== General
+
+* https://www.lean.org/Bookstore/[lean.org bookstore]
+* https://www.amazon.de/-/en/Jeffrey-K-Liker/e/B001H6NRUQ?ref=sr_ntt_srch_lnk_1&qid=1607012370&sr=8-1
+* Managing to Learn: Using the A3 Management Process to Solve Problems, Gain Agreement, Mentor and Lead - John Shook
+* The Lean Toolbox (John R Bicheno)
+* Everything I Know About Lean I Learned in First Grade(Robert O. Martichenko , Liz Maute, et al.)
+* Lean Lexicon (John Shook and Chet Marchwinski)
+* A factory of One (Daniel Markovitz)
+* Kanban (David J. Anderson)
+* Toyota Kata
+** The Toyota Kata Practice Guide: Practicing Scientific Thinking Skills for Superior Results in 20 Minutes a Day (Mike Rother)
+** Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results (Mike Rother)
+* Creating Continuous Flow: An Action Guide for Managers, Engineers and Production Associates (Mike Rother, Rick Harris)
+* Value Stream Mapping
+** Learning to See: Value-Stream Mapping to Create Value and Eliminate Muda : Version 1.3 June 2003: Value Stream Mapping to Add Value and Eliminate Muda (Mike Rother, John Shook)
+** Training to See: A Value Stream Mapping Workshop (Mike Rother, John Shook)
+
+
+=== Agile
+* Scrum: The Art of Doing Twice the Work in Half the Time (Jeff & JJ Sutherland)
+* The Scrum Fieldbook: Faster performance. Better results. Starting now. (JJ Sutherland)
+* The Official Scrum Guide
+* Scrumban (Corey Ladas)
+* Kanban (David J. Anderson)
+
+=== Startups / Incubators
+* The Lean Startup (Eric Ries)
+* Lean Branding (Laura Busche)
+* Lean Analytics (Alistair Croll and Benjamin Yoskovitz)
+* UX for Lean Startups (Laura Klein)
+* Lean Startup Marketing (Sean Ellis)
+
+=== Remote Work
+* Remote: Office Not Required - David Heinemeier Hansson
+
+== Philosophy
+* Beauty (Roger Scruton)
+
+== History
+* The Light and the Glory (Peter Marshall and David Manuel)
+* The Journal of Major George Washington
+* Churchill's History of the Second World War
+* Iron Kingdom: The Rise and Downfall of Prussia, 1600-1947 (Christopher Clark)
+
+== Literature
+* War & Peace
+* Anna Karenina
+* Crime and Punishment
+* The Chronicles of Narnia
+* The Lord of the Rings
+* C.S. Lewis Sci-Fi Trilogy
+
+== General
+* https://www.amazon.de/gp/product/B004BLKCXY?ref=em_1p_1_ti&ref_=pe_19532891_550383291
+* https://www.amazon.de/-/en/Charles-Van-Doren-ebook/dp/B004PYDAPE/ref=msx_wsirn_v1_4/257-3796006-1798115?_encoding=UTF8&pd_rd_i=B004PYDAPE&pd_rd_r=a73b4521-93e9-43c2-8f6f-c32eec2acd52&pd_rd_w=l5V4p&pd_rd_wg=ony35&pf_rd_p=efdbdf15-aa84-4b1d-80ec-6e76f34d676a&pf_rd_r=EKMTPPPHC791FXDWN00Z&psc=1&refRID=EKMTPPPHC791FXDWN00Z

@@ -1,0 +1,11 @@
+= Agile Budgets
+
+== Old School
+* PLaning Resources with PT's
+* FTEs - Full Time Equivalent
+* Doing timesheets for each and every task!
+
+== New Way
+* If we have stable scrum teams...
+* Then we know how much a sprint costs
+* We can measure the output of the team against the cost...

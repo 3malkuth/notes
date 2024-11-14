@@ -1,0 +1,16 @@
+= Predigten
+:pdf-title-page:
+:pdf-subtitle: Predigtsammlung
+:authors: Aryeh Judah
+:doctype: book
+:toc:
+:toc-title: Table of Contents
+:toclevels: 1
+
+<<<
+
+include::20241027_elia_born_of_god.adoc[]
+
+<<<
+
+include::20240216_elia_mens_grill_evening.adoc[]

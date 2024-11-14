@@ -1,0 +1,157 @@
+=== Team Forming - Introduction
+
+
+==== What is team forming?
+So what is team forming exactly?
+
+*Understanding Team Forming*
+Ever wondered what team forming is all about? It's essentially the process of shaping a group of individuals into an effective, collaborative team. Let's break it down step by step.
+
+*Starting with an Idea & a Sponsor*
+It all begins with an idea. A stakeholder or sponsor recognizes a need that calls for a dedicated team. This could be a new product or initiative they're ready to invest in.
+
+*Gathering a Group*
+To fulfill this need, we need people—a team with diverse skills and perspectives. These individuals come together to work on the identified goal.
+
+*Setting the Platform for Collaboration*
+Now, here's the crucial part. In team forming, we don't just throw people together; we take the time to understand the team's purpose, the roles each member plays, the values they share, and the desired ways of working together. This sets the stage for a well-established, collaborative team.
+
+==== Why do we invest in team forming?
+* *Bad Start:* It's hard for a team to recover from a bad start
+* *Uniting strategy, execution and core values:* The team is focused on what is needed to satisfy customers
+* *Alignment:* of business people and developers ensuring everyone understands what is needed to be done
+* *Before the pressure begins:* A group gets the chance to form into a team before the pressure of development work begins
+* *Lay a solid foundation:* By laying a solid foundation everyone has a chance to provide their input and perspective on what needs to be accomplished and then begin collaborating
+* *Connect & Understand Stakeholder Needs:* The group gets a chance to meet with the different stakeholders and sponsors understanding what each group / person needs from their involvement in the delivering the initiative
+* *Establish Team Norms & Standards:* The group has a chance to establish norms for their ways of working together
+
+==== What's the Goal?
+* *Achieve Alignment:* Ensuring the team is aligned behind the vision and goals of the stakeholders
+* *Build Momentum:* We want the team to grow from strength to strength in productivity and efficacy
+* *Clarify Roles:* It's important for all to know exactly the role they play in the team reaching its goals
+
+==== When?
+*Before & after a Team is formed:* Even if a team has been working together for some time it still makes sense to do team forming - you will see the positive fruit
+
+==== How?
+
+===== Workshop(s)
+* Agile Chartering in a Kickoff Workshop or set of Workshops
+
+====== Preperation
+* Initial Session to clarify the broad outlines and intentions for the project
+* Goals
+* Agenda
+* Logistics
+* Facílitation
+* ...
+
+====== Time
+* Usually 2 days
+* Can split up into seperate sessions, but don't let it drag on
+
+===== Major Themes
+
+====== Purpose
+* Define purpose for inspiration, motivation and meaning.
+* Define a product vision.
+* Agree on the next step towards realizing that vision.
+* Define criteria for success.
+
+* *Product Vision*
+** Forward-looking statement that describes the desired future state or the aspirational goals that the team aims to achieve.
+** What is the high-level vision for the product, service or project?
+** Who are the the users?
+** What are their needs?
+** What is our solution for meeting these needs (high-level)?
+
+* *Team Mission*
+** What the team does now and everyday in order to realize its vision and goals
+** Outlines the team's fundamental purpose, what it does, and for whom. It provides the "why" and "how" of the team's existence.
+
+* *Main Objectives*
+** Team's overall objectives
+** One can get specific, but best to start with the big picture
+
+====== Alignment
+* Establish a cross-functional team with a common purpose and create alignment for trust, united collaboration and joint commitment.
+* Describe the team, team roles and find out about individual team members.
+* Agree on values and principles.
+* Establish working agreements.
+
+* *Team Profiling Roles*
+** Who is in the team?
+** Find out and share personality profiles (e.g. 16 Personalities)
+** Do we have enough diversity?
+** What skills, traits and needs do the members of the team have?
+** What are the formal roles and who will fill them?
+
+* *Values & Principles*
+** What are our values and deeply held beliefs?
+** Under what conditions do we work best?
+
+* *Working Agreements*
+** How can we work together?
+** How will we communicate with each other and with others?
+** What rules do we agree on?
+** How do we define quality?
+
+====== Context
+* See the whole context for full understanding of the systems (people, actions, outcomes) involved.
+* Explore system boundaries and interactions.
+* Recognize given constraints & resources.
+* Look ahead into the near future and assess risks.
+
+* *Boundaries & Interactions*
+** Who else is / what stakeholders are involved?
+** What can we do ourselves and where are we dependent on others?
+** Who can help us?
+** Who can provide us with information?
+** Who needs our support and / or information?
+** Areas of Responsibility
+
+* *Constraints & Resources*
+** What are our constraints?
+** What resources do have available?
+
+* *Near Future & Risks*
+** Looking into the near future, what are the risks?
+** What could help us?
+** What could hinder us?
+** What have we forgotten or have we missed opportunities?
+** What can we do about it?
+
+===== SKIP: Canvas
+* Purpose, Alignment & Context on a single Page
+
+==== Conclusion
+* Set your team up for rapid effectivity and success.
+
+==== References
+* https://srinathramakrishnan.wordpress.com/2015/02/11/brief-summary-of-liftoff-launching-agile-projects-and-teams/
+
+
+
+==== Archived Material
+
+===== New Teaming Story
+* (HF - SG Squad)
+* Asked to do a team forming process with a new team to get them up and running ASAP within the context of the organization
+* I ran the sessions over a few weeks
+* We managed to...
+** Get the team up and running quickly
+** Delivering value even though many of the developers were new to the organization
+** They began to collaborate so well that they set standards for the rest of the organization in their ways of working
+
+===== Shared Vision and Alignment
+Research by Hackman and Morris (1990) found that teams with a clear mission and shared understanding of their purpose tend to perform better. A team charter helps establish this shared vision and alignment.
+Reference: Hackman, J. R., & Morris, C. G. (1975). Group tasks, group interaction process, and group performance effectiveness: A review and proposed integration. In L. Berkowitz (Ed.), Advances in experimental social psychology (Vol. 8, pp. 45–99). Academic Press.
+Improved Communication and Collaboration:
+Katzenbach and Smith (1993) emphasized the importance of team charters in their book “The Wisdom of Teams.” They found that teams with clear charters exhibit better communication, collaboration, and overall performance.
+Reference: Katzenbach, J. R., & Smith, D. K. (1993). The wisdom of teams: Creating the high-performance organization. Harvard Business School Press.
+Clarity of Roles and Responsibilities:
+Research by Tuckman (1965) introduced the famous “forming, storming, norming, performing” model. The initial “forming” stage involves creating a team charter to define roles, responsibilities, and norms. Clarity in these areas positively impacts team productivity.
+Reference: Tuckman, B. W. (1965). Developmental sequence in small groups. Psychological Bulletin, 63(6), 384–399.
+Team Charter as a Commitment Device:
+Larson and LaFasto (1989) studied high-performing teams and found that a team charter serves as a commitment device. When team members actively participate in creating the charter, they are more likely to adhere to it, leading to improved productivity.
+Reference: Larson, C. E., & LaFasto, F. M. J. (1989). Teamwork: What must go right/what can go wrong. Sage Publications.

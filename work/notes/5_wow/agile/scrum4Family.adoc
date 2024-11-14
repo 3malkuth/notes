@@ -1,0 +1,8 @@
+= Scrum-For-Business
+
+== Product Owner - Service Owner
+* Responsible for defining WHAT needs ot be done
+
+
+== References
+* https://get2growth.com/scrum-for-marketing-teams/

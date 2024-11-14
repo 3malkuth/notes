@@ -1,0 +1,12 @@
+:pdf-title-page:
+//:pdf-subtitle: Documentation for our awesome product
+:authors: Aryeh Judah
+//:revnumber: 1.0
+//:revdate: 2024-09-23
+//:author_2: Second Author
+:doctype: book
+:toc:
+:toc-title: Table of Contents
+:toclevels: 6
+//:page-background-image: image:../images/cover_front.jpg[fit=cover]
+

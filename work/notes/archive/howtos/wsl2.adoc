@@ -1,0 +1,12 @@
+= WSL 2
+
+== Command Prompt Commands
+
+[source,bash]
+----
+wsl --shutdown
+wsl --restart
+----
+
+== Run Graphical X Commands in Windows from WSL 2
+* https://medium.com/@ragin/development-under-windows-under-linux-with-wsl2-intellij-860daf601b61

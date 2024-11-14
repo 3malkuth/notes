@@ -1,0 +1,81 @@
+= A3 Foundations
+
+== Why A3?
+I have always wanted to find a structured approach to problem solving using the PDCA cycle (Plan-Do-Check-Act). When I came across the A3 process I had found the right tool for the job.At the time I didn't realize that I had stumbled across a tool that I could use for so many different situations e.g. mentoring, project management, strategic planning... the list goes on.
+
+In this article I want to introduce the tool, process and thinking behind A3. In later articles I will go a little deeper into each section.
+
+== What is the A3 Tool?
+The tool typically uses a single sheet of ISO A3-size paper, which is the source of its name; however, you can use software to replace the paper e.g. spreadsheets.
+
+A typical A3 includes the following sections on the sheet of paper
+
+|===
+.3+| Title:| Owner:
+| Signature:
+| Version:
+
+
+| Background: | Countermeasures:
+| Current State: | Plan:
+| Goals / Objectives:
+.2+| Feedback & Learnings:
+| Analysis:
+|===
+
+The format helps with the following:
+* Clearly communicating the problem, goals, issues, countermeasures etc.
+* Root cause analysis
+* Planning
+* Reporting
+* Discussing
+* General state of the problem
+
+With A3 thinking we have an iterative structure for working toward our goals.
+The A3 process answers these questions:
+
+* what's the real problem? Why does it need to be addressed now?
+* Owner of the Problem?
+* Root causes of this issue
+* Possible options
+* How can we prioritize the countermeasures?
+* How do we get agreement with the stakeholders
+* What's the plan and rough timetable?
+* How will we measure effectiveness of the countermeasures?
+* What implementation plan can we anticipate?
+How do we ensure follow up and continuous improvement
+
+== What is the A3 Process?
+The process in the A3 form was pioneered at Toyota before being spread through the "lean" movement.
+The A3 process helps you to use PDCA thinking in your approach to problem solving.
+It also challenges you to live continuous imporvement (Kaizen).
+A3 provides a simple and structured procedure for guding people through their problem solving process.
+
+The process also helps people learn their way forward. When implemented correctly it should lead to effective countermeasures based on real facts and associated data.
+
+== Leadership Development
+One of the biggest challenges a leader faces is that they need to get work done and develop people at the same time.
+The A3 process assists leaders in solving this problem.
+
+== Steps behind A3 Thinking
+* Title - Whats the challenge?
+** Prioritization - Why do we need to deal with this now?
+* Owner - Who is taking ownership for this challenge?
+* Version - Is this the first time we have addressed this issue?
+* Current State - Where do we stand right now?
+* Goals / Objectives - Where do we want to be?
+* Analysis - What are the real root causes of the challenge we are facing?
+* Countermeasures - What can we do about it?
+** How will you decide which countermeasures to implement first?
+** How do we get everyone on board?
+* Plan - How are we going to roll out the countermeasures?
+** Who, What, Where, When, How…
+* How will we measure the success or failure of the countermeasures?
+* What could block us as we roll out the plan?
+** What could go wrong?
+* How will you capture and share the learning?
+* How will you make sure actions are reviewed?
+* What will you do to ensure continuous improvement in the future?
+
+== Structured Storytelling
+A3 thinking can also be thought of as structured storytelling. The "story" begins at the top right and moves through to the bottom right. 

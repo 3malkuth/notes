@@ -1,0 +1,79 @@
+= Survey: Agile Baseline
+
+== Introduction
+* View current state of team
+
+== How to run this survey?
+* Take each question / statement and copy it into a google form (or similar product)
+* Give each statement not tagged “TEXT RESPONSE” an answer with a scale from 0 - 5
+* The scale from 0 - 5 is a “fist to five” scale
+
+0 Fingers
+1 Finger
+2 Fingers
+3 Fingers
+4 Fingers
+5 Fingers
+Don’t do this at all
+Occasionally do this
+Every once in a while
+We try to do it
+We are doing it
+Part of our DNA
+
+It’s Red! It needs improving (Fingers 0-3)
+This is green! It's Good! (Fingers 4-5)
+
+== Survey
+
+=== Introduction
+* Thank you for do survey
+* Purpose - team understands where they are
+* Most Q's - Fist of 5
+
+== Team Name
+* Please choose your team name
+** Name needed to build team averages
+
+== Leadership, Purpose & Strategy
+* Team why defined
+* Believes in purpose
+* SMART Goals
+* Metrics
+* Strategy
+
+== Leadership
+* VMVPOSA Organization
+* Coach / Support vs.  “command and control”
+* Lead by example
+
+== Organisational Structure (Roles & Responsibilities)
+* One person responsible for prio. of what
+
+== People & Team Work
+* The work I do for the team is challenging, yet exciting and engaging
+* I am proud of the work I do for the team
+* I feel safe in the team and am willing to share my thoughts freely with my teammates
+* I feel healthy and strong
+* I quickly recover from setbacks
+* I am able to keep up the pace we work at in the team for a long period of time
+** TEXT RESPONSE
+
+== Business
+* Product Viosn & Strategy
+* Backlog is Customer valuable
+* Small expermients, fast feedback
+* Stable priorities
+* Unambiguous commitments
+* Backlog sliced according to value deliverable in 2-3 day increments
+* Customers generally like what we deliver and provide feedback
+* Thoughts - customer centricity
+** TEXT RESPONSE
+
+== Ways of Working
+* Easily change priorities 
+* Daily we deliver new func.
+* Dependencies are under control
+
+== Mastery / Skills
+* TODO

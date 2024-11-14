@@ -1,0 +1,15 @@
+= The Goals of our Agile Transformation
+
+* Write software that delights and satisifies users
+* Build structures that allow for late changes
+* Deliver software frequently, preferably continuously
+* Daily working together of Business people and developers
+* Create a culture that fosters responsible and motivated individuals
+** We want to ensure they have the trust, support, environment and tools etc. they need to get the work to "done"
+* Foster a culture of face-to-face communication as we believe this is the best way to convey information
+* Working software (qualitative, tested, bug-free) is to become the primary way of measuring progress
+* Develop structures that promote a sustainable development cadence
+* Simplify the complexity of the software
+* Through a software craftsman culture give continuous attention to technical excellence and design - this will enhance our agility
+* Establish self organizing teams who have the freedom to decide on architecture and design decisions in conversation with other teams
+* To create a culture of self reflection and continuous improvement 

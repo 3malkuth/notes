@@ -1,0 +1,53 @@
+= Produkt Management: E-Commerce-Seite (Subtitel)
+:pdf-title-page:
+//:pdf-subtitle: Produktdokumentation für unser großartiges Produkt
+:authors: tripattern.com
+//:revnumber: 1.0
+//:revdate: 2024-09-23
+//:author_2: Second Author
+:doctype: book
+:toc:
+:toc-title: Inhaltsverzeichnis
+:toclevels: 6
+//:page-background-image: image:../images/cover_front.jpg[fit=cover]
+
+<<<
+
+//image:../images/chap_intro.jpg[scaledwidth=100%]
+
+<<<
+
+include::einleitung.adoc[]
+
+<<<
+
+//image:../images/chap_prod_vis.jpg[scaledwidth=100%]
+
+<<<
+
+include::produkt_vision.adoc[]
+
+<<<
+
+//image:../images/chap_prod_strat.jpg[fit=cover]
+
+<<<
+
+include::produkt_strategie.adoc[]
+
+<<<
+
+//image:../images/chap_prod_rdmp.jpg[fit=cover]
+
+<<<
+
+include::produkt_roadmap.adoc[]
+
+<<<
+
+//image:../images/chap_conclusion.jpg[scaledwidth=100%]
+
+<<<
+
+include::fazit.adoc[]
+

@@ -1,0 +1,8 @@
+= Finances
+
+== Investements
+=== Property
+* https://www.openstreetmap.org/search?query=am%20bruche%2018%20leopoldsh%C3%B6he#map=19/52.01699/8.67719[Am Bruche 18, 33818 Leopoldshoehe]
+
+=== Stocks
+* https://degiro.de[Degiro]

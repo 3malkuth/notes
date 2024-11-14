@@ -1,0 +1,6 @@
+== Requirements
+
+=== Value Stream: Consumer
+
+//image::../images/vs_consumer.drawio.svg[Value Stream: Consumer]
+

@@ -1,0 +1,9 @@
+= Pairing
+
+== Tactics
+
+=== Smaller Focused Pairing Sessions
+* Instead of deciding to pair on a ticket the whole time
+** define small sub-tasks of the PBI where input would be needed from someone else in the team and do it as a pairing session...
+*** How do I test this one difficult case
+*** I need some domain knowledge around a certain theme

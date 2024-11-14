@@ -1,0 +1,62 @@
+== Product Strategy: Target Group
+
+Identifying the right customers and users for your product is key to its success: It determines the value proposition and the user experience, it influences the business model and the technologies used. This post helps you reflect on your market segmentation practice and pick up some new tips.
+
+=== Segmentation?
+
+Definition of Market Segmentation: Market segmentation involves dividing a market into distinct groups to create focused products and enhance user experience.
+
+Analogy: Similar to eating a cake by taking a slice instead of attempting to eat the whole cake at once.
+
+Clear Segments: Segments should be distinct and non-overlapping, ensuring homogeneity within each group.
+
+Targeted Approach: Focusing on specific market subsets increases the likelihood of satisfying customer needs rather than trying to please everyone.
+
+Example: An app designed for healthy eating could target specific groups, such as those wanting to lose weight or individuals with diabetes.
+
+Segmentation Criteria: Market segmentation can be based on customer properties (e.g., age, gender) or the benefits provided by the product.
+
+=== Segmentation by Customer
+Market segmentation can be based on various customer properties.
+
+* Demographics: Common demographic factors include age, gender, marital status, occupation, education, and income.
+* Psychographics: This includes lifestyle, social class, and personality traits.
+* Behavioral Attributes: Segmentation can also consider usage patterns, attitudes, and brand loyalty.
+* Geographic Regions: Markets can be divided by regions such as Europe, Middle East and Africa (EMEA), and Asia-Pacific (APAC).
+* Industries/Verticals: Segmentation can target specific industries like automotive, education, finance, and healthcare in B2B markets.
+* Company Size: For B2B products, segmentation can be based on company size, such as small and medium-sized enterprises (SMEs).
+
+For example a healthy eating app, a target segment could be defined as men aged 20-30 who are single, work long hours, and frequently eat out.
+
+They have a common focus. All segmentation attributes emphasize understanding the customer, whether they are consumers or businesses.
+
+=== Segmentation by Benefit
+This approach focuses on the benefits a product provides or the problems it addresses.
+
+Needs-Based Focus: Emphasizes understanding people's needs and the tasks they want to accomplish.
+
+For the example of our Healthy Eating App, if the app's main benefit is helping users understand their food intake, it can target different groups.
+* Individuals wanting to lose weight.
+* Those needing precise calorie tracking, such as athletes and people with diabetes.
+
+Diverse Demographics can be seen here. The weight-loss group could include single men aged 20-30 with poor eating habits or married women with small children who lack time for strict diets or regular exercise.
+
+
+=== Choosing an Approach
+Selecting the right market segmentation approach depends on the context of your project.
+
+Recommendation: Start by segmenting the market based on the benefits your product provides.
+
+Refinement: After establishing benefit-based segments, refine them using demographics and other customer properties.
+
+Risk Reduction: This method minimizes the risk of missing potential customers and avoids creating misaligned segments.
+
+Example: For the healthy eating app, focusing on benefits first would help identify athletes and women with children as potential target customers, which might be overlooked if only demographic and psychographic factors were considered.
+
+=== Avoid these common mistakes
+When segmenting the market, it's crucial to avoid two common mistakes. First, relying too heavily on predefined segments can hinder innovation and lead to poor product outcomes. Second, dismissing ideas that don't fit into existing market segments can result in missed opportunities for new products and markets. A notable example is the first iPhone, which successfully blurred the lines between consumer and business smartphones by offering a product that appealed to both groups.
+
+Mistakes to Avoid:
+* Blindly Following Predefined Segments: Clinging to existing customer segments can stifle innovation and lead to subpar results.
+* Dismissing Non-Conforming Ideas: Ignoring ideas that don't fit into predefined segments can cause missed opportunities for new products and markets.
+

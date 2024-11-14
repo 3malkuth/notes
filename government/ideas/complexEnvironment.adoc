@@ -1,0 +1,5 @@
+== Complex Environment
+* Governments find themselves operating with complex environments
+* Based on the Cynefin Framework this means that they need to master
+** Probe-Sense-Respond
+** An Empirical Process with short feedback cycles of 1 - 2 Weeks or perhaps 1 - 2 days is best suited to this type of environment

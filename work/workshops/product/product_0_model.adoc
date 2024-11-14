@@ -1,0 +1,12 @@
+== Product Model
+
+=== Process
+* Discovery
+* Product Vision & Strategy
+** Product Vision & Strategy Validation
+* Product Roadmap (Goal Focused)
+* Product Backlog
+* Product Development
+* KPIs & Development Progress
+* REPEAT...
+

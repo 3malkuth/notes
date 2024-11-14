@@ -1,0 +1,240 @@
+= CV
+
+Product, Team & Organizational Coach
+
+== Work Experience
+
+=== Coaching
+Organization: klose brothers
+
+Industry: Various
+
+Location: Bielefeld, Germany
+
+Date: 2018.04+
+
+Description:
+
+As I was developing software I had the opportunity to begin to slowly transition into a Scrum master role, beginning my coaching journey. I have coached teams and individuals in various organizations improving their strategic management, product management, collaboration, development practices, processes, structures, management practices, and communication. Please refer to my coaching portfolio in order to get a more detailed picture of my coaching activities.
+
+Highlights:
+
+- Coaching Unicorns: Uber Careem, HelloFresh
+- Coaching German Organizations: Diamant Software, Ceyoniq, Hermes "2 Man Handling"
+- Workshops: CSD Co-Trainer at Deutsche Telekom, HSBI CFE
+- Talks: JCI, Product Peak, HSBI Transfer Forum 
+
+=== Software Developer & Product Manager
+Organization: klose brothers
+
+Industry: Software Services, Coaching & Workshops
+
+Location: Bielefeld, Germany
+
+Date: 2015.09 - 2019.01
+
+Description:
+
+At a software craft meetup I was introduced to agile development practices, prompting me to join klose brothers to learn agile development techniques. After the apprentice program I put these new skills to use working in an agile development team within the automotive industry. I also had the privilege of taking a flailing product (dicomdrop.com), and getting the development process back on track until it was successfully launched.
+
+Highlights:
+
+- Using agile development practices within the automotive industry
+- Mentoring other software developers
+- As a Product Manager launching dicomdrop.com
+
+=== ERP Consulting
+Organization: Consulted to global4engineering.de & initos.com
+
+Industry: ERP Systems
+
+Location: Bielefeld, Germany
+
+Date: 2015.01 - 2015.06
+
+Description:
+
+I investigated the idea of becoming an Odoo Software & Business Consultant. I performed some trial work for two companies during this time (global4engineering.de & initos.com).
+
+Highlights:
+
+- Setting up Odoo for an SME
+- ERP Solution Selling
+
+=== Product Development Manager
+Organization: spe solutions GmbH (spe group GmbH - it-schutzengel.de)
+
+Industry: IT Services & Telecommunciations
+
+Location: Bielefeld, Germany
+
+Date: 2013.07 - 2014.12
+
+Description:
+
+I was initially tasked with managing IT projects for spe it services before taking on the task of building up the products and services for a new venture: spe solutions. Later, I managed the initial marketing initiative and media development for spe group.
+
+Highlights:
+
+- spe it services Project Management: Rollout of IT / Telecommunications equipment across Europe for NSC Global 
+- spe solutions Sales: recruiting, training and leading the spe solutions sales team
+- spe solutions New Product Development & Management: Office 365, Desktop Support Service, Server Support, Server Housing, Network Support Service, Swyx Unified Communications, Mailstore
+
+=== Director
+Organization: SixOne Investments (Pty) Ltd T/A Honeycomb Systems
+
+Industry: Diverse (Telecommunications, Retail...)
+
+Location: Johannesburg, South Africa
+
+Date: 2011.11 - 2013.06
+
+Description:
+
+Co-founded a consulting firm with business partners, offering business and software development consulting services while exploring startup opportunities. Managed company setup, tax, accounting, and reporting. Spearheaded sales strategy and new business development initiatives. Actively involved in business consulting services including software development initiatives.
+
+Highlights:
+
+- Jasco: Product Management of ISP / Telecoms Services. Developed a Mobile App MVP for a shopping mall using Mendix
+- AEL Sharepoint Project: Configuration, Development, Powershell Scripting
+- Free-2-Talk (Patented): Developed a working MVP allowing people to call for free, but they had to listen to advertisements as payment (Technologies - Asterisk, Java, MySQL, Linux)
+- VBX Telecoms Turnaround Strategy: Market Research & Strategy Development, Sales Tactics and Process Development, Product Offering Refinement, Operational Process Analysis and Refinement 
+
+=== Product Development Manager
+Organization: Arc Telecoms
+
+Industry: Telecommunications / ISP
+
+Location: Johannesburg, South Africa
+
+Date: 2010.02 - 2011.10
+
+Description:
+
+I was one of the founding members of Arc Telecoms that was bought by Jasco. Initially, I headed up the technical team before being offered the position of Product Manager for ARC Telecoms in mid 2010.
+
+I was subsequently involved in the commercialization, training and implementation of all the products that ARC Telecoms sold. My responsibilities included: Product Strategy, Product and Marketing Collateral Development, Pricing, Stakeholder Management, and Reviewing Customer Feedback.
+
+Highlights:
+
+- Launching a portfolio of products in a short span of time, such as Internet and VOIP Telecommunications Products, Hosting, Business Messaging, to name a few...
+- Project Managed the development and roll out of the Voice & Internet Core Network Infrastructure
+- Setting up SugarCRM and actively being involved in setting up the replacement ERP system: Netsuite
+- Being a part of building a startup that made the front page of the Business Day (South Africa's equivalent to the Financial Times)
+
+=== Technical Leadership, Project Management & Business Consulting
+Organization: Vox Telecom (Vox BizCall)
+
+Industry: Telecommunications
+
+Location: Johannesburg, South Africa
+
+Date: 2006.02 - 2010.01
+
+Description:
+
+I was the first employee at BizCall which was bought by Vox Telecom.  Pioneered the development, debugging, and installation of an Asterisk-based VOIP System integrated with Linux, wildfire, and MySQL tools, catering to diverse clientele including SMEs, Call Centres, and Government agencies. Managed customer relationships throughout installation and production phases. I demonstrated technical leadership by managing a small team of technicians, fostering skill enhancement and task execution while ensuring uptime and efficiency of customer systems within SLAs.
+
+Highlights:
+
+- Pioneering VOIP Telecommunications within South Africa
+- Building a Hosted VOIP Platform
+- SITA Call Centre Project
+- I was asked to assist with the design and implementation of new business processes within Vox BizCall and Vox Telecom Group, contributing to a lean team dedicated to process optimization.
+
+=== IT Engineer
+Organization: Systems Automation & Management
+
+Industry: Automation
+
+Location: Johannesburg, South Africa
+
+Date: 2004.11 - 2006.01
+
+Description:
+
+Managed IT Administration duties encompassing the maintenance and enhancement of internal IT systems, spanning Linux, Windows, file sharing, printing, networking, and security. Concurrently, contributed to Java/.NET internal Business Management System improving its functionality.
+
+Highlights:
+
+- Co-developed a .NET based Steel Manufacturing Scheduling System, aligning with client requirements and optimizing production workflows. 
+
+=== IT Apprentice
+Organization: Leading Edge Business Solutions
+
+Industry: IT
+
+Location: Johannesburg, South Africa
+
+Date: 2003.05 - 2004.10
+
+Description:
+
+During my Master's studies, my interest in Linux led me to pursue a Linux apprenticeship at Leading Edge Business Solutions. Here, I underwent comprehensive training in Linux, participating in Basic, Advanced, and Security workshops. This training equipped me with the skills necessary to administer Mail Servers, Firewalls, Proxy Servers, File Shares, and Web Applications for clients. I had the privilege of being a co-trainer in select Linux workshops, further solidifying my expertise.
+
+Highlights:
+
+- Gained exposure to product development and management, evaluating and testing new open-source applications such as OpenMosix, SQL-Ledger, and JBPM to assess their market potential.
+- Successfully implemented and customized SQL-Ledger for a client, overseeing its configuration and rollout.
+
+== Education
+* Masters of Industrial Engineering (2004)
+* Bachelor of Science in Electrical Engineering (2002)
+* Matriculant IEB (1998)
+
+
+== Skills
+
+=== Coaching
+
+- Leadership
+- Team
+- Personal
+- Organizational
+- Software Craft
+- Facilitation
+- Agile
+- Lean
+- Scaling
+
+=== Product
+
+- Innovation
+- Product Development
+- Product Management
+- Product Vision & Strategy
+- Business Case
+- Roadmap
+- Backlog Management
+- Personas
+- Release Planning
+- Validation, Feedback & Metrics
+
+=== Technical
+
+- Python
+- Linux / Bash
+- Java
+- Web
+- Databases
+- Git
+- Odoo
+- Google Workspace
+- MS 365
+- Jira
+- Confluence
+- Trello
+- Miro
+- Slack
+- Zoom
+- ChatGPT
+- Gemini
+
+=== Languages
+
+- English
+- German
+- Afrikaans
+- French
+- Arabic
+

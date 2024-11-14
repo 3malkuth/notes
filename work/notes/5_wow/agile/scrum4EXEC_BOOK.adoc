@@ -1,0 +1,70 @@
+= Agile Strategic Planning
+
+== Why?
+The modern global business environment is ever changing and increasingly complex. Traditional approaches to strategic planning may work in complicated or obvious environments (Cynefin framework), but they do not hold up in complicated environments where cause and effect relationships can only be ascertained after the event has taken place and illuminating patterns tend to emerge over time.
+
+For over 200 hundred years the one approach that has proven the most effective at tackling complex problems or environments has been the scientific method based on empiricism. If we begin to think like "scientists" instead of "strategists" we are better suited to directing a company through the complexities of the modern business environment. But how would this actually work in real life? Approaching the world with little reliance on what we know and our past experience, and instead formulating our next steps as questions ("hypotheses") whilst coupling these questions with the tiniest possible steps to verification in the real world we can begin to structure our strategic approach along the lines of empiricism.
+
+Companies that become effective and fast at running experiments on the strategic level will ultimately "out learn" their competitors and prevail in their markets.
+
+The current trend is to adopt lean-agile principles and practices to build a structure that encourages experimentation; however, this culture is often only adopted at a developmental or operational level and not throughout the organization and more importantly not on the C-Level where I believe companies have the most to gain from these principles and practices.
+
+This article describes how one can begin to take lean-agile practices and principles and implement them on the strategic level in order to build a structure that has experimentation with validation at its heart.
+
+== Build the Foundation
+Not everything in strategic planning should be changed or thrown out when adopting a lean-agile process. One should still take the time to clearly formulate your mandate, vision, mission, values and principles; however they will be re-visited and validated more often and when it comes to setting goals, defining strategies and action plans we will be adopting a few new methods and practices.
+
+== Defining SMART Goals and Objectives
+It amazes me that one still finds teams and organizations where goals and objectives are defined without making it clear when you have actually achieved them. One of the best ways to check your goal setting is to use the mnemonic acronym: SMART
+* S - Specific (Focused)
+* M - Measureable (Quantify or indicator of progress)
+* A - Assignable (single owner)
+* R - Realistic (what can be realistically achieved with the given resources)
+* Time-related (what is the realistic time frame)
+
+One of the better methods for defining and tracking SMART goals that has been successfully used in companies such as Intel and Google are OKRs.
+
+== Learning your way toward SMART Goals
+Setting goals is one thing, but how do you go about working your way toward your goals empirically, building in learning into the process?
+
+One of the best methods is to integrate the A3 process from Toyota into the execution of the OKR's. Each OKR
+the team agrees to should have an associated A3 linked to it and owned by one of the C-level staff.
+
+**How does it work?**
+At Toyota these are written on a piece of A3 paper, but I would recommend any digital medium.
+
+The main points are the following in an A3:
+
+* **Title**
+** A short description of the OKR
+* **Owner**
+** Single point of responsibility principle
+* **Version / Date**
+** If you don't use a software system to manage versions
+* Background
+** Why is this OKR important
+** Set the context
+* Current State
+** What is the current state of this OKR
+** This should be measureable based on the metrics defined as key results
+* Goals / Targets (OKRs)
+* 
+
+
+
+
+== Bibliography
+* https://en.wikipedia.org/wiki/Cynefin_framework[Cynefin framework]
+* https://en.wikipedia.org/wiki/Empiricism[Empiricism]
+* Managing to Learn: Using the A3 Management Process to Solve Problems, Gain Agreement, Mentor and Lead (John Shook)
+
+== Story
+Blake stepped out onto the balcony for a breath of fresh air. He lent on the railing as looked over the park and into the distance towards the mountains where the sun was in the process of setting. He was processing the last couple of days: the investors had put a lot of pressure on him to get moving on their digital transformation. Up until now it wasn't necessary, they had a good stable base of customers and revenue had been steadily growing year for year since he had taken over in 2008.
+
+But then the epidemic struck and all hello broke loose! They had to quickly get everyone setup to work from home and then one month in just as they were getting settled into the new rhythm, the customers began cancelling their contracts one after the other, even ABC Corp. one of their long oldest customers! They all stated they simply couldn't keep working this way anymore. With the epidemic raging, it was too risky to keep send couriers with the large data files to be analyzed by their engineers. They needed everything to become digital so that employees working from home could carrying on with their jobs.
+
+
+
+called Mac Consulting Group to help him and his team formulate the new strategic plan.
+
+As he looked out over Madison Garden everyone was hurrying to get their Christmas shopping done. 

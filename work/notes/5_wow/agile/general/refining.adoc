@@ -1,0 +1,20 @@
+= Refining
+
+== Refinement Meeting
+* Owner - PO
+* Occurence
+** Daily
+** 15' - 30'
+** After the Daily
+
+== How much refining is enough?
+* Features
+**
+
+* Stories, Tasks, Bugs
+** Refine far enough to be able to do an estimate
+
+
+== Process
+* Description
+* Acceptance Criteria / Tests discussion

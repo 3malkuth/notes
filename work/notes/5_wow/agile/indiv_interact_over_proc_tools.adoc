@@ -1,0 +1,31 @@
+= A3: Individuals & Interactions over Processes & Tools
+
+== Background: Why are we talking about this problem?
+* People are trying to hide behind processes and systems
+* Processes have stifled the ability of the teams to adapt and deliver quickly to changes in the market
+
+== Delta Definition
+=== Current State: Where are we?
+* We currently have an extensive set of processes and tools to manage the development process
+* They include the following:
+** ...
+
+=== Future State: Where do we want to be?
+*   
+
+== Analysis: Why does the gap exist?
+
+=== Theme
+* 
+
+=== Countermeasures: What are our options?
+
+== Act: What's the Plan?
+[ ] What (Who, By When)
+[x] _
+
+== Impact: Review What effect did our actions have?
+* Review metrics in light of Delta
+
+== Learn: What was learned (Retro) & do we need to change standards?
+

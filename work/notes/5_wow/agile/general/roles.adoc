@@ -1,0 +1,23 @@
+= Roles in Agile
+
+== People Manager / Reporting Team Leader
+* Body of knowledge - Beyond Budgeting
+* Scrum Erfolgsfaktor personelle management
+* SM & PO not line managers
+* No targets, but rate improvements
+* Line Manager - career path development
+* Bosch - originally team leads with disc. auth.
+* How to decide if people get a raise
+* Don't touch the pay grade
+* Read "Maverick" - different ways of structuring
+* 360° appraisals
+* Management 3.0
+** Nice game to figure out who should get a raise
+
+== UX
+* UX should probably be done by the PO
+* One could have an outsourced partner that assist the PO?
+* I wouldn't necessarily pay someone to do this full time as an internal role
+
+=== References
+https://medium.com/aperto-an-ibm-company/why-the-death-of-ux-design-is-actually-a-good-thing-23d8b96c71b4[Why the ‘death’ of UX design is actually a good thing]

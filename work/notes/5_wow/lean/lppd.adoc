@@ -1,0 +1,447 @@
+=== LPPD
+* Lean Product & Process Development
+* Don't forget to ask key takeaways each day!
+* READ ARTICLE on A3 for LEARNING
+
+==== Introduction
+
+==== Why LPPD?
+* Focused on creating new customer value
+** Systems optimized to maximize total value
+** Drive top Line Growth
+
+* Design the future value streams to deliver the value at the lowest total cost throughout the product's lifecycle
+** Product Design can determine 70% of your ongoing costs
+** Rather design out waste upfront, than kaizen it out later
+
+==== Focus of lean is FLOW
+* Lean focuses on shortening the time betwene the start and completion of a process by eliminating sources of waste
+* Shorten time from program approval to production launch be reducing waste
+
+==== Product Development Waste
+* 12 Wastes of Product Development
+* Transaction Waste - expense reports on travel etc.
+* Wishful Thinking - Good intentions, rose coloured glasses
+* Sytem Overutilization - Above 80% loading, a process begins to block, jam...
+** Psychology, people always want 100% utilization, but leads to jam
+
+==== Phases of the LPPD Value Stream
+* Diagram
+
+==== Program Agenda (Sessions)
+1. 
+2. 
+3. 
+4. 
+5. 
+
+
+==== LPPD Core Principle
+
+===== 1. People First
+* All about people
+* Keep people in mind in arrow process
+* When a surgeon walks into a operating room...
+** Oh we forgot the scalpal, can you put in a requisition form... we'll get 3 quotes
+
+===== 2. Understanding before Executing
+* Came out of gate slower, but in the long term they were faster
+
+===== 3. Developing Products is a Team Sport
+* Product Dev is great in that you have great people from all over the organization
+** But they need to be aligned
+* *References*
+** https://www.lean.org/lexicon-terms/obeya/
+
+===== 4.Synchronizing Workflows
+* Alignment
+
+===== 5. Building in Learning and Knowledge Reuse
+
+===== 6. Designing the Value Stream
+
+==== Study / Concept Phase
+* Deeply understand how this product creates unique value
+* Ident. & close knowledge gaps - experiment to learn
+* Critical attributes... with a plan
+* Primary Risks... with a plan
+* Align and enroll the team and the organization
+* Plan to deliver in the execution phase
+
+==== Product PPT Case Study
+* Unit Organizer
+
+==== Deeply Understand what your Product Must Be?
+* Go to the Gemba?
+* Write down Observations on observation sheet
+* (Video: Couples building IKEA together)
+** Well
+*** Couples see it as a way to connect and have fun
+**** they did have fun building it
+*** They did make progress
+** Not well
+*** Instructions not clear
+*** Difficult to find parts (visual clarity)
+*** Frustration
+*** Power dynamics
+** General Observations
+*** People started without looking at instructions
+*** Thought they went the wrong way
+**** Not a strong sense of progress
+*** created problems not there to begin with
+* (IKEA says it takes 5 minutes to build its furniture)
+** Well
+*** if you follow the instructions you do get to the goal
+** Not Well
+*** Frustration
+*** Quality 
+*** Promise of IKEA (5') - totally unrealistic
+*** Tooling was not sufficient
+** General Observations
+*** If you made a wrong turn you could completely break the product
+
+* Outcomes
+** Ease of assembly - well formed team or person affay with instructions
+*** Well oiled machine
+** Quality of the outcome
+** Time Cost
+
+* Fun!
+* Are you setting up your customers for failure? - Put people first!
+* Part labeling & blister packs
+* Everyone in the cross-functional team go out together and talk with future customers and dealers
+
+==== Aligning the Organization
+* Concept Paper: Aligning the Organization
+** What the product must be for the customer / user and business
+** Aligned Objectives
+* Written by the Chief Engineer
+** Often more about the key questions and not providing answers
+* "YET" word - better than AND
+** Team feels like they are being setup for failure with "AND"
+** OR - path of least resistance
+* Study Phase is the Kento Phase
+* Saying 50% faster etc. means nothing
+** Value should rather be in values compared to cmopetiton etc. to make value clear
+* Doc Helps guide at the beginning
+* As you go through and design the concept you will go into detail
+* You may get to the end of the study phase you may decide to pull the plug
+
+* Notes
+** Can't move a Chief Engineer into another culture
+
+==== Concept Doc
+* *References*
+** https://www.lean.org/the-lean-post/articles/coachs-corner-understanding-the-value-of-a-concept-paper/
+
+==== Obeya
+* *References*
+** https://www.lean.org/lexicon-terms/obeya/
+** https://www.lean.org/the-lean-post/articles/developing-your-obeya-stage-by-stage/?LeanPostId=765
+
+* *Development through Collaboration*
+** Effective cross-functional collaboration
+** Home-Room
+** Each discipline has a section of the room and maintains its content
+** Stand-up meetings are held with the Chief Engineer / Project Manager & Team
+*** By walking around the room
+** Room evolves as project revolves
+
+* *Collab. in the Study / Concept Phase*
+* What the product needs to be
+** Customer perspectives
+** Business perspectives
+*** Sal. & Mark., Manufac., Prod. Eng.
+* Make the product visible
+** Concept Sketches
+** Prototypes
+
+* *Managing the Work: Right Cadence?*
+** Depends on the needs / phase of the program
+*** Early on less frequent
+*** launch Phase - daily
+** Also what level obeya
+
+* *Obeya Tips*
+** Simple, easy to interpret
+** Info
+*** What do I need to share with others?
+**** You know your work best and what you think others need
+*** What do you need from others?
+**** Other people don't know what you need
+*** Display data to highlight abnormal from normal
+** Visualization of the Product (Mock-Ups, Renderings, Drawings, CAD etc.)
+** Leading Metrics
+** Glide-Paths for Product Metrics
+** Andon in place to flag issues and ask for help
+*** helpful help dpoesn't create new work for the person to address the issue
+** Adjust info and visuals to fit everyone's needs as the program evolves
+
+* *Obeya Room Layout*
+** Provide an example here...
+** You may have several programs in one room if the programs overlap
+** Connect programs / projects where their is overlap / dependencies
+** We want to organize the functions in such a way that the people feel resp. for solving their probelms and not waiting for a manager
+** Not a war room as war rooms are for escalation
+*** We want the soldiers and officers to sort out their own problems
+
+* *Create Flow & Eliminate Waste for Speed to Market*
+1. Understand the Work - Make it visual
+2. Plan the Work - Create Flow & Eliminate Waste
+3. Manage the Work - See abnormal from normal and respond
+
+* *Understanding the Work: Project Flow & Decisions*
+** During the project
+*** Tasks
+*** Deliverables
+*** Decisions
+** tasks and deliverables need to occur, but it is the decisions that ultimately drive the flow of a project
+** Knowing what decisons need to make show us what we need ot learn
+*** ...
+
+* *Design Decision Flow*
+** Why?
+** Understand together the decisions that need to be made across the org. on a given project
+** Identify what we need to learn to make the right decision at the right time
+** Understand together the interdependencies of decisions...
+** ...
+
+* Design Dec. 2
+** understand decisions and cadence needed to enable a continuous flow through early phases of the development cycle
+** Streamline...
+
+* *Design Decision Flow - Part 3*
+** How?
+1. Define
+2. Hierarchy
+3. Cadence
+4. Control
+
+* *Design Decision Flow - Part 4*
+** Swimlanes
+** Around functional areas (PM, Sales, Ind. Eng., Product Eng...)
+** Or around modules
+** Sequence decisions in the approx. order in which they need to be made
+
+* *Design Decision Flow - Part 5*
+** Place decisions on timeline in swimlanes
+
+* *Design Decision Flow - Part 6*
+** Team reviews to analyze decisions in swimlanes
+
+* *Tasks, Decisions*
+** focus on decisions
+
+* *Draw a Design Decision Flow Map*
+** Brainstorm all key product, process and project decisions
+** Sequence the Decisions in the order in which the team beleives the shoudl be made
+*** Diamonds represent decisions
+
+* *Program Manager*
+** How many parts will be in the final packaged kit
+
+* *Sales & Marketing*
+** Arows represent interdependencies
+
+* Every 2 weeks do a retro on the obeya to improve it
+** Kaizen!
+*** Small experiments within larger experiements
+
+* *Obtaining the Knowledge to Mkae Decisions*
+** Eliminate the biggest risk - inadequate knowledge!
+** More knowledge to be discovered than time and resources available
+*** Choose wisely: prioritization, newness, difficulty
+** Shifting from "doing" to "learning" - Use PDCA
+** Rapid learning cycles are synchronized sets of experiments to remove uncertainty, manage risk and build knowledge before key decisions need to be made during a product development project.
+** Either you make xperiement snow or the clock will force you to make a big jump
+
+* *Rapid Learning*
+** identify & prio. what you need to learn to close knowledge gaps to make decisions
+** Create a plan to learn what you need to as fast...
+** ...
+
+* *Key Events in a Rapid Learning Cycle*
+** Image
+
+* *Enablers to Rapid Learning*
+** Parkinson's law we will fill time available
+** More time? Effort? Cost? Learning?
+** What is the granularity of learning we need?
+*** MVP - only as much detail as needed
+
+* *Models for RLC Execution*
+** Can't just let people loose, they need a sctructure (PDCA)
+*** good old scientific method...
+** Decision diamonds linked to rapid learning cycles
+* Now you can add the tasks linked to decisions
+
+* An asteroid is going to hit the earth tomorrow, how are you going to get the answer
+
+
+==== Session 4: Execution Phase
+* *Detailed Execution Phase*
+** Aligned on vision and plan - now time to deliver
+** Execution Matters
+** Speed with Precision (No trade-off!)
+** Transparency and collaboration across the enterprise
+
+* *Create Flow & Elim. Waste for speed & improv. exec.*
+1. Understand the Work - Make it visual
+2. Plan the Work - Create flow and eliminate waste
+3. Manage the Work - See abnormal from normal and respond
+
+* *Traditional Prod. & Process Development*
+** Waterfall!
+*** Rework and churn is increased if we don't regularly deliver
+** Continuous and Concurrent Flow
+*** Get rid of danger if we collaborate and fast feedback
+** Lots of collaboration (think vertical slices)
+** Fast Feedback
+
+* *??*
+
+* *Visual Schedule*
+** Understand, plan, manage the work together
+** Purpose: Simple standards where everyone can see the work and understand the current situation of the project timing and risks
+** Beige - Task / Deliverable
+** Blue Diamond - Milestones
+** Pink - Risks & Concerns
+
+* *??*
+
+* *Leading Indicators*
+** Determine if a project is on-track to meeting its goals (ahead or behind?)
+** Visual - quickly see normal vs abnormal
+** Provide enough time to proactively adjust - new countermeasures ("helpful" help...)
+
+* *Leading Indicators: Operational Readiness Levels*
+** See if Prod / VS Dev activities ar eon track
+
+* *Example: Manufacturing Readiness Levels (MRL)*
+** R&D - Proj. team - Commercialization
+
+* synchronized versus unsynchronized concurrent work
+
+==== Session 5: People First, Case Studies & Next Steps
+
+* *Agenda*
+
+* *Execution Phase Summary*
+* Aligned Vision
+* Execute with speed and precision
+** 
+* Transparency & Collaboration
+** Importance of structured problem solving and not firefighting
+* Concurrently designing the product and value stream
+** DONE DONE
+
+* *Key Takeaways*
+
+* *Respect people, who are central to everything in LPPD*
+** Putting people first
+** Is the way we are using this process empowering and enabling people or hindering?
+*** Structure things in a way that people spend on gaining new knowledge and not on knowledge already gained
+*** Think through the principles like this accordingly
+
+* *Business Results - 1*
+
+* *Business Results - 2*
+
+* *Lean as a socio-technical system - 1*
+** MS = LB x OS (from "Designing the Future")
+** Effectiveness of MS = Leadership Behaviors x Operating System
+
+* *Lean as a socio-technical system -2*
+** Organic
+** Enabling Bureaucracy
+*** What we try to achieve with lean
+** Coercive Bureaucracy
+* Autocratic
+
+* *Lean as a socio-technical system -3*
+** Systems, Processes, Tools -> Business Results
+** Use Obeya as a tool to help people to better understand eahc others work etc.
+** Need to communciate!
+
+* *Lean as a socio-technical system -4*
+** Leadership, Indiv. Behav. and Systems... Biz results drawing
+
+* *Putting People First into Practice*
+** Psychology
+** Maslow's Hierarch of Needs - Safety here is also psychological safety
+*** You need to meet the need at the bottom before you can move onto the next one
+** The Fearless Organization - Psych. Safety Book
+** Lean Tools will not work if there is no psychological safety!!
+*** They won't voice and identify problems
+
+* *Consider a Basic Management System*
+** Andon - signal cord - TL needs to respond with helpful help
+*** If getting yelled at instead of getting help will affect people's needs
+*** Not what you do, but how people feel about what you are doing as a leader
+*** Don't ignore people
+** TL shows up and doesn't know what to do?
+*** Can be helpful, but some people see this as the end of the business
+** I'm not getting blamed for shutting down the line!
+** What we want is worker gets immediate help with helpful help
+
+* *Better Performance through Putting People First*
+** Maslow's top part - self actualization
+** Pink built on the top part of Maslow with "Drive"
+*** Motivation - Purpose, Autonomy, Mastery
+*** Intrinsic Motivation is what you need for creativity, not necessarily other tasks
+** We need efficiencies thats why we are building a bureaucracy, but they need place for their autonomy
+** This is why in Obeya you need to give people a section they own
+
+* *Autonomy, Mastery, and Purpose in Practice*
+** appell.org - full potential in practice
+** https://www.appell.org/2020/09/30/full-potential-in-practice/
+** At some point you max out potetnial for mastery in an area or activity
+
+* *Deliberately Creating the Conditions for Better Performance*
+** Create conditions for people to discuss and fulfill their needs
+*** Psych. Safety
+** Be explicit on how practices enable people to fulfill their needs
+*** PDCA
+
+* *Be explicit and Transparent about Expectations*
+** using obeya
+*** Aut
+*** Mast
+*** Purp
+** What actually happens?
+** How dowe adjust...?
+
+
+* *Be explicit and Transparent about Expectations Andon system expectations*
+** OS
+** Tech Syst
+
+* *People Issues Discussions*
+** Autonomy - Delegation Poker (Management 3.0)
+** Mastery - Obeya helps you to find and give resp. to solve it (A3)
+** Purpose - Concept Doc and visualisation of goals
+** Job Demand (Purpose), Control (Autonomy), Support (Mastery - Skills) Model is similar
+** J example of workers improving change over time on machine to 10'
+** Challenge of chaotic company that says they don't have time or don't see point of putting in structures
+** Read Book with P-51
+** Obeya is not working! Yesit is its hsowing they are not committed and need help
+*** Often people don't realize the impact of their behaviour
+** Obeya gets rid of these monthly death by powerpoint
+** Upper levels want to be engaged but don't know how to be engaged
+
+* *LPPD Approach: Experiments & Learning*
+** Leadership PDCA
+** Pilot, run an experiment
+** A few experiements going on where they can learn from each other
+** Gives you a chance to rion the supportive mech. needed
+** Gives leadership chance to understand their bandwidht for change
+
+* *Examples: Steps for the Pilot Project*
+** A sponsor ro two to get this off the ground
+
+==== References
+* https://www.lean.org/the-lean-post/articles/putting-people-first/
+* http://www.likerleanadvisors.com/
+* https://www.appell.org/2020/09/30/full-potential-in-practice/
+
+

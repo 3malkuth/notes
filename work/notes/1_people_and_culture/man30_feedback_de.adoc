@@ -1,0 +1,93 @@
+=== Mann 30: Feedback
+
+==== Hintergrund
+* Eine Kernaussage aus dem Agilen Manifest
+** Baue Projekte um motivierte Personen herum auf.
+** Gib ihnen das Umfeld und die Unterstützung, die sie brauchen,
+** und vertrauen Sie ihnen, dass sie die Arbeit erledigen.
+
+==== Aktueller Stand: Was oft geschieht...
+* C-Level-Manager geben die strategische Richtung vor
+** Erlauben Sie der Organisation herauszufinden, wie
+* Die mittlere Führungsebene stellt sicher, dass die Teams über das verfügen, was sie brauchen, um die Arbeit so zu erledigen, wie sie es sich vorgenommen haben.
+** Ziel: Abschaffung des mittleren Managements
+** Größere organisatorische Agilität macht diese Rolle überflüssig
+* Teams in effektiven Organisationen brauchen keinen Schutz durch die Organisation
+
+* Die Idee der Leistungsbeurteilung als Feedback basiert auf Command & Control Management
+* Normalerweise kontrollieren Manager Teams durch Boni und Gehaltserhöhungen
+** Behavioristisches Denken
+* Belohnungen geben, um das gewünschte Verhalten zu verstärken, und Menschen bestrafen, indem man ihnen etwas vorenthält oder sie aktiv bestraft, wenn sie sich nicht daran halten.
+
+* Diese Denkweise ist nicht auf autonome, selbstverwaltete Teams abgestimmt!
+** Leistungsbeurteilungen, die nicht mit der agilen Kultur übereinstimmen
+
+* Was sind typische Fragen, die Menschen stellen, die normalerweise "Feedback-Prozesse" einleiten?
+** Wie legen wir Gehälter fest?
+** Wie belohnen wir "Leistungsträger"?
+
+* Gefahren!
+* Lokale Optimierung
+** Lokale Optimierung - die Verbesserung der Leistung eines Teils eines größeren Systems - funktioniert nicht.
+** Das ist ein Grundprinzip der Theory of Constraints (beschrieben in The Goal und The Phoenix Project - beides Pflichtlektüre).
+* Systemische Sichtweise
+** Auf Teamebene kommt es auf die Geschwindigkeit des gesamten Teams an!
+** Top-Performer neigen dazu, das Team zu verlangsamen, weil die anderen darauf warten, dass diese Person kritische Arbeiten abschließt, bevor sie mit ihrer eigenen Arbeit weitermachen können.
+** Diese Personen werden zu Engpässen, die das Team (System) ausbremsen.
+** Die Geschwindigkeit des Systems kann nicht höher sein als die des Engpasses
+
+* Leistungsschwache Mitarbeiter?
+** Tech-Firmen stellen keine ungebildeten, unmotivierten, leistungsschwachen Mitarbeiter ein.
+** "Minderleistung" ist nicht inhärent
+** Diese Probleme werden gelöst durch...
+*** Ausbildung
+*** Junioren" dazu bringen, an anspruchsvollen Aufgaben zu arbeiten
+** Nicht durch!
+*** Bestrafung von Mitarbeitern
+*** Niedrige Boni
+*** Lohnkürzungen
+** Das Team weiß...
+*** wer Hilfe braucht
+** Individuelle Beurteilungen sind unnötig!
+
+* Was tun mit Talenten?
+** Mentor
+** Unterrichten
+** Belohnen Sie das gesamte Team, motivieren Sie Leistungsträger, dem Team zu helfen, besser zu werden
+** Sonst
+*** Wettbewerbliches Umfeld
+*** Silos (lokale Optimierung)
+*** Top-Performer werden ihr Territorium bewachen
+
+==== Optionen / Werkzeuge
+* Spotify-Modell
+** Erstellen Sie gemeinsam eine Matrix von Kriterien
+*** (Vom CEO bis zum Praktikanten)
+** Füllen Sie Ihre Matrix für sich selbst aus
+** Team überprüft und passt gemeinsam an
+** Wenn Sie eine Top-Punktzahl erreichen, können Sie ein Top-Gehalt erhalten
+** Die niedrigsten Gehälter richten sich danach, was ein Mitbewerber zahlen würde, um Sie zu sich zu holen.
+
+* Wenn Sie müssen... (Beibehaltung des alten Ansatzes)
+** Wenn Sie immer noch eine Managementstruktur und eine Unternehmenskultur haben, die konservativer und weniger anfällig für Veränderungen ist,
+*** könnte man sich auf Feedback als kontinuierlichen Prozess konzentrieren...
+**** im Kontext des gesamten Teams, bei dem davon ausgegangen wird, dass der Manager "hands on" ist und täglich mit dem/den Team(s) arbeitet
+** Was ist das Problem bei diesem Ansatz?
+*** Der Einzelne ist nicht perfekt und die Belohnung des Einzelnen untergräbt letztlich die Effektivität des Teams.
+
+* Lob-Sandwich
+** Etwas an der Person, die Sie ansprechen, loben (positives Feedback)
+** Auf Verhaltensweisen oder Ergebnisse hinweisen, die verbessert werden müssen (negatives Feedback)
+** Gefolgt von einer weiteren freundlichen Nachricht, um das Ganze abzurunden (positives Feedback)
+** Verwenden Sie dies lieber nicht...
+**** Menschen mögen das Lob-Sandwich nicht, weil sie das Gefühl haben, dass...
+***** Wertvolles Feedback muss nicht zwischen zwei unaufrichtigen Komplimenten angeboten werden
+***** Und die Medizin in der Mitte kann unbemerkt bleiben, wenn sich die Person nur auf das gegebene Lob konzentriert
+
+* Feedback Wrap
+** Beschreiben Sie Ihren Kontext
+** Listen Sie Ihre Beobachtungen auf
+** Drücken Sie Ihre Gefühle aus
+** Erläutern Sie das Ziel / den Wert der von Ihnen gewünschten Veränderung
+** Bieten Sie einige Vorschläge an, wie dieses Ziel erreicht werden könnte
+

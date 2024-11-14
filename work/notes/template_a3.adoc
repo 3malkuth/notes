@@ -1,0 +1,28 @@
+= A3: TITLE (OWNER)
+
+== Background: Why are we talking about this problem?
+* 
+
+== Delta Definition
+=== Current State: Where are we?
+*_
+
+=== Future State: Where do we want to be?
+* _
+
+== Analysis: Why does the gap exist?
+
+=== Theme
+* 
+
+=== Countermeasures: What are our options?
+
+== Act: What's the Plan?
+[ ] What (Who, By When)
+[x] _
+
+== Impact: Review What effect did our actions have?
+* Review metrics in light of Delta
+
+== Learn: What was learned (Retro) & do we need to change standards?
+

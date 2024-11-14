@@ -1,0 +1,37 @@
+== Service Providers
+
+=== Odoo
+
+Emina Mehic (emme)
+
+emme@odoo.com
++32 2 616 87 56
+https://www.odoo.com/de_DE/calendar/view/1969383bf71749f78674bb2686a0a5aa?partner_id=6264443&state=new&date_time=2023-12-14+16%3A00%3A00&duration=1.0&staff_user_id=3015047
+
+Wann:
+Do. 14.12.2023, 16:00:00 (Zeitzone: Europe/Berlin)
+
+Dauer:
+1 Stunde
+
+So nehmen Sie teil:
+Über Odoo Dialog teilnehmen
+https://www.odoo.com/calendar/join_videocall/1969383bf71749f78674bb2686a0a5aa
+
+Ort:
+Online
+
+Teilnehmer:
+
+AB 
+Emina Mehic (emme) 
+
+Details:
+
+Mobil: +4917682463694
+E-Mail: 3oden@proton.me
+Name Ihres Unternehmens: klose brothers GmbH
+Anzahl der Mitarbeiter: 35
+Was ist Ihre Geschäftsaktivität? : Other/General Business Specialist
+Haben Sie Entwickler, die mit Python vertraut sind?: yes
+Haben Sie Odoo bereits implementiert?: yes

@@ -1,0 +1,3 @@
+= Confidence Voting
+
+* https://www.caroli.org/en/confidence-voting/[Caroli Article]

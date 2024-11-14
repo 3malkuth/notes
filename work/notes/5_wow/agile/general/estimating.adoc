@@ -1,0 +1,34 @@
+= Estimating
+
+* But I thought we don't estimate in agile...
+** We do
+** However, we don't fix the scope of our estimates
+** Time, Cost, Quality (Definition of Done) are fixed in Scrum
+** Only scope is not
+** However through our velocity and as we improve our estimating, our estimates get better and better over time empirically
+
+== Problems when we don't estimate
+* Often teams tend to over-commit when they have no data to track their capaciyt as a team
+
+== Anti-patterns
+* Do not create several estimating units e.g. User Story Points, Feature Story Points, Initiative Story Points...
+
+== Estimating at Scale
+* https://www.youtube.com/watch?v=502ILHjX9EE
+=== Baseline Value of Story Points?
+* Find a clever approach to baselining that isn't direct...
+** Have a standard estimate system - same pictures for a 1,2,3...
+** You can have the same baseline stories for all teams
+* You could also get all teams to estimate together
+
+== Sizes
+* Tasks should not be estimated in time
+** Tasks defined should be between half day and one day in size - no need to make a time estimate
+* Stories should be split smaller as they bubble up the backlog priority
+* Typical team of 5 developers should get about 15 Stories done per sprint.
+** Thus Stories should be about 1 - 3 SP's
+
+== Bucket Estimation
+* Setup a Visual Fibonacci Scale (1,2,3,5,8,13)
+* First everyone QUIETLY
+

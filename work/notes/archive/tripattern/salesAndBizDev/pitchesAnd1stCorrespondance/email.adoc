@@ -1,0 +1,15 @@
+= Email
+
+== Starter Line
+* English
+----
+I trust you are well?
+I trust you are doing well and that your healthy?
+----
+* Deutsch
+----
+ich hoffe, es geht Ihnen gut und Sie sind gesund?
+ich hoffe, es geht dir gut und du hattest einen schönen Urlaub!
+ich hoffe, es geht dir gut und du bist gesund!
+ich hoffe, es geht Dir gut.
+----

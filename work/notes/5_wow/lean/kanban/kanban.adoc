@@ -1,0 +1,33 @@
+= Kanban
+
+== Problem
+These are a few problems that using the kanban tool can help to solve
+Too much work in progress
+Team is not good at managing their own work, and commitments
+Lack of transparency into what everyone in a team or group is working on
+Stakeholders aren’t clear as to what they are getting from a group or team
+Perhaps a lack of trust in a team or group
+Lack of alignment in a team
+Team does not work as a team
+Work is pushed instead of pulled through the business / system
+Bottlenecking Delay - Work Items get stuck in different parts of the company and don’t flow consistently through the value stream(s) of the organization
+Value Streams are unstable and inconsistent - You can’t tell if similar items will take one day or one month to get finished
+
+== Goals
+Use kanban to grow or assist teams or groups in:
+Flow
+Stable, Consistent delivery of value throughout the team, group or organization
+Self Organization
+Self Responsibility
+Alignment
+Transparent Working Methods
+Communication
+Focus and limiting Work-In-Progress
+Stop starting and start finishing
+
+== What is “kanban”?
+A kanban system is a system where an “Item of Work” (IOW) is symbolized by a card that is placed on a board with several columns that signify the state of the IOW.
+
+== Important Notes
+=== Columns Prioritized from Bottom to Top
+The most important item that should be pulled into the next stage should always reside at the top of the previous column.

@@ -1,0 +1,8 @@
+== Team Kanban
+
+[cols="1,1,1", options="header"]
+|===
+|Name | Description | Link
+| Bob | "This is Bob's profile" | link:overview.adoc[]
+|===
+

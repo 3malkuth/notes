@@ -1,0 +1,39 @@
+= Preparing PBIs With ATDD & 3 Amigos
+
+== Howto
+
+=== Start
+* PO captures the use case in a PBI
+
+=== Standup 1
+* PO informs the team in the next Standup that he has a new PBI to refine with the Team
+** Alternative is that when the PBI is moved into the "Refine" column it is a signal that it needs to be refined, when team is ready to pull they setup a short meeting - Pull concept
+* PO asks for a “3 Amigo’s” session after the Standup
+* The Team decides who of the Testers & Dev’s will be in 3-Amigo’s Session
+** Can also make it 4-Amigo's and include UX / Design?
+
+=== 3 Amigo’s Refinement
+* In the 3-Amigo’s Session the following happens:
+* PO discusses the use case
+* The group discussion
+** Discussion should be focused on drawing out the acceptance criteria
+* Once the stakeholder expectations are understood, begin to formalize the acceptance tests (natural language)
+* Distill Tests in a Framework-Friendly Format
+* Add extra test for technical debt where we can make add good refactorings
+
+=== Standup 2
+* PO informs team of the PBI refinement and asks for feedback
+* Encourages the team to check PBI during the day and provide feedback
+
+=== Team Refinement
+* Everyone familiar with PBI so they do a final sanity check and add estimates where necessary for the PBI
+* Can discuss a PBI within 3’ - 5’
+
+== Benefits
+* Smaller steps and regular refinement
+* Testers can pair on the test they helped to define (timeboxed)
+* Less ping-pong with QA
+
+== References
+* https://testobsessed.com/wp-content/uploads/2011/04/atddexample.pdf[ATDD Example]
+

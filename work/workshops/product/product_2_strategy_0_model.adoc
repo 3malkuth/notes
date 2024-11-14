@@ -1,0 +1,31 @@
+== Product Strategy
+
+
+=== Model
+* Target Group
+* Needs
+* Product
+* Business Goals
+* Competitors
+* Revenue Streams
+* Cost Factors
+* Channels
+
+=== Checklist
+
+Roger Martin's key choices in the Strategy Choice Cascade
+
+* What is our winning aspiration?
+** Product Vision
+* Where will we play?
+** Target Group
+* How will we win where we have chosen to play?
+** Business Goals
+* What capabilities must be in place to win?
+** Product, Cost Factors, Revenue Streams, Channels
+* What management systems are required to ensure the capabilities are in place?
+** Business Goals
+
+=== References*
+* https://www.romanpichler.com/blog/product-vision-board-checklist/[Product Vision Board Checklist]
+

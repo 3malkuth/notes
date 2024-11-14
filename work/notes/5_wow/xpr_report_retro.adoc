@@ -1,0 +1,61 @@
+=== Retro - Experience Report
+
+==== Introduction
+I have facilitated retros with various teams where I have encouraged them to follow scientific thinking in their approach to their retrospectives (retros).
+This report details the process I have implemented to entrench this way of thinking in the retro process of various teams.
+
+==== Background
+In the past I was unhappy with the effectiveness of the retros of the teams I was coaching.
+Though there were good discussions, I often found that the follow up action items were poorly defined and not well executed and one had no real understanding of the impact these activities were having.
+I realized that the retros lacked the rigour one would expect of people who say they are committed to the "scientific method" as part of their work process.
+Or, at least thos who say they are commited to qualitative processes such as PDCA.
+
+==== Objectives
+I wanted to create a structure that would guide teams through the scientific method as a part of their retro process.
+The outcome of the retro would be SMART goals and countermeasures for continuous improvement.
+Though these would be hypotheses, the team(s) would track how effective our countermeasures were against the goals set.
+
+==== Activities
+I created a template for Miro and Confluence Whiteboard which formed the basis for the retros.
+They included the following sections:
+
+* Check-In (Team happiness, Fun Activity)
+* Review Previous Retro Tasks & Learnings
+* Review Metrics & Improvement Progress or lack thereof
+* Set Improvement Goals & Analyse Root Causes
+* Define Countermeasures
+
+I made this a standard template that the teams followed through as part of their retros
+
+==== Challenges
+* It was a challenge to get teams to:
+** Focus on defining countermeasures for impact
+** Follow through on their commitments to deliver their countermeasures
+** To get the teams to work at a problem over a longer period of time e.g. one quarter
+
+==== Results and Outcomes
+* Step by step the teams used the template to run their retros.
+* They became more adept at using data to track their progress and to understand where the issues were in their ways of working 
+
+==== Lessons Learned
+* Ensure that the teams plan their improvement tasks into their next sprints
+** This means they need to estimate and prioritize them like any other PBI
+* The team should be allowed to commit 10 - 25% of their capacitx to continuous improvement
+
+==== Best Practices
+* Make sure that the retro takes place in regular intervals based on the cadence of the sprint
+* Ensure that a collaborative visual system is used to run the retro e.g. a white baord with poist-its or a digitial equivalent such as Miro
+* Though the general flow stays the same form one retro to the next, mix up the analysis part using different retro tools to encourage different prespectives and to keep the discussions engaging.
+
+==== Recommendations
+* I would definitely recommend this format for retros for your teams if you want to ensure that they focus on measureable, continuous improvements
+* I would recommend that the teams use OKRs to define improvement goals they canwork on over the length of a quarter.
+
+==== Conclusion
+This experience report demonstrated how to use scientific thinking for retrospectives held with a group of teams.
+It has shown that using scientific thinking as a model for retros helps to ensure 
+
+==== Acknowledgements
+* The Team I worked with on their DoD
+* All those who have coached me over the years
+

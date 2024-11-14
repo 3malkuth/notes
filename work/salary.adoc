@@ -1,0 +1,12 @@
+= Salary
+
+* 35 Hour Week
+** €6387.50 per Month Brutto
+** €76650.00 per Year Brutto
+** Excluding Extras such as Summer / Christmas Bonuses
+
+* 40 Hour Week
+** €7300.00 per Month Brutto
+** €87600.00 per Year Brutto
+** Excluding Extras such as Summer / Christmas Bonuses
+

@@ -1,0 +1,17 @@
+= Sales
+
+== Job Portals
+* https://de.indeed.com[indeed.com]
+* https://www.freelancermap.de[freelancermap.de]
+* https://www.stepstone.de[stepstone.de]
+* https://www.google.de/search?q=agile+coach&ibp=htl;jobs&rciv=jb&clksrc=alertsemail&hl=en&gl=DE#fpstate=tldetail&htichips=date_posted:range_2020-09-30&htiq=agile+coach&htischips=date_posted;range_2020-09-30&htivrt=jobs&htitab=alert&htidocid=27j4GGMgETW2NKGaAAAAAA%3D%3D[google job alerts]
+* https://www.freelance.de[freelance.de]
+* https://www.freelancer.com/[freelancer.com]
+* https://www.fiverr.com/[fiverr.com]
+* https://www.gulp.de[gulp.de]
+* https://de.jobrapido.com[jobrapido.de]
+* https://mvpfactory.co/[mvpfactory.co]
+* https://ecas.ec.europa.eu/cas/oauth2/authorize?client_id=2kAMiBKVhNNv5Z1prCLSN8MvMKLOvt2lWcRhkzWFjJGhnC14ODTMd7aKnS0gtceZXhKVEeFXrgj95zqckkVF7E-Jj71zxYb8yrKQaSDgC0k5O&redirect_uri=https%3A%2F%2Fec.europa.eu%2Finfo%2Ffunding-tenders%2Fopportunities%2Fportal%2F&response_type=id_token&scope=openid%20email%20profile&state=3a5594504cb64c6fbe8c41a27785308a&nonce=51a53f7bc97c4a569ad4d924dc8c899e&req_cnf=eyJrdHkiOiJFQyIsImNydiI6IlAtMjU2IiwieCI6IkI4ZmRscVVHTmhtSTcyc2s0MjNEazVVRjFiZ1VmbU1OWXQ2aEJ4SXA4YWMiLCJ5IjoiNnJoamRvTkh5WjJwNDVRd0p5OXpOWHFZZ2YwZDJ2eUY0MlRDb191YnFzdyJ9&versioned_uid_required=true[EU]
+
+== Tools
+* https://software.index.de/index-anzeigendaten/[Database that provides the best job postings for the search criteria you provide from various top job portals]

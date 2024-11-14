@@ -1,0 +1,36 @@
+= scrcpy
+
+== Note
+* Android SDK Folder
+** /home/satv/Android/Sdk
+
+== Install
+----
+# Allow developer mode on phone
+# First install Android Studio with Android 9 SDK
+# Check out the medium article below, but install scrcpy from apt not source
+sudo apt install scrcpy
+----
+
+== Usage
+* Simple USB Connection
+----
+adb kill-server
+adb usb
+scrcpy --stay-awake
+----
+* Dex Setup with Dummy HDMI
+----
+adb kill-server
+adb usb # Allow it access to your phone
+# adb shell # then exit
+# adb tcpip 5555
+# adb connect IPADDRESS:5555
+scrcpy --display 2 --bit-rate 32M --window-title 'DexOnLinux' --turn-screen-off --stay-awake
+----
+
+== References
+* https://github.com/Genymobile/scrcpy/blob/master/README.md[scrcpy Github Repo]
+* https://medium.com/@KeithIMyers/dexonlinux-dexonchromeos-how-to-no-root-577a2e892b68[DEX on linux medium article]
+* https://developer.android.com/studio/command-line/adb#Enabling[adb]
+* https://optocrypto.com/enable-disable-adb-via-wifi-android-without-root-root/[adb enable / disable wifi]

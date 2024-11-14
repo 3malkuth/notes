@@ -1,0 +1,4 @@
+= Privacy and Freedom
+* People need to know they can have full privacy of their data
+* Perhaps governments should provide people with insight on how to keep their data safe and what online systems can ensure that etc.
+* We need to build an industry in Germany that is commited to producinig software products that aim at securing the privacy of the data of its citizens and ensuring open innovation digital ecosystems so that people can easily create and enhance digital systems / processes etc.

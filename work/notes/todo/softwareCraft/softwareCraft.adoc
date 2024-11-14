@@ -1,0 +1,9 @@
+= Software Craft
+
+* https://lamak-qaizar.medium.com/a-week-of-learning-agile-development-1975062b3b97
+
+== Meetups
+* https://virtualddd.com/sessions/
+
+== References
+* https://www.youtube.com/watch?v=3gib0hKYjB0&amp;feature=youtu.be[Continued Learning: The Beauty of Maintenance - Kent Beck - DDD Europe 2020]

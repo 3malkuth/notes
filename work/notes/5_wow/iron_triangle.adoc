@@ -1,0 +1,13 @@
+=== Iron Triangle
+
+==== Introduction
+The iron triangle comes out of the world of project management.
+* 4 Variables
+** Scope
+** Resources
+** Time Schedule
+** Quality
+
+==== References
+ 
+

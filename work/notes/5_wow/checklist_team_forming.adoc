@@ -1,0 +1,81 @@
+=== Team Forming Checklist
+* As a basis we use the 4C's framework
+
+==== Identity, People & Culture
+Who are we individually and as a team
+Organizational Values & Principles recap
+Agile Manifesto
+Scrum Values
+Team specific values & principles
+
+==== Purpose & Strategy
+Why does our team exist
+Product Vision, OKRs & Strategy
+Product Roadmap
+Setting Sprint Goals
+_Product & Sprint Backlog_
+Refining the Roadmap into small INVEST Stories
+Accounting for Improvement Tasks & Bugs
+Estimating
+Acceptance Criteria
+
+==== Roles & Responsibilities
+Product Owner / Manager / Leader
+Engineering Manager / Squad lead
+Developer
+Agile Coach / Scrum Master
+
+==== People
+Personal "Ways of Working Canvas"
+Non-Violent Communication & Successful Confrontations
+Personal & Team Motivators
+Consensing
+Psychological Safety
+5 Dysfunctuions of a Team
+Career Development
+_Metrics_
+Team Happiness
+Team Morale
+Employee Engagement
+Team NPS
+
+==== Ways of Working
+_Different Forms of Agile Processes_
+XP
+Scrum
+Kanban
+_Quality & Collaboration_
+Definition of Ready
+Definition of Done
+Swarming - Pair / Ensemble Work
+_Events_
+Refinement
+Planning
+Standups
+Reviews
+Retros
+_Kaizen (Continuous Improvement)_
+PDCA Basics
+A3 Thinking
+_Metrics_
+Burndown
+Velocity
+_Working with the rest of the Organization & Vendors_
+Handling Dependencies
+Agile Contracts & Collaboration with Vendors
+
+==== Craft
+_Test First_
+TDD
+ATDD
+Testing Hat
+Automated Tests
+Small Increments
+Continuous Integration
+Continuous Delivery
+Clean Code
+Agile Architecture
+_Metrics_
+DORA
+Sonarqube
+

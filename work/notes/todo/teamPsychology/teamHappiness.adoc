@@ -1,0 +1,8 @@
+= Team Happiness
+
+== Team NPS - eNPS
+* How likely are you to recommend your team to your closest family and friends?
+
+== Team Happiness
+* Ask every Retro from a scale of 1 - 5 how happy is each team member
+* Track the average? over time to see the trend of happiness in the team

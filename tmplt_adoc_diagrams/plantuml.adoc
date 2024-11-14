@@ -1,0 +1,49 @@
+== Plantuml Diagrams
+
+=== Plantuml code
+
+*Note*
+
+* In order for the following to work you need to setup
+** You need to install `sudo gem install asciidoctor asciidoctor-pdf asciidoctor-diagram`
+
+[code]
+....
+@startuml
+Anna -> Joe: First Authentication Request
+Joe --> Anna: First Authentication Response
+
+Anna -> Joe: Another authentication Request
+Anna <-- Joe: Another authentication Response
+@enduml
+....
+
+=== Plantuml diagram inline
+
+[plantuml, target="first_steps", format="svg", align="center", scaledwidth="70%", theme="carbon-gray", role="diagrams"]
+....
+@startuml
+Anna -> Joe: First Authentication Request
+Joe --> Anna: First Authentication Response
+
+Anna -> Joe: Another authentication Request
+Anna <-- Joe: Another authentication Response
+@enduml
+....
+
+=== Plantuml diagram included from a file
+
+
+//[.diagrams]#hello world#
+
+.hello world
+[plantuml, target="hello_world", format="svg", align="center", theme="black-knight"]
+//[plantuml, target="hello_world", format="svg", align="center", theme="black-knight", role="thumb"]
+....
+include::puml_hello_world.puml[]
+....
+
+OR...
+
+plantuml::puml_hello_world.puml[target="hello_world", format="svg", align="center", theme="black-knight"]
+

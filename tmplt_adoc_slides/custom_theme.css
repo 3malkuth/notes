@@ -1,0 +1,17 @@
+/* custom-theme.css */
+.slide1 {
+    background-image: url('https://unsplash.com/photos/98o9htjuih0/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MjB8fGVsZXBoYW50fGVufDB8fHx8MTczMTIyNzg2Mnww&w=1920');
+    background-size: cover; /* or contain */
+    background-repeat: no-repeat;
+    padding: 20px; /* Add padding if needed */
+    color: white; /* Change text color for better visibility */
+}
+
+
+.slide2 {
+    background-image: url('https://unsplash.com/photos/98o9htjuih0/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MjB8fGVsZXBoYW50fGVufDB8fHx8MTczMTIyNzg2Mnww&w=1920');
+    background-size: cover; /* or contain */
+    background-repeat: no-repeat;
+    padding: 20px; /* Add padding if needed */
+    color: white; /* Change text color for better visibility */
+}

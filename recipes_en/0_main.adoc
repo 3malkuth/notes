@@ -1,0 +1,20 @@
+= Recipes: For a healthy lifestyle
+:pdf-title-page:
+:authors: Aryeh Judah
+:doctype: book
+:toc:
+:toc-title: Table of Contents
+:toclevels: 2
+
+== Soups / Broths / Stews
+
+== Meat
+
+== Fish
+
+include::salmon.adoc[]
+
+== Any Time
+
+include::eggs.adoc[]
+

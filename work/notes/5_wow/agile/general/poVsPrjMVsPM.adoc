@@ -1,0 +1,7 @@
+= PO vs. PjM vs. PM
+
+== Why PO can't also be a PjM
+* PjM works well in 
+
+=== References
+* https://brainhub.eu/blog/difference-between-product-owner-project-manager/[The Difference Between a Product Owner and a Project Manager]

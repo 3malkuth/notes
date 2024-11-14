@@ -1,0 +1,6 @@
+= Taxation
+* Taxation should not exceed 10%
+** This means that anything else should be done by private entities if a service is required
+* Taxation reduction should be used to support desired behaviour
+** Anti-Pattern - use taxation to punish
+** Example Children: Pay them pocket money for doing the right things, not reduce pocket money for doing things wrong

@@ -1,0 +1,40 @@
+= Approaches to Sales
+
+== Hunter (Push)
+=== Do your Research
+* Seek out potential leads using:
+** Your Network
+** Searching the Internet
+** Mailing lists form Job Portals
+* Make sure you take the time to understand the company and its challenges
+=== Identify Decision Makers
+* Look for the decision makers on LinkedIn or Xing
+** Look for those who would be interested in the product or service you are selling
+** Try and contact them on the SM Platform
+*** Remeber you can put a link to more information in the contact message
+** Alternatively, try to phone them
+** Maybe see if you know which Meetups they are a part of...
+
+=== Develop Material
+* Email Pitch
+* Success Stories for specific services / product offerings
+* References / Testimonials
+* Presentation - General
+* Presentation per Product / Service
+* Factsheet per Product / Service
+
+== Farmer (Pull)
+* Identify your market
+* Find out where they "live" on the Inetrnet and Meetups etc.
+* Begin marketing through these channels and in these places
+* Have a system in place for converting incoming leads to sales
+
+== Coaches
+* https://www.digital-business.net/
+
+== References
+* https://personalmba.com/sales/[Personal MBA - Sales]
+* The Psychology of Selling (Brian Tracey)
+** https://blog.hubspot.com/sales/the-psychology-of-selling[A 10-Minute Summary of "The Psychology of Selling" by Brian Tracy]
+* https://www.linkedin.com/posts/founders-foundation-ggmbh_ghosted-b2b-sales-activity-6710080720661975040-lgSM/[Mistake many B2B Sales People make]
+* https://www.atlassian.com/blog/leadership/building-business-relationships-virtually?utm_source=newsletter-email&utm_medium=email&utm_campaign=work-life-blog-oct-28-2020_EML-7777&jobid=104839315&subid=1585505035[The new rules of building business relationships]

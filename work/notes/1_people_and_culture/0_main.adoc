@@ -1,0 +1,14 @@
+== Doing the Ground Work
+
+> Prepare your work outside,
+>   and get your fields ready.
+>   Afterwards, build your house.
+> -- Proverbs 24:27 WEB
+
+One of the mistakes I have made many times is to begin to introduce new ideas and tools without first ensuring the people I am working with have the necessary foundations in place (culture, mindset, ways of thinking, wineskin etc. to carry the changes I want to make.
+
+This is why I don't jump straight into the section on strategy and purpose and begin by making sure that we are aligned around values and associated principles.
+
+include::culture_of_honour.adoc[]
+
+include::../6_people/powerful_people.adoc[]

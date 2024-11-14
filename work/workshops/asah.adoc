@@ -1,0 +1,126 @@
+= ASAH - WORKSHOPS
+
+== Importnat Information
+=== Paradigms as basis for training
+* Training from the back of the room
+* Project Zero
+* Bloom's Taxonomy
+
+=== Coach Sites
+* intro.co
+* meander.so
+* coachhub.com
+* REMIND
+
+== Culture & People
+* Form organization culture
+* Identity
+* Healthy Business Relationships
+* Conflicts
+
+== Strategy & Purpose
+* Start with Why
+* OKRs
+* Wardley Mapping
+* personal_strategy - find your core values timeline, cluster under 5 themes, why so stressed?
+
+== Leadership
+* The 7 cultures / values you need in order for your organization to thrive
+** Faith & Hope
+** Trust & Responsibility
+** Healthy Confrontations & Forgiveness
+
+* management_reformed
+** Man 3.0 Themes
+* Servant Leader
+* Trust Culture
+** Trust Metric / Survey
+* Relationism
+
+== General Business
+* Composable business
+* Minimalist Business
+* Stewarding your relationships at work
+
+== Product Management
+* product_strategy
+* product_execution
+* LPPD + obeya rooms
+
+== Project Management
+
+== WoW / Process
+* Design Thinking
+* team_flow
+** fastagile.io
+** V Model
+** Tesla's ways of working?
+* scaling_up
+** Tesla's ways of working?
+* collaborative_work
+
+
+
+* Driving change with retros
+
+== Craft
+* Navy Seals
+* TDD
+* CI/CD
+* Clean Code
+** Sonarqube
+** Linting
+* 4 Rules of Simple Design
+* Clean Architecture
+* Refactoring Legacy Code
+* Thoughtworks design principles and tech radar
+
+== Coaching
+* Personality Types
+* Constructive Conflicts
+* GROW
+* Facilitation
+* Mindfulness
+* Greek - Personality vs Hebrew - Gifts??
+
+learning to listen
+learning to be still and hear the Lord
+https://finde-zukunft.de/listening-masterclass
+
+difficult conversations
+https://finde-zukunft.de/events/live-talk-mit-james-r-doty-8wgmk
+
+== TODO
+* Responsibility Process
+* 3D open source based printing company that uses odoo & freecad & AI & PY
+** Print using wood forust.com
+* Sling Bag
+* Art Posters
+* Upgrade my safe cert
+* DW Biz. Ec. Course
+* https://tripattern.odoo.com/web#action=184&active_id=1&model=project.task&view_type=kanban&menu_id=107&cids=1[odoo]
+* Short 1'-3' videos once a month
+* How build up following of 50000?
+* Talk at Agile conferences
+* Create video series of your trainings and provide them online for a fee
+* *Workshops*
+* Leading women in the workplace 
+* Context Switching
+* Agile Srategy
+* Conflict Management Workshop
+* Workshop culture mapping
+* Strategy Workshop
+** MAN3.0 Themes
+** Navy Seals - Self Resp.
+** Resp. Process
+** Forgiveness Process
+** NVC
+** funretros - team building
+* tri - agile 101 workshop
+* tri - product 101 workshop
+* tri - team coaching 101 workshop
+* tri - py
+
+== References
+https://finde-zukunft.de/events
+

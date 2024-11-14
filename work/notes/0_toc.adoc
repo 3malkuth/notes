@@ -1,0 +1,11 @@
+= Work
+
+== Table of Contents
+
+* *Purpose & Strategy*
+** Becoming the future
+** link:strategy_purpose/why.adoc[Start with Why]
+** link:strategy_purpose/agile.adoc[Agile]
+
+* *Leadership*
+** link:leadership/toc.adoc[Leadership]
