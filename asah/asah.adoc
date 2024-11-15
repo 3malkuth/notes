@@ -2,11 +2,32 @@
 * Assuming the start of the year is the start of Spring
 ** March 19,2024
 
-=== CW 33
+=== Autumn
 
+==== CW 33
+* Goals
+** Asciidoc setup pdf docs
+
+* TODO's
+
+==== CW 34
+* Goals
+** Learn MermaidJS
+
+* TODO's
+
+==== CW 35
 * Goals
 ** Send info to ZAR
 
 * TODO's
 
 
+=== Winter
+
+=== CW 50
+* Look at how scrcpy does its install and update with git
+
+=== CW 51
+
+=== CW 52
